@@ -9,7 +9,10 @@ For potential design companies who wish to work with us: Take the files in this 
 3. Tally a cost profile for the changes and prototype manufacture,
 4. Propose further improvements in accessories to have a complete package.
 
-NOTE: For the time-being, only focus on the board itself and not the accessories such as cabling and DIPs.
+Specific details
+
+* The target OS for the new design is <a href="https://debian.org">Debian 11</a> with Linux kernel <a href="https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.14.1.tar.xz">5.14.1</a>.
+* For the time-being, only focus on the board itself and not the accessories such as cabling and DIPs.
 
 ## Source Files
 The source files in this repository have been designed using <a href="http://www.orcad.com/">OrCAD</a>. There is no restriction on the CAD program or programs to carry out the new design.
