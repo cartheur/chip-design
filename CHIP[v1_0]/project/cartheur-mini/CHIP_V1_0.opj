@@ -1,0 +1,58 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[12/03/15]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\chip_v1_0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Layout"
+    (File ".\allegro\chip_v1_0_20220330.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\chip_v1_0_20220330.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (MPSSessionName "Jonathan")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\chip_v1_0.dsn")
+      (Path "Design Resources" ".\chip_v1_0.dsn" "C.H.I.P._v1_0")
+      (Select "Design Resources" ".\chip_v1_0.dsn" "C.H.I.P._v1_0"
+         "01 REVISION HISTORY"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 765"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783")
+        (Scroll "6 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\AME\AIVENTURE\AIVENTURE-CHIP\CADENCE-WORKING\CARTHEUR-MINI\CHIP_V1_0.DSN")
+      (Schematic "C.H.I.P._v1_0")
+      (Page "06 SDIO WIFI&BT"))))
