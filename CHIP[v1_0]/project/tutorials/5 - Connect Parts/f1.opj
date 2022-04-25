@@ -1,0 +1,89 @@
+(ExpressProject "Capture Tutorial"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\cadence\spb_17.2\tools\capture\library\capturetutorial 2.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\capture tutorial.dsn"
+      (Type "Schematic Design")
+      (DisplayName ".\capture tutorial.dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (USB-MicroB
+      (FullPartName "USB-MicroB.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (M06_LOCK
+      (FullPartName "M06_LOCK.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (PIC32MX440F512H
+      (FullPartName "PIC32MX440F512H.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (XTEND-DIGI-MODEM
+      (FullPartName "XTEND-DIGI-MODEM.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0"))
+    (LT1965
+      (FullPartName "LT1965.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPTURETUTORIAL 2.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 355"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1356 78 472")
+        (Scroll "-227 0")
+        (Zoom "80")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\CAPTURE TUTORIAL\VIDEO 5\CAPTURE TUTORIAL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "shannonh")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))

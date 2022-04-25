@@ -1,0 +1,103 @@
+Date and Time : 04/05/18 20:33:32
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections XCVR3 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections XCVR2 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections XCVR1 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections XCVR0 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections XCVR4 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB0 
+                    SCHEMATIC1, PAGE1  (1.30, 3.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB1 
+                    SCHEMATIC1, PAGE1  (1.30, 3.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB2 
+                    SCHEMATIC1, PAGE1  (1.30, 3.80) 
+
+Checking For Unconnected Bus Nets
+
+Reporting Net Names
+    UTX
+    N01559
+    RTS
+    D+
+    3.3V
+    XCVR3
+    XCVR2
+    XCVR1
+    XCVR0
+    RESET
+    XCVR4
+    XCVR[0-4]
+    SHDN
+    GND
+    CTS
+    N01360
+    N01671
+    N01622
+    PROG0
+    N01634
+    URX
+    PROG1
+    D-
+    VBUS
+    PROG[0-1]
+    USB[0-2]
+    USB0
+    USB1
+    USB2
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected PROG1 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected PROG1 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected XCVR[0-4] 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected XCVR[0-4] 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected XCVR[0-4] 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected XCVR[0-4] 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected PROG1 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+WARNING(ORCAP-1595): Two wires/busses of different nets intersect visually, yet nets are not connected PROG1 
+                    SCHEMATIC1, PAGE1  (5.70, 3.60) 
+
+Checking Physical Rules 
+
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: CAPTURE TUTORIAL 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,GND_1  GND_1  GND
+                    SCHEMATIC1, PAGE1  (5.50, 1.60) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
