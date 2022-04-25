@@ -1,4 +1,4 @@
-## CHIP-v1.0
+## The project where we are designing a new chip
 
 This is the starting point of _cartheur-mini_ a take on a new build of the NTC C.H.I.P. including new branding.
 
@@ -11,6 +11,7 @@ This is the starting point of _cartheur-mini_ a take on a new build of the NTC C
 # The source
 The _project_ directory contains the correct <a href="http://www.orcad.com/" target="_blank">OrCAD</a> file. However, it seems to be missing footprints. They are found as a *.lbr file, which is for <a href="https://www.autodesk.com/products/eagle/free-download" target="_blank">Eagle</a>.
 
-There is no linkage between the design files so the DSN file needs to be rebuilt via the OrCad software. The new project is in the subdirectory 'projects/cartheur-mini'.
+In the historic version, there was no linkage between the design files meaning the entire project needed to be rebuilt in OrCad. 
+The new project is in the subdirectory 'novo/cartheur-mini'.
 
 c
