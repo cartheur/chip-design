@@ -1,0 +1,248 @@
+\t (00:00:03) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Apr 09 21:19:44 2018
+\t (00:00:03)         Host=SHANNON-W10LT User=shannonh Pid=12648 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video4_Mechanical Symbols\PCB EDITOR TUTORIAL.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:05) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video4_Mechanical Symbols/PCB EDITOR TUTORIAL.brd
+\i (00:00:05) trapsize 4181
+\i (00:00:05) trapsize 4306
+\i (00:00:05) trapsize 4181
+\i (00:00:05) trapsize 4262
+\i (00:00:05) trapsize 4345
+\i (00:00:06) generaledit 
+\i (00:00:16) new 
+\i (10:30:00) newdrawfillin "menu_cancel"
+\i (10:30:00) generaledit 
+\i (10:33:15) cancel 
+\i (10:33:16) generaledit 
+\i (10:33:31) done 
+\i (10:33:31) place manual 
+\i (10:33:31) setwindow form.plc_manual 
+\i (10:33:31) setwindow form.plc_manual
+\i (10:33:31) FORM plc_manual advanced_settings 
+\i (10:33:31) FORM plc_manual advanced_settings  
+\i (10:33:31) FORM plc_manual library YES 
+\i (10:33:31) FORM plc_manual library YES 
+\i (10:33:32) FORM plc_manual placement_list 
+\i (10:33:32) FORM plc_manual placement_list  
+\i (10:33:32) FORM plc_manual categories Mechanical symbols 
+\i (10:33:32) FORM plc_manual categories Mechanical symbols 
+\i (10:33:32) trapsize 4345
+\i (10:33:35) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\w (10:33:35) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (10:33:35) FORM plc_manual tree  MOUNTING_HOLE1 'Mechanical symbols' 
+\i (10:33:44) setwindow pcb
+\i (10:33:44) pick grid 38.8086 34.4985
+\t (10:33:44) last pick:  39.0000 34.0000
+\i (10:33:44) pick grid dbl 38.8086 34.4116
+\t (10:33:44) last pick:  39.0000 34.0000
+\t (10:33:44) last pick:  39.0000 34.0000
+\i (10:33:44) pick grid 38.8086 34.4116
+\t (10:33:44) last pick:  39.0000 34.0000
+\i (10:33:47) setwindow form.plc_manual
+\i (10:33:47) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (10:33:52) setwindow pcb
+\i (10:33:52) pick grid 39.4169 76.3011
+\t (10:33:52) last pick:  39.0000 76.0000
+\i (10:33:55) setwindow form.plc_manual
+\i (10:33:55) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (10:34:00) setwindow pcb
+\i (10:34:00) pick grid 130.5832 33.9771
+\t (10:34:00) last pick:  131.0000 34.0000
+\i (10:34:02) pick grid 81.2196 82.1240
+\t (10:34:02) last pick:  81.0000 82.0000
+\i (10:34:10) setwindow form.plc_manual
+\i (10:34:10) FORM plc_manual cancel  
+\i (10:34:10) setwindow pcb
+\i (10:34:10) generaledit 
+\i (10:34:16) done 
+\i (10:34:17) place manual 
+\i (10:34:17) setwindow form.plc_manual 
+\i (10:34:17) setwindow form.plc_manual
+\i (10:34:17) FORM plc_manual advanced_settings 
+\i (10:34:17) FORM plc_manual advanced_settings  
+\i (10:34:17) FORM plc_manual library YES 
+\i (10:34:17) FORM plc_manual library YES 
+\i (10:34:17) FORM plc_manual placement_list 
+\i (10:34:17) FORM plc_manual placement_list  
+\i (10:34:17) FORM plc_manual categories Mechanical symbols 
+\i (10:34:17) trapsize 4345
+\i (10:34:19) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (10:34:19) FORM plc_manual tree  MOUNTING_HOLE1 'Mechanical symbols' 
+\i (10:34:21) pick grid 113.2885 73.8677
+\t (10:34:21) last pick:  113.0000 74.0000
+\i (10:34:23) FORM plc_manual done  
+\i (10:34:23) setwindow pcb
+\i (10:34:23) generaledit 
+\i (10:34:27) pick grid 113.8100 75.5190
+\t (10:34:27) last pick:  114.0000 76.0000
+\i (10:34:37) pick grid 115.0267 73.9546
+\t (10:34:37) last pick:  115.0000 74.0000
+\i (10:34:38) prepopup 114.9398 73.8677
+\i (10:34:42) pick grid 101.2084 60.3970
+\t (10:34:42) last pick:  101.0000 60.0000
+\i (10:34:43) pick grid 112.1587 73.1725
+\t (10:34:43) last pick:  112.0000 73.0000
+\i (10:34:43) prepopup 112.1587 73.1725
+\e (10:34:45) Command not found: Del
+\i (10:34:47) delete 
+\t (10:34:47) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:34:47) No valid items selected for the current operation, exiting.
+\i (10:34:47) generaledit 
+\i (10:34:48) pick grid 38.2871 75.5190
+\t (10:34:48) last pick:  38.0000 76.0000
+\i (10:34:49) delete 
+\t (10:34:49) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:34:49) No valid items selected for the current operation, exiting.
+\i (10:34:49) generaledit 
+\i (10:34:49) delete 
+\t (10:34:49) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:34:49) No valid items selected for the current operation, exiting.
+\i (10:34:49) generaledit 
+\i (10:34:50) prepopup 39.2431 76.8226
+\i (10:34:56) generaledit 
+\i (10:34:57) pick grid 39.7645 76.5619
+\t (10:34:57) last pick:  40.0000 77.0000
+\i (10:34:57) prepopup 39.7645 76.5619
+\i (10:35:03) pick grid 37.5919 33.8032
+\t (10:35:03) last pick:  38.0000 34.0000
+\i (10:35:03) prepopup 40.1991 33.8901
+\i (10:35:08) delete 
+\t (10:35:08) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:35:08) No valid items selected for the current operation, exiting.
+\i (10:35:08) generaledit 
+\i (10:35:08) delete 
+\t (10:35:08) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:35:08) No valid items selected for the current operation, exiting.
+\i (10:35:08) generaledit 
+\i (10:35:10) delete 
+\t (10:35:10) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:35:10) No valid items selected for the current operation, exiting.
+\i (10:35:10) generaledit 
+\i (10:35:12) pick grid 93.2128 69.0878
+\t (10:35:12) last pick:  93.0000 69.0000
+\i (10:35:13) pick grid 126.7592 70.9998
+\t (10:35:13) last pick:  127.0000 71.0000
+\i (10:35:14) pick grid 125.1949 70.3045
+\t (10:35:14) last pick:  125.0000 70.0000
+\i (10:35:15) setwindow form.find
+\i (10:35:15) FORM find all_on  
+\i (10:35:15) FORM find all_on  
+\i (10:35:16) FORM find all_on  
+\i (10:35:16) FORM find all_on  
+\i (10:35:17) FORM find all_on  
+\i (10:35:17) setwindow pcb
+\i (10:35:17) pick grid 112.2456 72.9987
+\t (10:35:17) last pick:  112.0000 73.0000
+\i (10:35:18) prepopup 112.9409 73.5201
+\i (10:35:25) pick grid 42.2849 76.2142
+\t (10:35:25) last pick:  42.0000 76.0000
+\i (10:35:25) prepopup 40.2860 76.2142
+\i (10:35:27) pick grid 73.6586 68.4794
+\t (10:35:27) last pick:  74.0000 68.0000
+\i (10:35:29) pick grid 40.6336 74.7368
+\t (10:35:29) last pick:  41.0000 75.0000
+\i (10:35:29) prepopup 40.6336 74.8237
+\i (10:35:34) pick grid 37.5919 74.8237
+\t (10:35:34) last pick:  38.0000 75.0000
+\i (10:35:35) pick grid 37.9395 75.9535
+\t (10:35:35) last pick:  38.0000 76.0000
+\e (10:35:35) Command not found: Del
+\i (10:35:35) prepopup 40.1122 76.1273
+\e (10:35:35) Command not found: Del
+\i (10:35:39) delete 
+\t (10:35:39) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:35:39) No valid items selected for the current operation, exiting.
+\i (10:35:39) generaledit 
+\i (10:35:40) delete 
+\t (10:35:40) Selected item not valid for current operation, ignored: Mechanical Pin "Mounting_Hole1."
+\t (10:35:40) No valid items selected for the current operation, exiting.
+\i (10:35:40) generaledit 
+\i (10:35:43) pick grid 57.3199 39.2784
+\t (10:35:43) last pick:  57.0000 39.0000
+\i (10:35:43) pick grid 57.3199 39.2784
+\t (10:35:43) last pick:  57.0000 39.0000
+\i (10:35:44) undo 
+\i (10:35:44) trapsize 4345
+\i (10:35:44) generaledit 
+\i (10:35:45) undo 
+\i (10:35:45) trapsize 4345
+\i (10:35:45) generaledit 
+\i (10:35:45) undo 
+\i (10:35:45) trapsize 4345
+\i (10:35:45) generaledit 
+\i (10:35:46) undo 
+\i (10:35:46) trapsize 4345
+\i (10:35:46) generaledit 
+\i (10:35:46) undo 
+\i (10:35:46) trapsize 4345
+\i (10:35:46) generaledit 
+\i (10:35:46) undo 
+\i (10:35:46) trapsize 4345
+\i (10:35:46) generaledit 
+\i (10:35:47) undo 
+\i (10:35:47) trapsize 4345
+\i (10:35:47) generaledit 
+\i (10:35:47) undo 
+\i (10:35:47) trapsize 4345
+\i (10:35:47) generaledit 
+\i (10:35:48) undo 
+\i (10:35:48) generaledit 
+\i (10:35:48) undo 
+\i (10:35:48) generaledit 
+\i (10:35:48) undo 
+\i (10:35:48) generaledit 
+\i (10:35:49) undo 
+\i (10:35:49) generaledit 
+\i (10:35:49) undo 
+\i (10:35:49) generaledit 
+\i (10:35:51) pick grid 67.9227 68.3056
+\t (10:35:51) last pick:  68.0000 68.0000
+\i (10:36:01) pick grid 95.4724 74.2154
+\t (10:36:01) last pick:  95.0000 74.0000
+\i (10:36:01) pick grid 120.3281 74.3892
+\t (10:36:01) last pick:  120.0000 74.0000
+\i (10:36:02) pick grid 103.2072 52.7491
+\t (10:36:02) last pick:  103.0000 53.0000
+\i (10:36:05) delete 
+\i (10:36:07) delete 
+\i (10:36:09) pick grid 44.8921 35.8021
+\t (10:36:09) last pick:  45.0000 36.0000
+\i (10:36:16) setwindow form.find
+\i (10:36:16) FORM find all_on  
+\i (10:36:16) FORM find all_on  
+\i (10:36:23) setwindow pcb
+\i (10:36:23) placementedit 
+\i (10:36:25) pick grid 40.2860 73.8677
+\t (10:36:25) last pick:  40.0000 74.0000
+\i (10:36:25) move 
+\t (10:36:25) last pick:  39.0000 76.0000
+\t (10:36:25) Pick new location for the element(s).
+\i (10:36:26) prepopup 42.1111 72.9117
+\i (10:36:35) pick grid 46.3695 69.5223
+\t (10:36:35) last pick:  46.0000 70.0000
+\i (10:36:35) placementedit 
+\i (10:36:38) delete 
+\t (10:36:38) Selected item not valid for current operation, ignored: Symbol "Mounting_Hole1"
+\t (10:36:38) No valid items selected for the current operation, exiting.
+\i (10:36:38) placementedit 
+\i (10:36:41) generaledit 
+\i (10:36:42) pick grid 46.4564 68.6533
+\t (10:36:42) last pick:  46.0000 69.0000
+\i (10:36:42) prepopup 46.4564 69.0009
+\i (10:36:54) pop dyn_option_select 'Quick Utilities@:@Undo' 
+\i (10:36:54) undo 
+\i (10:36:54) trapsize 4345
+\i (10:36:54) generaledit 
+\i (10:36:55) pick grid 46.3695 69.1747
+\t (10:36:55) last pick:  46.0000 69.0000
+\i (10:36:56) prepopup 46.3695 69.1747
+\i (10:37:06) pick grid 56.9723 51.6193
+\t (10:37:06) last pick:  57.0000 52.0000
+\i (10:37:15) exit 
+\e (10:37:15) Do you want to save the changes you made to PCB EDITOR TUTORIAL.brd?
+\i (10:37:17) fillin no 
+\t (10:37:17)     Journal end - Tue Apr 10 07:56:57 2018

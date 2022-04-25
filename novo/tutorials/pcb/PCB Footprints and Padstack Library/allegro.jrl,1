@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Apr 14 09:09:21 2018
+\t (00:00:02)         Host=SHANNON-W10LT User=shannonh Pid=15012 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\PCB Footprints and Padstack Library\usb-microb.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged usb-microb
+\d (00:00:02) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/PCB Footprints and Padstack Library/usb-microb.dra
+\i (00:00:02) trapsize 1495
+\i (00:00:02) trapsize 1539
+\i (00:00:02) trapsize 1495
+\i (00:00:02) trapsize 1539
+\i (00:00:02) trapsize 2604
+\i (00:00:02) etchedit 
+\i (00:00:10) padeditdb 
+\i (00:00:13) exit 
+\e (00:00:13) Do you want to save the changes you made to usb-microb.dra?
+\i (00:00:14) fillin no 
+\t (00:00:14)     Journal end - Sat Apr 14 09:09:34 2018

@@ -1,0 +1,422 @@
+\t (00:00:03) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Apr 13 08:47:46 2018
+\t (00:00:03)         Host=SHANNON-W10LT User=shannonh Pid=5808 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:05) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video12_3D Modeling/PCB EDITOR TUTORIAL.brd
+\i (00:00:05) trapsize 4181
+\i (00:00:05) trapsize 4306
+\i (00:00:05) trapsize 4181
+\i (00:00:05) trapsize 4262
+\i (00:00:05) trapsize 4345
+\i (00:00:05) generaledit 
+\i (00:00:40) step pkg map 
+\i (00:00:43) setwindow form.pkgmap3d
+\i (00:00:43) FORM pkgmap3d pkglist 1210 
+\i (00:00:44) FORM pkgmap3d folder_step  
+\i (00:00:48) fillin confirm
+\i (00:00:52) FORM pkgmap3d stplist 1210CAP.step 
+\i (00:00:53) FORM pkgmap3d save_current  
+\i (00:00:54) FORM pkgmap3d pkglist 0402-CAP 
+\i (00:00:55) FORM pkgmap3d stplist 0402CAP.STEP 
+\i (00:00:57) FORM pkgmap3d save_current  
+\i (00:00:58) FORM pkgmap3d pkglist 0402-RES 
+\i (00:00:59) FORM pkgmap3d stplist 0402RES.step 
+\i (00:01:00) FORM pkgmap3d save_current  
+\i (00:01:01) FORM pkgmap3d pkglist 1X06_LOCK 
+\i (00:01:06) FORM pkgmap3d stplist conn1x6.step 
+\i (00:01:07) FORM pkgmap3d save_current  
+\i (00:01:09) FORM pkgmap3d pkglist CRYSTAL-SMD-5X3 
+\i (00:01:13) FORM pkgmap3d stplist Crystal4.step 
+\i (00:01:14) FORM pkgmap3d save_current  
+\i (00:01:16) FORM pkgmap3d pkglist LED_LNJ 
+\i (00:01:17) FORM pkgmap3d save_current  
+\i (00:01:18) FORM pkgmap3d pkglist MSOP-8_MS 
+\i (00:01:20) FORM pkgmap3d pkglist SQFP-S-10X10-64 
+\i (00:01:24) FORM pkgmap3d stplist MSOP-8_MS.step 
+\i (00:01:26) FORM pkgmap3d stplist QFP64-16X16_P0_5.step 
+\i (00:01:28) FORM pkgmap3d save_current  
+\i (00:01:29) FORM pkgmap3d pkglist USB-MICROB 
+\i (00:01:30) FORM pkgmap3d stplist USB_MicroAB.STEP 
+\i (00:01:35) FORM pkgmap3d offset_x -4 
+\i (00:01:38) FORM pkgmap3d offset_y 3.5 
+\i (00:01:42) FORM pkgmap3d offset_z 2.25 
+\i (00:01:46) FORM pkgmap3d save_current  
+\i (00:01:49) FORM pkgmap3d pkglist XTEND-DIGI-MODEM 
+\i (00:01:53) FORM pkgmap3d stplist xtend_digi_modem.step 
+\i (00:02:02) FORM pkgmap3d rotation_x 90 
+\i (00:02:06) FORM pkgmap3d rotation_y 180 
+\i (00:02:11) FORM pkgmap3d offset_x 31 
+\i (00:02:17) FORM pkgmap3d offset_y 18.4881 
+\i (00:02:20) FORM pkgmap3d offset_z 6 
+\i (00:02:25) FORM pkgmap3d save_current  
+\i (00:02:27) FORM pkgmap3d add_mechanical  
+\i (00:02:46) fillin "MECHANICAL_USB"
+\i (00:02:49) FORM pkgmap3d pkglist STEP3D_MECH_MECHANICAL_USB 
+\i (00:03:01) FORM pkgmap3d stplist USB_MicroAB.STEP 
+\i (00:03:08) FORM pkgmap3d rotation_x 90 
+\i (00:03:12) FORM pkgmap3d rotation_y 90 
+\i (00:03:20) FORM pkgmap3d offset_x 20.5 
+\i (00:03:29) FORM pkgmap3d offset_y 58.75 
+\i (00:03:40) FORM pkgmap3d offset_z 5.25 
+\i (00:03:52) FORM pkgmap3d view_orientation Front Right 
+\i (00:03:57) FORM pkgmap3d view_orientation Right 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom out 36.3990 52.3847
+\i (00:04:22) trapsize 8691
+\i (00:04:46) setwindow form.pkgmap3d
+\i (00:04:46) FORM pkgmap3d offset_x 20.5 
+\i (00:04:52) FORM pkgmap3d offset_y 58.75 
+\i (00:05:02) FORM pkgmap3d offset_z 5.25 
+\i (00:05:08) FORM pkgmap3d view_orientation Top 
+\i (00:05:15) FORM pkgmap3d stplist USB.STEP 
+\i (00:05:23) FORM pkgmap3d rotation_x 90 
+\i (00:05:26) FORM pkgmap3d rotation_y 90 
+\i (00:05:41) FORM pkgmap3d offset_x 20.5 
+\i (00:05:48) FORM pkgmap3d offset_y 58.75 
+\i (00:05:55) FORM pkgmap3d offset_z 5.25 
+\i (00:06:05) FORM pkgmap3d increment .5 
+\i (00:06:06) FORM pkgmap3d arrow_left  
+\i (00:06:14) FORM pkgmap3d increment 0.25 
+\i (00:06:14) FORM pkgmap3d arrow_left  
+\i (00:06:20) FORM pkgmap3d arrow_left  
+\i (00:06:34) FORM pkgmap3d view_orientation Right 
+\i (00:06:42) FORM pkgmap3d arrow_up  
+\i (00:06:54) FORM pkgmap3d save_current  
+\i (00:06:58) FORM pkgmap3d add_mechanical  
+\i (00:07:13) fillin "STEP3D_MECH_ENCLOSURE"
+\i (00:07:15) FORM pkgmap3d stplist enclosure1.STEP 
+\i (00:07:23) FORM pkgmap3d rotation_x 90 
+\i (00:07:33) FORM pkgmap3d offset_x 50.5 
+\i (00:07:37) FORM pkgmap3d offset_y 25 
+\i (00:07:39) FORM pkgmap3d offset_z 4 
+\i (00:07:49) FORM pkgmap3d view_orientation Front Right 
+\i (00:07:59) FORM pkgmap3d view_orientation Right 
+\i (00:08:03) FORM pkgmap3d view_orientation Back 
+\i (00:08:06) FORM pkgmap3d view_orientation Front 
+\i (00:08:14) FORM pkgmap3d save_current  
+\i (00:08:19) FORM pkgmap3d view_orientation Front Right 
+\i (00:08:26) FORM pkgmap3d done  
+\i (00:08:26) setwindow pcb
+\i (00:08:26) generaledit 
+\i (00:08:29) 3d_viewer 
+\i (00:08:31) generaledit 
+\i (00:08:47) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_MECHANICAL_USB +
+\i (00:08:47) QtSignal | 0
+\i (00:08:49) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_MECHANICAL_USB +
+\i (00:08:49) QtSignal | 2
+\i (00:08:50) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_MECHANICAL_USB +
+\i (00:08:50) QtSignal | 0
+\i (00:08:55) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_MECHANICAL_USB +
+\i (00:08:55) QtSignal | 2
+\i (00:08:57) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_MECHANICAL_USB +
+\i (00:08:57) QtSignal | 0
+\i (00:09:07) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:09:10) step pkg map 
+\i (00:09:13) setwindow form.pkgmap3d
+\i (00:09:13) FORM pkgmap3d pkglist STEP3D_MECH_ENCLOSURE 
+\i (00:09:15) FORM pkgmap3d pkglist STEP3D_MECH_MECHANICAL_USB 
+\i (00:09:22) FORM pkgmap3d stplist USB.STEP 
+\i (00:09:29) FORM pkgmap3d rotation_x 90 
+\i (00:09:31) FORM pkgmap3d rotation_y 90 
+\i (00:09:38) FORM pkgmap3d offset_x 20.25 
+\i (00:09:44) FORM pkgmap3d offset_y 58.75 
+\i (00:09:49) FORM pkgmap3d offset_z 5.25 
+\i (00:09:54) FORM pkgmap3d view_orientation Top 
+\i (00:09:57) FORM pkgmap3d arrow_left  
+\i (00:10:00) FORM pkgmap3d arrow_left  
+\i (00:10:03) FORM pkgmap3d arrow_left  
+\i (00:10:10) FORM pkgmap3d view_orientation Right 
+\i (00:10:13) FORM pkgmap3d arrow_up  
+\i (00:10:17) FORM pkgmap3d save_current  
+\i (00:10:20) FORM pkgmap3d pkglist STEP3D_MECH_ENCLOSURE 
+\i (00:10:25) FORM pkgmap3d stplist enclosure1.STEP 
+\i (00:10:28) FORM pkgmap3d rotation_x 90 
+\i (00:10:32) FORM pkgmap3d offset_x 50.5 
+\i (00:10:36) FORM pkgmap3d offset_y 25 
+\i (00:10:40) FORM pkgmap3d offset_z 4 
+\i (00:10:43) FORM pkgmap3d save_current  
+\i (00:10:45) FORM pkgmap3d done  
+\i (00:10:45) setwindow pcb
+\i (00:10:45) generaledit 
+\i (00:10:48) 3d_viewer 
+\i (00:10:49) generaledit 
+\i (00:10:55) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_ENCLOSURE +
+\i (00:10:55) QtSignal | 0
+\i (00:11:13) QtSignal ViewerPanePanel ViewerPaneLayer2All clicked false
+\i (00:11:14) QtSignal ViewerPanePanel ViewerPaneLayer2All clicked true
+\i (00:11:16) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked false
+\i (00:11:16) QtSignal ViewerPanePanel ViewerPaneLayer1All clicked true
+\i (00:11:19) QtSignal ViewerPanePanel ViewerPaneLayer6All clicked false
+\i (00:11:19) QtSignal ViewerPanePanel ViewerPaneLayer6All clicked true
+\i (00:11:25) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~JP9 | 0
+\i (00:11:26) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~JP9 | 2
+\i (00:11:29) QtSignal pcb3d_SymbolTab pcb3dSymbolTree itemChanged All TOP ~STEP3D_MECH_ENCLOSURE +
+\i (00:11:29) QtSignal | 2
+\i (00:12:05) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:12:15) QtSignal pcb3dViewerCamMenu Isometric triggered
+\i (00:12:17) QtSignal pcb3dViewerSetupMenu pcb3dViewerPreferences triggered
+\i (00:12:20) QtSignal Categories 3DPreferencesTree itemSelectionChanged Messages
+\i (00:12:21) QtSignal Categories 3DPreferencesTree itemSelectionChanged Interactive
+\i (00:12:24) QtSignal Categories 3DPreferencesTree itemSelectionChanged "Cutting Plane"
+\i (00:12:27) QtSignal 3DPreferencesDialog CuttingPlaneEnableCheck clicked true
+\i (00:12:28) QtSignal CuttingPlaneAlignmentGroup y_axis_align toggled off
+\i (00:12:28) QtSignal CuttingPlaneAlignmentGroup x_axis_align toggled on
+\i (00:12:46) QtSignal 3DPreferencesDialog 3DPrefOKButton clicked
+\i (00:12:50) QtSignal pcb3dViewerSetupMenu pcb3dViewerPreferences triggered
+\i (00:12:52) QtSignal Categories 3DPreferencesTree itemSelectionChanged "Cutting Plane"
+\i (00:12:53) QtSignal 3DPreferencesDialog CuttingPlaneEnableCheck clicked false
+\i (00:12:55) QtSignal 3DPreferencesDialog 3DPrefOKButton clicked
+\i (00:12:59) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:13:07) drag_start grid 23.1890 11.0166
+\i (00:13:07) move 
+\t (00:13:07) last pick:  13.0000 12.0000
+\t (00:13:07) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (00:13:07) Pick new location for the element(s).
+\i (00:13:14) drag_stop 11.1957 11.1904
+\i (00:13:14) generaledit 
+\i (00:13:20) drag_start grid 21.7985 10.8428
+\i (00:13:20) move 
+\t (00:13:20) last pick:  11.1957 11.1904
+\t (00:13:20) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (00:13:20) Pick new location for the element(s).
+\i (00:13:23) drag_stop 12.0648 13.1024
+\i (00:13:23) generaledit 
+\i (00:13:27) trapsize 14642
+\i (00:13:33) trapsize 14663
+\i (00:13:33) trapsize 14875
+\i (00:13:33) trapsize 15342
+\i (00:13:33) trapsize 15766
+\i (00:13:33) trapsize 16240
+\i (00:13:33) trapsize 16744
+\i (00:13:33) trapsize 17308
+\i (00:13:33) trapsize 18102
+\i (00:13:33) trapsize 18594
+\i (00:13:33) trapsize 19293
+\i (00:13:33) trapsize 19930
+\i (00:13:33) trapsize 20569
+\i (00:13:33) trapsize 21699
+\i (00:13:34) trapsize 23221
+\i (00:13:34) trapsize 23759
+\i (00:13:34) trapsize 23925
+\i (00:13:34) trapsize 24037
+\i (00:13:34) trapsize 24093
+\i (00:13:34) trapsize 24438
+\i (00:13:34) trapsize 25156
+\i (00:13:34) trapsize 25469
+\i (00:13:34) trapsize 25660
+\i (00:13:34) trapsize 25853
+\i (00:13:34) trapsize 26250
+\i (00:13:34) trapsize 26590
+\i (00:13:34) trapsize 26729
+\i (00:13:34) trapsize 27010
+\i (00:13:34) trapsize 27153
+\i (00:13:34) trapsize 27225
+\i (00:13:36) trapsize 15864
+\i (00:13:39) zoom in 
+\i (00:13:39) setwindow pcb
+\i (00:13:39) zoom in 63.4426 17.7106
+\i (00:13:39) trapsize 7932
+\i (00:13:40) zoom in 
+\i (00:13:40) setwindow pcb
+\i (00:13:40) zoom in 63.4426 17.7107
+\i (00:13:40) trapsize 3966
+\i (00:13:45) zoom in 1 
+\i (00:13:45) setwindow pcb
+\i (00:13:45) zoom in 56.6212 21.2801
+\i (00:13:45) trapsize 1983
+\i (00:13:45) roam start
+\i (00:13:45) roam x -48
+\i (00:13:46) roam x -48
+\i (00:13:46) roam x -32
+\i (00:13:46) roam x -48
+\i (00:13:46) roam x -48
+\i (00:13:46) roam y -16
+\i (00:13:46) roam x -16
+\i (00:13:46) roam x -32
+\i (00:13:46) roam x -64
+\i (00:13:46) roam y -16
+\i (00:13:46) roam x -64
+\i (00:13:46) roam y -16
+\i (00:13:46) roam x -16
+\i (00:13:46) roam x -32
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -48
+\i (00:13:47) roam x -128
+\i (00:13:47) roam y -16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -32
+\i (00:13:47) roam x -48
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -32
+\i (00:13:47) roam y 16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam y 16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam x -16
+\i (00:13:47) roam y 16
+\i (00:13:47) roam x -32
+\i (00:13:47) roam y 16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam y 16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam y 16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam y 16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam x -32
+\i (00:13:48) roam x -16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam x -16
+\i (00:13:48) roam y 16
+\i (00:13:49) roam end
+\i (00:14:06) drag_start grid 20.1770 12.6239
+\i (00:14:06) move 
+\t (00:14:06) last pick:  12.0648 13.1024
+\t (00:14:06) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (00:14:06) Pick new location for the element(s).
+\i (00:14:13) drag_stop 11.8088 15.0035
+\i (00:14:13) generaledit 
+\i (00:14:26) pick grid 16.2507 16.9072
+\t (00:14:26) last pick:  16.5100 17.1450
+\i (00:14:29) etchedit 
+\i (00:14:30) drag_start grid 16.6473 17.1055
+\i (00:14:31) drag_stop 25.4120 16.0346
+\i (00:14:35) setwindow form.find
+\i (00:14:35) FORM find all_off  
+\i (00:14:37) FORM find clines YES 
+\i (00:14:38) FORM find cline_segs YES 
+\i (00:14:40) setwindow pcb
+\i (00:14:40) drag_start grid 15.7748 17.1848
+\i (00:14:41) drag_stop 25.5707 16.7882
+\i (00:14:44) drag_start grid 15.6558 17.1848
+\i (00:14:45) drag_stop 25.9276 11.3945
+\i (00:14:48) prepopup 13.5142 12.5050
+\i (00:14:49) pop dyn_option_select @:@Delete 
+\i (00:14:49) delete 
+\i (00:14:49) etchedit 
+\i (00:14:52) add connect 
+\t (00:14:53) Pick first element.
+\i (00:14:54) pick grid 11.6898 15.0035
+\t (00:14:54) last pick:  11.4300 15.2400
+\t (00:14:54) last pick:  11.8088 15.0035
+\t (00:14:54) Target Symbol Pin is defined on TOP.
+\t (00:14:54) last pick:  11.8088 15.0035
+\i (00:14:57) pick grid 16.8059 17.3831
+\t (00:14:57) last pick:  16.5100 17.1450
+\t (00:14:57) No DRC errors detected.
+\i (00:14:57) mouse_pos 17.4405 18.1366
+\i (00:14:59) pick grid 17.5198 18.7712
+\t (00:14:59) last pick:  17.7800 19.0500
+\t (00:14:59) No DRC errors detected.
+\t (00:14:59) Pick first element.
+\i (00:15:00) pick grid 22.7152 14.8449
+\t (00:15:00) last pick:  22.8600 14.6050
+\t (00:15:00) Pick first element.
+\t (00:15:00) last pick:  21.9688 15.0035
+\t (00:15:00) Target Horizontal Line Segment is defined on TOP.
+\t (00:15:00) last pick:  21.9688 15.0035
+\i (00:15:04) pick grid 25.2930 19.4057
+\t (00:15:04) last pick:  25.4000 19.6850
+\t (00:15:04) No DRC errors detected.
+\i (00:15:05) mouse_pos 25.0947 21.2697
+\i (00:15:06) mouse_pos 25.2137 21.1904
+\i (00:15:07) mouse_pos 25.0551 21.1111
+\i (00:15:08) pick grid 24.9361 21.3094
+\t (00:15:08) last pick:  24.7650 21.5900
+\t (00:15:08) No DRC errors detected.
+\t (00:15:08) Pick first element.
+\i (00:15:09) pick grid 18.9872 15.8364
+\t (00:15:09) last pick:  19.0500 15.8750
+\t (00:15:09) Pick first element.
+\t (00:15:09) last pick:  19.4288 14.7495
+\t (00:15:09) Target Odd-angle Line Segment is defined on TOP.
+\t (00:15:09) last pick:  19.4288 14.7495
+\i (00:15:13) pick grid 23.1514 18.7315
+\t (00:15:13) last pick:  22.8600 18.4150
+\t (00:15:13) No DRC errors detected.
+\i (00:15:16) pick grid 22.5169 20.6748
+\t (00:15:16) last pick:  22.2250 20.9550
+\t (00:15:16) No DRC errors detected.
+\i (00:15:17) mouse_pos 22.3186 21.3094
+\i (00:15:17) mouse_pos 22.5565 21.7853
+\i (00:15:18) pick grid 22.5565 21.7853
+\t (00:15:18) last pick:  22.8600 21.5900
+\t (00:15:18) No DRC errors detected.
+\t (00:15:18) Pick first element.
+\i (00:15:20) prepopup 23.2307 10.8789
+\i (00:15:21) done 
+\i (00:15:22) etchedit 
+\i (00:15:24) trapsize 884
+\i (00:15:30) trapsize 1983
+\i (00:15:33) trapsize 884
+\i (00:15:47) QtSignal pcb3dViewerCamMenu Back triggered
+\i (00:15:56) QtSignal pcb3dViewer pcb3dViewerCanvas RMB "[355758 281798 153296]"
+\i (00:15:57) QtFillin "Measure Path|"
+\i (00:15:59) QtSignal Measure_Options MeasureTable itemChanged 0 x 26.9091
+\i (00:15:59) QtSignal Measure_Options MeasureTable itemChanged 0 y 56.6751
+\i (00:15:59) QtSignal Measure_Options MeasureTable itemChanged 0 z 1.6664
+\i (00:15:59) QtSignal Measure_Options MeasureTable itemChanged 0 Distance
+\i (00:16:02) QtSignal Measure_Options MeasureTable itemChanged 1 x 11.7917
+\i (00:16:02) QtSignal Measure_Options MeasureTable itemChanged 1 y 56.6726
+\i (00:16:02) QtSignal Measure_Options MeasureTable itemChanged 1 z 1.5697
+\i (00:16:02) QtSignal Measure_Options MeasureTable itemChanged 1 Distance
+\i (00:16:02) QtSignal Measure_Options MeasureTable itemChanged 1 Distance 15.1177
+\i (00:16:05) QtSignal pcb3dViewer pcb3dViewerCanvas RMB "[-160851 281798 226908]"
+\i (00:16:06) QtFillin Done|
+\i (00:16:21) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:16:23) zoom fit 
+\i (00:16:23) trapsize 3660
+\i (00:16:29) step pkg map 
+\i (00:16:34) setwindow form.pkgmap3d
+\i (00:16:34) FORM pkgmap3d stplist enclosure2.STEP 
+\i (00:16:42) FORM pkgmap3d rotation_x 90 
+\i (00:16:49) FORM pkgmap3d offset_x 50.5 
+\i (00:16:53) FORM pkgmap3d offset_y 25 
+\i (00:16:59) FORM pkgmap3d offset_z 4 
+\i (00:17:03) FORM pkgmap3d save_current  
+\i (00:17:05) FORM pkgmap3d done  
+\i (00:17:05) setwindow pcb
+\i (00:17:05) etchedit 
+\i (00:17:09) 3d_viewer 
+\i (00:17:11) etchedit 
+\i (00:17:16) QtSignal pcb3dViewerCamMenu Back triggered
+\i (00:17:36) QtSignal pcb3dViewerCamMenu Isometric triggered
+\i (00:17:42) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:17:50) QtSignal pcb3dExport AQFileDialog filterChanged "PDF 3D (*.pdf)"
+\i (00:18:20) QtSignal pcb3dExport AQFileDialog finished 0
+\i (00:18:24) QtSignal pcb3dViewerFileMenu Export triggered
+\i (00:18:31) QtSignal pcb3dExport AQFileDialog filterChanged "PDF 3D (*.pdf)"
+\i (00:18:41) QtSignal pcb3dExport AQFileDialog finished 1
+\i (00:18:41) QtFillin "C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video12_3D Modeling/PCB EDITOR TUTORIAL_3D.pdf"
+\i (00:20:38) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:20:42) save_as 
+\i (00:20:56) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\PCB EDITOR TUTORIAL_COMPLETE.brd"
+\i (00:20:56) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial"
+\i (00:20:56) etchedit 
+\i (00:21:08) step pkg map 
+\i (00:21:10) setwindow form.pkgmap3d
+\i (00:21:10) FORM pkgmap3d stplist enclosure1.STEP 
+\i (00:21:13) FORM pkgmap3d rotation_x 90 
+\i (00:21:19) FORM pkgmap3d offset_x 50.5 
+\i (00:21:24) FORM pkgmap3d offset_y 25 
+\i (00:21:30) FORM pkgmap3d offset_z 4 
+\i (00:21:32) FORM pkgmap3d save_current  
+\i (00:21:34) FORM pkgmap3d done  
+\i (00:21:34) setwindow pcb
+\i (00:21:34) etchedit 
+\i (00:21:43) save_as 
+\i (00:21:58) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video12_3D Modeling\PCB EDITOR TUTORIAL_STEP.brd"
+\i (00:21:58) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video12_3D Modeling"
+\i (00:21:58) etchedit 
+\i (00:22:14) exit 
+\t (00:22:14)     Journal end - Fri Apr 13 09:09:57 2018

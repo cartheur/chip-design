@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PCB EDITOR TUTORIAL.brd                       )
+(    Software Version : 17.2S037                                      )
+(    Date/Time        : Thu Apr 12 20:21:48 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video11_Manufacturing Export/artwork' ...
+
+
+
+     'PCB EDITOR TUTORIAL-1-3.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3302    0.0000/  0.0000      PLATED         33
+            2.   0.7000    0.0000/  0.0000      PLATED         20
+            3.   1.0160    0.0000/  0.0000      PLATED          6
+            4.   3.8100    0.0000/  0.0000      PLATED          4
+            5.   3.3000    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         67
+
+     ---- Total head travel:              2.80 feet (0.85 meters)
+

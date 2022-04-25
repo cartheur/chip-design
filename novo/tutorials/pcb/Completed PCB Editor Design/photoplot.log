@@ -1,0 +1,407 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PCB EDITOR TUTORIAL_COMPLETE.brd              )
+(    Software Version : 17.2S037                                      )
+(    Date/Time        : Sun Apr 15 09:58:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+ WARNING: Generating english output data from a metric database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 39.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 39.5000).
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.01102                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.07480                     0.000 NO     DARK 
+  RECTANGLE  0.01161     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.01752     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.01378      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.01161       0.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.06299       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < POWER_PLANE >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/POWER_PLANE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+
+     POWER_PLANE created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 39.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 39.5000).
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (0.0000 52.5000) in MM
+           ... using undefined line width of 0.1270 MM
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1270 MM
+
+    WARNING: text composed 0 width line found at (41.6693 60.4125) in MM
+           ... using undefined line width of 0.1270 MM
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1270 MM
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+
+     FAB created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSEMBLY >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/ASSEMBLY.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (37.5000 39.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 10.5000).
+    WARNING: Null REGULAR-PAD specified for padstack HN330M350 at (90.5000 39.5000).
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.05600                                  DARK 
+  CIRCLE     0.07400                                  DARK 
+  CIRCLE     0.16000                                  DARK 
+  SQUARE     0.07480                     0.000 NO     DARK 
+  RECTANGLE  0.01161     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.01752     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.01378      90.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.01161       0.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.06299       0.000 NO     DARK 
+
+     ASSEMBLY created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREENTOP >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/SILKSCREENTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+
+     SILKSCREENTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASKTOP >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/SOLDERMASKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.08200                                  DARK 
+  CIRCLE     0.13792                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  SQUARE     0.08280                     0.000 NO     DARK 
+  RECTANGLE  0.01752     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.01961     x 0.07099       0.000 NO     DARK 
+  RECTANGLE  0.03556     x 0.04343       0.000 NO     DARK 
+  RECTANGLE  0.03556     x 0.04343      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.05524     x 0.08674      90.000 NO     DARK 
+  RECTANGLE  0.06312     x 0.02178      90.000 NO     DARK 
+  RECTANGLE  0.07099     x 0.01961       0.000 NO     DARK 
+  RECTANGLE  0.07887     x 0.08280       0.000 NO     DARK 
+  RECTANGLE  0.08280     x 0.05131       0.000 NO     DARK 
+  RECTANGLE  0.09068     x 0.07099       0.000 NO     DARK 
+
+     SOLDERMASKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASKTOP >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/PASTEMASKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  SQUARE     0.07480                     0.000 NO     DARK 
+  RECTANGLE  0.01752     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.07874      90.000 NO     DARK 
+  RECTANGLE  0.05500     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.01378      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.07480       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.08268     x 0.06299       0.000 NO     DARK 
+
+     PASTEMASKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASKBOTTOM >
+     TO FILE < C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/artwork/SOLDERMASKBOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270 MM
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00197                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.06400                                  DARK 
+  CIRCLE     0.08200                                  DARK 
+  CIRCLE     0.13792                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+
+     SOLDERMASKBOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        POWER_PLANE created with warnings
+        BOTTOM created with warnings
+        FAB created with warnings
+        ASSEMBLY created with warnings
+        SILKSCREENTOP created with warnings
+        SOLDERMASKTOP created with warnings
+        PASTEMASKTOP created with warnings
+        SOLDERMASKBOTTOM created with warnings
+
+ ARTWORK had warnings

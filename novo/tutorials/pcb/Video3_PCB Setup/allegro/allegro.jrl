@@ -1,0 +1,350 @@
+\t (00:00:03) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Apr 09 14:16:44 2018
+\t (00:00:03)         Host=SHANNON-W10LT User=shannonh Pid=22540 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession shannonh C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\PCB TUTORIAL\VIDEO3_PCB SETUP\allegro\CAPTURE TUTORIAL.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "CAPTURE TUTORIAL"
+\d (00:00:03) Design opened: C:/USERS/SHANNONH/DESKTOP/ASSIGNMENTS/PCB_CAPTURE TUTORIALS/PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd
+\i (00:00:03) trapsize 8721
+\i (00:00:04) trapsize 8982
+\i (00:00:04) trapsize 8721
+\i (00:00:04) trapsize 12301
+\i (00:00:04) trapsize 10207
+\i (00:00:04) trapsize 12301
+\i (00:00:04) trapsize 10012
+\i (00:00:04) generaledit 
+\i (00:00:12) showhide_workflow 
+\i (00:00:12) trapsize 12301
+\i (00:00:12) generaledit 
+\t (00:30:34) last pick:  22584.66 2706.22
+\w (00:30:34) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:31:13) xhilite 
+\i (00:31:13) xname_flush 
+\i (00:31:13) done 
+\i (00:31:13) generaledit 
+\i (00:32:16) save_as 
+\i (00:32:37) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup\PCB EDITOR TUTORIAL.brd"
+\i (00:32:37) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup"
+\i (00:32:37) generaledit 
+\i (05:33:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:33:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:33:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:33:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:33:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (05:33:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (05:33:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (05:33:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (05:33:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:33:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:34:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:34:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:34:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (05:34:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (05:34:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (05:34:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (05:34:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (05:34:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (05:34:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (05:34:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (05:34:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:34:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:34:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:34:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:34:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (05:34:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (05:34:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (05:34:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (05:34:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:29) QtSignal "Board Outline"
+\i (05:34:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline"
+\i (05:34:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:29) QtSignal "Board Outline"
+\i (05:34:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline"
+\i (05:34:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:31) QtSignal "Board Outline" Create
+\i (05:34:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (05:34:31) QtSignal Create
+\i (05:34:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:32) QtSignal "Board Outline" Create Manual
+\i (05:34:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (05:34:32) QtSignal Create Manual
+\i (05:34:32) FORM mini class BOARD GEOMETRY 
+\i (05:34:32) FORM mini subclass DESIGN_OUTLINE 
+\i (05:34:32) setwindow form.mini
+\i (05:34:32) FORM mini subclass DESIGN_OUTLINE 
+\i (05:34:32) setwindow pcb
+\i (05:34:32) shape add 
+\i (05:34:33) trapsize 12301
+\i (05:34:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:36) QtSignal "Board Outline" Create Automatically
+\i (05:34:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (05:34:36) QtSignal Create Automatically
+\i (05:34:36) board outline 
+   (05:34:36) Loading floor.cxt 
+   (05:34:36) Loading fputil.cxt 
+\i (05:34:40) setwindow form.fpbdoutline
+\i (05:34:40) FORM fpbdoutline cancel  
+\i (05:34:40) setwindow pcb
+\i (05:34:40) generaledit 
+\i (05:34:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:42) QtSignal "Board Outline" Create Automatically
+\i (05:34:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (05:34:42) QtSignal Create Automatically
+\i (05:34:42) board outline 
+\i (05:34:44) setwindow form.fpbdoutline
+\i (05:34:44) FORM fpbdoutline cancel  
+\i (05:34:44) setwindow pcb
+\i (05:34:44) generaledit 
+\i (05:34:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (05:34:55) QtSignal "Cross Section (Stack-up)" Create
+\i (05:34:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (05:34:55) QtSignal Create
+\i (05:34:55) xsection 
+\i (05:34:56) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (05:35:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation" "Cross Section (Stack-up)" +
+\i (05:35:04) QtSignal 0 | Create
+\i (05:35:04) generaledit 
+\i (06:00:45) done 
+\i (06:00:45) place manual 
+\i (06:00:45) FORM plc_manual placement_list 
+\i (06:00:45) FORM plc_manual categories Components by refdes 
+\i (06:00:45) trapsize 12301
+\i (06:00:45) rats all 
+\i (06:00:45) generaledit 
+\i (06:00:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (06:00:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (06:00:57) done 
+\i (06:00:57) place manual 
+\i (06:00:57) FORM plc_manual placement_list 
+\i (06:00:57) FORM plc_manual categories Components by refdes 
+\i (06:00:57) trapsize 12301
+\i (06:01:01) setwindow form.plc_manual
+\i (06:01:01) FORM plc_manual cancel  
+\i (06:01:02) setwindow pcb
+\i (06:01:02) generaledit 
+\i (06:01:11) cancel 
+\i (06:01:11) generaledit 
+\i (06:04:42) pick grid 11538.35 8930.53
+\t (06:04:42) last pick:  11500.00 8900.00
+\i (06:04:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (06:04:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (06:04:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (06:04:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (06:04:45) prmed 
+\i (06:04:48) setwindow form.prmedit
+\i (06:04:48) FORM prmedit design  
+\i (06:04:50) FORM prmedit text  
+\i (06:04:52) FORM prmedit shapes  
+\i (06:04:53) FORM prmedit route  
+\i (06:04:55) FORM prmedit mfg_applications  
+\i (06:04:56) FORM prmedit design  
+\i (06:04:59) FORM prmedit units Millimeter 
+   (06:04:59) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (06:05:00) fillin confirm
+\e (06:05:00) Change may cause round-off; run dbcheck.
+\i (06:05:04) FORM prmedit done  
+\w (06:05:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (06:05:04) setwindow pcb
+\i (06:05:04) trapsize 31245
+\t (06:05:04) Performing DRC...
+\t (06:05:04) Multithreaded DRC update (8 threads).
+\t (06:05:05) No DRC errors detected.
+\i (06:05:05) generaledit 
+\i (06:05:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Grids
+\i (06:05:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Grids
+\i (06:05:07) define grid 
+\t (06:05:07) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (06:05:10) setwindow form.grid
+\i (06:05:10) FORM grid non_etch non_etch_x_grids 1 
+\i (06:05:12) FORM grid non_etch non_etch_y_grids 1 
+\i (06:05:13) FORM grid done  
+\i (06:05:15) setwindow pcb
+\i (06:05:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Colors
+\i (06:05:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Colors
+\i (06:05:15) color192 
+\i (06:05:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Setup 2 | Colors
+\i (06:05:15) generaledit 
+\i (06:05:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (06:05:20) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (06:05:21) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (06:05:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (06:05:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (06:05:25) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (06:05:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (06:05:27) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (06:05:28) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (06:05:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (06:05:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (06:05:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (06:05:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (06:05:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:05:36) QtSignal "Board Outline"
+\i (06:05:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline"
+\i (06:05:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:05:38) QtSignal "Board Outline" Create
+\i (06:05:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (06:05:38) QtSignal Create
+\i (06:05:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:05:39) QtSignal "Board Outline" Create Automatically
+\i (06:05:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Board Outline" +
+\i (06:05:39) QtSignal Create Automatically
+\i (06:05:39) board outline 
+   (06:05:40) Loading consmgr.cxt 
+   (06:05:40) Loading acns_formula.cxt 
+\i (06:05:40) board outline 
+\i (06:05:48) setwindow form.fpbdoutline
+\i (06:05:48) FORM fpbdoutline fpboclearance .3MM 
+\i (06:05:49) FORM fpbdoutline fpboplacerect YES 
+\i (06:05:55) FORM fpbdoutline fpboplacewdt '100 MM' 
+\i (06:05:58) FORM fpbdoutline fpboplacehgt '50 MM' 
+\i (06:06:03) setwindow pcb
+\i (06:06:03) pick grid 34.9939 29.9948
+\t (06:06:03) last pick:  35.0000 30.0000
+\i (06:06:06) setwindow form.fpbdoutline
+\i (06:06:06) FORM fpbdoutline done  
+\i (06:06:06) setwindow pcb
+\i (06:06:06) generaledit 
+\i (06:06:11) zoom fit 
+\i (06:06:11) trapsize 4262
+\i (06:06:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:06:18) QtSignal "Cross Section (Stack-up)" Create
+\i (06:06:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (06:06:18) QtSignal Create
+\i (06:06:18) xsection 
+\i (06:06:19) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (06:06:31) setwindow cmgr
+\i (06:06:31) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Dielectric
+\i (06:06:31) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Conductor LAYER_1
+\i (06:06:31) cm scope Design "PCB EDITOR TUTORIAL"
+\i (06:06:31) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:06:35) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Dielectric
+\i (06:06:35) cm putValue ( Layer "3" ) CDS_LAYER_FUNCTION DIELECTRIC 0
+\i (06:06:35) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL FR-4 0
+\i (06:06:53) setwindow pcb
+\i (06:06:53) QtFillin OK
+\i (06:06:53) setwindow cmgr
+\i (06:06:53) cm delete ( Layer "3" )
+\i (06:06:53) cm endUndoBlock
+\i (06:06:58) cm clearGridSelection
+\i (06:06:58) cm selectInGrid 32800 ( Layer "3" )
+\i (06:06:58) cm startQtDialog 32800
+\i (06:07:06) setwindow pcb
+\i (06:07:06) QtSignal CRenameDlg m_RenameText editingFinished "POWER PLANE"
+\i (06:07:06) QtSignal CRenameDlg m_ButtonOK clicked
+\i (06:07:06) setwindow cmgr
+\i (06:07:06) cm putValue ( Layer "3" ) CDS_LAYER_NAME "POWER PLANE" 0
+\i (06:07:22) cm putValue ( Layer "3" ) CDS_LAYER_TYPE Plane 0
+\i (06:07:40) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Dielectric
+\i (06:07:45) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Dielectric
+\i (06:07:48) setwindow pcb
+\i (06:07:48) QtSignal CCMQtXSectionDlg m_CancelBtn clicked
+\i (06:07:48) generaledit 
+\i (06:07:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:07:49) QtSignal "Cross Section (Stack-up)" Create
+\i (06:07:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (06:07:49) QtSignal Create
+\i (06:07:49) xsection 
+\i (06:07:50) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (06:08:05) setwindow cmgr
+\i (06:08:05) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 2 Dielectric
+\i (06:08:05) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Conductor LAYER_1
+\i (06:08:05) cm scope Design "PCB EDITOR TUTORIAL"
+\i (06:08:05) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:08:08) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 4 Dielectric
+\i (06:08:09) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 5 Plane LAYER_2
+\i (06:08:09) cm putValue ( Layer "5" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:08:11) setwindow pcb
+\i (06:08:11) QtSignal CCMQtXSectionDlg m_CancelBtn clicked
+\i (06:08:11) generaledit 
+\i (06:08:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:08:13) QtSignal "Cross Section (Stack-up)" Create
+\i (06:08:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (06:08:13) QtSignal Create
+\i (06:08:13) xsection 
+\i (06:08:13) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (06:08:19) setwindow cmgr
+\i (06:08:19) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 2 Dielectric
+\i (06:08:19) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Plane LAYER_1
+\i (06:08:19) cm scope Design "PCB EDITOR TUTORIAL"
+\i (06:08:19) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:08:23) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 2 Dielectric
+\i (06:08:23) cm putValue ( Layer "2" ) CDS_LAYER_FUNCTION DIELECTRIC 0
+\i (06:08:23) cm putValue ( Layer "2" ) CDS_LAYER_MATERIAL FR-4 0
+\i (06:08:31) setwindow pcb
+\i (06:08:31) QtFillin OK
+\i (06:08:31) setwindow cmgr
+\i (06:08:31) cm delete ( Layer "3" )
+\i (06:08:31) cm endUndoBlock
+\i (06:08:39) setwindow pcb
+\i (06:08:39) QtFillin OK
+\i (06:08:39) setwindow cmgr
+\i (06:08:39) cm delete ( Layer "3" )
+\i (06:08:39) cm endUndoBlock
+\i (06:08:41) setwindow pcb
+\i (06:08:41) QtSignal CCMQtXSectionDlg m_CancelBtn clicked
+\i (06:08:41) generaledit 
+\i (06:08:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:08:42) QtSignal "Cross Section (Stack-up)" Create
+\i (06:08:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (06:08:42) QtSignal Create
+\i (06:08:42) xsection 
+\i (06:08:42) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (06:08:48) setwindow cmgr
+\i (06:08:48) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 2 Dielectric
+\i (06:08:48) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Plane LAYER_1
+\i (06:08:48) cm scope Design "PCB EDITOR TUTORIAL"
+\i (06:08:48) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:08:48) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 4 Dielectric
+\i (06:08:48) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 5 Plane LAYER_2
+\i (06:08:48) cm putValue ( Layer "5" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:08:52) setwindow pcb
+\i (06:08:52) QtSignal CCMQtXSectionDlg m_CancelBtn clicked
+\i (06:08:52) generaledit 
+\i (06:08:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:08:53) QtSignal "Cross Section (Stack-up)" Create
+\i (06:08:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" "Cross Section (Stack-up)" +
+\i (06:08:53) QtSignal Create
+\i (06:08:53) xsection 
+\i (06:08:53) QtSignal CCMQtXSectionDlg m_dialogsTab currentChanged Info
+\i (06:08:58) setwindow cmgr
+\i (06:08:58) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 2 Dielectric
+\i (06:08:58) cm create Layer ( Design "PCB EDITOR TUTORIAL" ) 3 Plane LAYER_1
+\i (06:08:58) cm scope Design "PCB EDITOR TUTORIAL"
+\i (06:08:58) cm putValue ( Layer "3" ) CDS_LAYER_MATERIAL COPPER 0
+\i (06:09:12) cm putValue ( Layer "3" ) CDS_LAYER_NAME "POWER PLANE" 0
+\i (06:09:13) setwindow pcb
+\i (06:09:13) QtSignal CCMQtXSectionDlg m_OkBtn clicked
+\i (06:09:14) generaledit 
+\i (06:09:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation" +
+\i (06:09:17) QtSignal Netlist Import
+\i (06:09:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation" Netlist +
+\i (06:09:17) QtSignal Import
+\i (06:09:17) netin 
+\i (06:09:23) setwindow form.niparams
+\i (06:09:23) FORM niparams cancel  
+\i (06:09:23) setwindow pcb
+\i (06:09:23) zoom points 
+\t (06:09:23) Pick 1st corner of the new window.
+\i (06:09:23) generaledit 
+\i (06:10:20) save_as 
+\i (06:10:29) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video4_Mechanical Symbols\PCB EDITOR TUTORIAL.brd"
+\i (06:10:29) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video4_Mechanical Symbols"
+\i (06:10:29) generaledit 
+\i (06:14:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (06:14:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (06:14:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (06:14:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (06:14:16) prmed 
+\i (06:14:19) setwindow form.prmedit
+\i (06:14:19) FORM prmedit cancel  
+\i (06:14:19) setwindow pcb
+\i (06:14:19) generaledit 
+\i (07:00:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation"
+\i (07:00:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation"
+\i (07:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup
+\i (07:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup
+\i (07:00:27) new 
+\i (07:01:39) newdrawfillin "MountingHole1.dra" "Mechanical Symbol"
+\t (07:01:39)     Journal end - Mon Apr 09 21:18:20 2018

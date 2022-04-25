@@ -1,0 +1,2332 @@
+\t (00:00:04) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Apr 11 08:26:48 2018
+\t (00:00:04)         Host=SHANNON-W10LT User=shannonh Pid=10404 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video8_Routing\PCB EDITOR TUTORIAL.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:06) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video8_Routing/PCB EDITOR TUTORIAL.brd
+\i (00:00:06) trapsize 6192
+\i (00:00:06) trapsize 6377
+\i (00:00:06) trapsize 6192
+\i (00:00:06) trapsize 6312
+\i (00:00:06) trapsize 6435
+\i (00:00:06) placementedit 
+\i (00:00:08) zoom fit 
+\i (00:00:08) trapsize 4262
+\i (00:00:19) color192 
+\i (00:00:20) placementedit 
+\i (00:00:21) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:00:23) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:00:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:00:24) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:00:24) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:00:25) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:00:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:00:26) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (00:00:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (00:00:27) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:00:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:00:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (00:00:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:00:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:00:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:00:29) QtSignal CVDLayerTable VertHeader clickedCheckBox 6
+\i (00:00:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (00:00:29) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:00:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:00:30) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:00:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:00:33) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:00:34) QtSignal CVDColorTable CVDColorButton1:13 clicked
+\i (00:00:36) QtSignal CVDNetTable CVDNetTableDelegate clickedColor 0 0
+\i (00:00:36) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (00:00:36) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:00:38) QtSignal CVDColorTable CVDColorButton1:12 clicked
+\i (00:00:39) QtSignal CVDNetTable CVDNetTableDelegate clickedColor 4 0
+\i (00:00:39) QtSignal CVDNetSplitter CVDNetTable dataChanged 4 0
+\i (00:00:39) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (00:00:43) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:47) zoom points 
+\t (00:00:47) Pick 1st corner of the new window.
+\i (00:00:50) pick 44.2943 38.0784
+\t (00:00:50) last pick:  44.2943 38.0784
+\t (00:00:50) Pick to complete the window.
+\i (00:00:50) pick 45.3172 38.0784
+\t (00:00:50) last pick:  45.3172 38.0784
+\i (00:00:50) trapsize 43
+\i (00:00:50) pick grid 44.4043 38.2057
+\t (00:00:50) last pick:  44.0000 38.0000
+\i (00:00:50) pick grid dbl 44.4043 38.2057
+\t (00:00:50) last pick:  44.0000 38.0000
+\i (00:00:51) undo 
+\i (00:00:52) placementedit 
+\i (00:00:53) zoom fit 
+\i (00:00:53) trapsize 4262
+\i (00:00:55) zoom points 
+\t (00:00:55) Pick 1st corner of the new window.
+\i (00:00:57) pick 37.2187 50.6098
+\t (00:00:57) last pick:  37.2187 50.6098
+\t (00:00:57) Pick to complete the window.
+\i (00:00:57) pick 40.9696 44.4720
+\t (00:00:57) last pick:  40.9696 44.4720
+\i (00:00:57) trapsize 444
+\i (00:00:57) drag_start grid 37.9737 46.3284
+\i (00:00:58) drag_stop 38.0448 45.9909
+\i (00:00:59) zoom fit 
+\i (00:00:59) trapsize 4262
+\i (00:01:01) zoom points 
+\t (00:01:01) Pick 1st corner of the new window.
+\i (00:01:03) drag_start 37.4745 49.0753
+\i (00:01:03) drag_stop 36.2810 51.9738
+\i (00:01:03) trapsize 210
+\i (00:01:03) pick grid 32.6004 50.4134
+\t (00:01:03) last pick:  33.0000 50.0000
+\i (00:01:06) zoom fit 
+\i (00:01:06) trapsize 4262
+\i (00:01:07) zoom points 
+\t (00:01:07) Pick 1st corner of the new window.
+\i (00:01:09) drag_start 44.4648 38.5899
+\i (00:01:10) drag_stop 36.4515 52.6557
+\i (00:01:10) trapsize 1018
+\i (00:01:14) zoom fit 
+\i (00:01:14) trapsize 4262
+\i (00:01:15) zoom points 
+\t (00:01:15) Pick 1st corner of the new window.
+\i (00:01:17) drag_start 46.6812 36.1177
+\i (00:01:19) drag_stop 42.1631 55.8951
+\i (00:01:19) trapsize 1431
+\i (00:01:23) zoom fit 
+\i (00:01:23) trapsize 4262
+\i (00:01:24) zoom points 
+\t (00:01:24) Pick 1st corner of the new window.
+\i (00:01:26) drag_start 48.8976 36.8849
+\i (00:01:27) drag_stop 39.5204 53.1672
+\i (00:01:27) trapsize 1178
+\i (00:01:32) create fanout 
+\w (00:01:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:39) setwindow form.find
+\i (00:01:39) FORM find pins NO 
+\i (00:01:41) FORM find pins YES 
+\i (00:01:45) setwindow form.mini
+\i (00:01:45) FORM mini crfan_via_direction Outward 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) pick grid 39.2603 51.1408
+\t (00:01:48) last pick:  39.0000 51.0000
+\t (00:01:48) Generate Fanouts completed, #Pins=2, C4
+\i (00:01:48) pick grid 39.1896 47.9126
+\t (00:01:48) last pick:  39.0000 48.0000
+\t (00:01:48) Generate Fanouts completed, #Pins=2, C5
+\i (00:01:49) pick grid 39.0718 45.1085
+\t (00:01:49) last pick:  39.0000 45.0000
+\t (00:01:49) Generate Fanouts completed, #Pins=2, C2
+\i (00:01:55) roam start
+\i (00:01:55) roam y 16
+\i (00:01:55) roam y 48
+\i (00:01:55) roam y 32
+\i (00:01:55) roam y -16
+\i (00:01:55) roam y -48
+\i (00:01:55) roam y -32
+\i (00:01:55) roam y -32
+\i (00:01:55) roam y -32
+\i (00:01:56) roam y -32
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -32
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -16
+\i (00:01:56) roam y -32
+\i (00:01:56) roam y -64
+\i (00:01:56) roam y -16
+\i (00:01:56) roam end
+\i (00:02:01) setwindow form.find
+\i (00:02:01) FORM find symbols NO 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) pick grid 39.2838 53.7246
+\t (00:02:03) last pick:  39.0000 54.0000
+\t (00:02:03) Generate Fanouts completed, #Pins=1, C1
+\i (00:02:07) pick grid 36.6918 58.0367
+\t (00:02:07) last pick:  37.0000 58.0000
+\t (00:02:07) Generate Fanouts completed, #Pins=1, U1
+\i (00:02:07) pick grid 41.8994 57.9661
+\t (00:02:07) last pick:  42.0000 58.0000
+\t (00:02:07) Generate Fanouts completed, #Pins=1, U1
+\i (00:02:08) pick grid 36.3148 60.0161
+\t (00:02:08) last pick:  36.0000 60.0000
+\t (00:02:08) Generate Fanouts completed, #Pins=1, U1
+\i (00:02:11) setwindow form.find
+\i (00:02:11) FORM find symbols YES 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom fit 
+\i (00:02:13) trapsize 4262
+\i (00:02:15) pick grid 39.8614 64.8461
+\t (00:02:15) last pick:  40.0000 65.0000
+\t (00:02:15) Generate Fanouts completed, #Pins=2, C8
+\i (00:02:16) pick grid 37.1335 65.6986
+\t (00:02:16) last pick:  37.0000 66.0000
+\t (00:02:16) Generate Fanouts completed, #Pins=2, C6
+\i (00:02:17) pick grid 62.1963 50.4393
+\t (00:02:17) last pick:  62.0000 50.0000
+\t (00:02:17) Generate Fanouts completed, #Pins=2, C7
+\i (00:02:19) setwindow form.find
+\i (00:02:19) FORM find symbols NO 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) pick grid 44.8910 60.2428
+\t (00:02:21) last pick:  45.0000 60.0000
+\t (00:02:21) Generate Fanouts completed, #Pins=1, C3
+\i (00:02:22) pick grid 44.8910 66.2953
+\t (00:02:22) last pick:  45.0000 66.0000
+\t (00:02:22) Generate Fanouts completed, #Pins=1, Y1
+\i (00:02:23) pick grid 49.3239 64.0789
+\t (00:02:23) last pick:  49.0000 64.0000
+\t (00:02:23) Generate Fanouts completed, #Pins=1, Y1
+\i (00:02:24) pick grid 53.2453 71.9217
+\t (00:02:24) last pick:  53.0000 72.0000
+\t (00:02:24) Generate Fanouts completed, #Pins=1, X1
+\i (00:02:26) pick grid 63.1340 53.5935
+\t (00:02:26) last pick:  63.0000 54.0000
+\t (00:02:26) Generate Fanouts completed, #Pins=1, C9
+\i (00:02:28) pick grid 62.7930 46.5179
+\t (00:02:28) last pick:  63.0000 47.0000
+\t (00:02:28) Generate Fanouts completed, #Pins=1, R2
+\i (00:02:30) pick grid 50.4321 34.4127
+\t (00:02:30) last pick:  50.0000 34.0000
+\t (00:02:30) Generate Fanouts completed, #Pins=1, R1
+\i (00:02:31) pick grid 53.5010 34.2423
+\t (00:02:31) last pick:  54.0000 34.0000
+\t (00:02:31) Generate Fanouts completed, #Pins=1, MAIN_PWR
+\i (00:02:37) zoom points 
+\t (00:02:37) Pick 1st corner of the new window.
+\i (00:02:39) drag_start 61.2585 46.0917
+\i (00:02:39) drag_stop 53.3305 51.2918
+\i (00:02:39) trapsize 376
+\i (00:02:39) drag_start grid 53.9890 48.4020
+\i (00:02:39) drag_stop 53.6654 48.8385
+\t (00:02:39) Generate Fanouts completed, #Pins=2, IC1
+\i (00:02:40) pick grid 53.6202 49.1320
+\t (00:02:40) last pick:  54.0000 49.0000
+\t (00:02:40) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:40) pick grid 53.6052 49.1847
+\t (00:02:40) last pick:  54.0000 49.0000
+\t (00:02:40) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:40) pick grid 53.6052 49.2599
+\t (00:02:40) last pick:  54.0000 49.0000
+\t (00:02:40) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:46) zoom out 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 56.8110 48.6880
+\i (00:02:46) trapsize 753
+\i (00:02:46) zoom out 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 56.8111 48.6880
+\i (00:02:46) trapsize 1505
+\i (00:02:46) zoom out 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom out 56.8110 48.6880
+\i (00:02:46) trapsize 3010
+\i (00:02:49) zoom points 
+\t (00:02:49) Pick 1st corner of the new window.
+\i (00:02:50) drag_start 62.2294 62.5348
+\i (00:02:53) drag_stop 59.6407 46.2196
+\i (00:02:53) trapsize 1181
+\i (00:02:54) pick grid 53.0684 60.1737
+\t (00:02:54) last pick:  53.0000 60.0000
+\t (00:02:54) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:55) pick grid 54.5323 60.5987
+\t (00:02:55) last pick:  55.0000 61.0000
+\t (00:02:55) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:57) pick grid 56.0198 60.4806
+\t (00:02:57) last pick:  56.0000 60.0000
+\t (00:02:57) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:58) pick grid 59.0656 55.6640
+\t (00:02:58) last pick:  59.0000 56.0000
+\t (00:02:58) Generate Fanouts completed, #Pins=1, IC1
+\i (00:02:59) pick grid 59.6323 55.0973
+\t (00:02:59) last pick:  60.0000 55.0000
+\t (00:02:59) Generate Fanouts completed, #Pins=1, IC1
+\i (00:03:00) pick grid 59.6559 52.6654
+\t (00:03:00) last pick:  60.0000 53.0000
+\t (00:03:00) Generate Fanouts completed, #Pins=1, IC1
+\i (00:03:01) pick grid 59.5378 52.0279
+\t (00:03:01) last pick:  60.0000 52.0000
+\t (00:03:01) Generate Fanouts completed, #Pins=1, IC1
+\i (00:03:12) prepopup 42.4435 51.4612
+\i (00:03:14) done 
+\i (00:03:14) placementedit 
+\i (00:03:17) drag_start grid 54.2018 47.7543
+\i (00:03:17) move 
+\t (00:03:17) last pick:  53.2900 55.0000
+\t (00:03:17) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (00:03:17) Pick new location for the element(s).
+\i (00:03:18) drag_stop 54.1781 50.4696
+\i (00:03:18) placementedit 
+\i (00:03:19) undo 
+\i (00:03:19) trapsize 1181
+\i (00:03:19) placementedit 
+\i (00:03:23) pick grid 42.7504 53.5154
+\t (00:03:23) last pick:  43.0000 54.0000
+\i (00:03:27) etchedit 
+\i (00:03:30) drag_start grid 54.2018 47.3293
+\i (00:03:30) slide 
+\t (00:03:30) Waiting for the destination pick.
+\t (00:03:30) Start slide location has pre-existing DRC errors.
+\i (00:03:31) drag_stop grid 54.2490 50.8237
+\t (00:03:31) DRC errors detected.
+\i (00:03:31) etchedit 
+\i (00:03:34) drag_start grid 60.7656 52.2876
+\i (00:03:34) slide 
+\t (00:03:34) Waiting for the destination pick.
+\t (00:03:34) Start slide location has pre-existing DRC errors.
+\i (00:03:35) drag_stop grid 57.3656 52.1696
+\t (00:03:35) DRC errors detected.
+\i (00:03:35) etchedit 
+\i (00:03:37) drag_start grid 60.2226 55.6876
+\i (00:03:37) slide 
+\t (00:03:37) Waiting for the destination pick.
+\t (00:03:37) Start slide location has pre-existing DRC errors.
+\i (00:03:38) drag_stop grid 57.0351 55.8057
+\t (00:03:38) DRC errors detected.
+\i (00:03:38) etchedit 
+\i (00:03:47) change 
+\i (00:03:50) setwindow form.mini
+\i (00:03:50) FORM mini apply_width YES 
+\i (00:03:58) FORM mini line_width 0.2800 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) pick grid 57.6017 55.7112
+\t (00:04:01) last pick:  57.7850 55.8800
+\t (00:04:01) Changed 1 items out of 1 items found.
+\i (00:04:02) pick grid 60.2698 55.1209
+\t (00:04:02) last pick:  60.3250 55.2450
+\t (00:04:02) Changed 1 items out of 1 items found.
+\i (00:04:04) pick grid 59.7267 52.7362
+\t (00:04:04) last pick:  59.6900 52.7050
+\t (00:04:04) Changed 1 items out of 1 items found.
+\i (00:04:05) pick grid 57.8379 52.2168
+\t (00:04:05) last pick:  57.7850 52.0700
+\t (00:04:05) Changed 1 items out of 1 items found.
+\i (00:04:07) pick grid 53.5879 48.6751
+\t (00:04:07) last pick:  53.3400 48.8950
+\t (00:04:07) Changed 1 items out of 1 items found.
+\i (00:04:08) pick grid 53.9893 50.2807
+\t (00:04:08) last pick:  53.9750 50.1650
+\t (00:04:08) Changed 1 items out of 1 items found.
+\i (00:04:09) pick grid 52.9740 60.9529
+\t (00:04:09) last pick:  52.7050 60.9600
+\t (00:04:09) Changed 1 items out of 1 items found.
+\i (00:04:10) pick grid 54.7684 61.0473
+\t (00:04:10) last pick:  54.6100 60.9600
+\w (00:04:10) WARNING(SPMHGE-554): Text already matches option panel settings.
+\i (00:04:11) pick grid 54.5323 61.0473
+\t (00:04:11) last pick:  54.6100 60.9600
+\t (00:04:11) Changed 1 items out of 1 items found.
+\i (00:04:12) pick grid 56.0670 61.0237
+\t (00:04:12) last pick:  55.8800 60.9600
+\t (00:04:12) Changed 1 items out of 1 items found.
+\i (00:04:14) prepopup 55.7837 57.2696
+\i (00:04:14) done 
+\i (00:04:14) etchedit 
+\i (00:04:16) pick grid 45.2532 54.2001
+\t (00:04:16) last pick:  45.0850 53.9750
+\i (00:04:26) zoom fit 
+\i (00:04:26) trapsize 4262
+\i (00:04:33) zoom points 
+\t (00:04:33) Pick 1st corner of the new window.
+\i (00:04:35) drag_start 35.5138 72.8594
+\i (00:04:36) drag_stop 46.5960 32.6225
+\i (00:04:36) trapsize 2911
+\i (00:04:47) zoom points 
+\t (00:04:47) Pick 1st corner of the new window.
+\i (00:04:49) drag_start 43.9571 62.4945
+\i (00:04:49) drag_stop 42.1520 55.9727
+\i (00:04:49) trapsize 472
+\i (00:04:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (00:04:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (00:04:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing"
+\i (00:04:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing"
+\i (00:04:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing" +
+\i (00:04:55) QtSignal "Add Connect"
+\i (00:04:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing" +
+\i (00:04:55) QtSignal "Add Connect"
+\i (00:04:55) add connect 
+\t (00:04:55) Pick first element.
+\i (00:05:22) pick grid 37.0955 59.8140
+\t (00:05:22) last pick:  36.8300 59.6900
+\t (00:05:22) last pick:  37.0000 59.3250
+\t (00:05:22) Target Via is defined from TOP to BOTTOM.
+\t (00:05:22) last pick:  37.0000 59.3250
+\i (00:05:22) mouse_pos 37.0955 59.8140
+\i (00:05:22) mouse_pos 37.0295 59.3610
+\i (00:05:23) mouse_pos 36.9917 58.7192
+\i (00:05:24) pick grid 36.9917 58.7192
+\t (00:05:24) last pick:  36.8300 58.4200
+\t (00:05:24) No DRC errors detected.
+\t (00:05:24) Pick first element.
+\i (00:05:26) pick grid 37.0389 59.3327
+\t (00:05:26) last pick:  36.8300 59.0550
+\t (00:05:26) Pick first element.
+\t (00:05:26) last pick:  37.0000 59.3250
+\i (00:05:26) mouse_pos 37.0389 59.3327
+\i (00:05:26) mouse_pos 37.0295 59.3893
+\i (00:05:26) mouse_pos 37.0200 60.0217
+\i (00:05:27) pick grid 37.0200 60.0217
+\t (00:05:27) last pick:  36.8300 60.3250
+\t (00:05:27) No DRC errors detected.
+\t (00:05:27) Pick first element.
+\i (00:05:36) zoom fit 
+\i (00:05:36) trapsize 4262
+\i (00:05:42) zoom points 
+\t (00:05:42) Pick 1st corner of the new window.
+\i (00:05:43) drag_start 48.1304 74.1381
+\i (00:05:44) drag_stop 53.8420 59.9018
+\i (00:05:44) trapsize 1030
+\i (00:05:45) pick grid 55.0116 71.7276
+\t (00:05:45) last pick:  55.2450 71.7550
+\t (00:05:46) Pick first element.
+\t (00:05:46) last pick:  54.9900 72.3500
+\t (00:05:46) Target Symbol Pin is defined on TOP.
+\t (00:05:46) last pick:  54.9900 72.3500
+\i (00:05:48) pick grid 55.5473 63.3012
+\t (00:05:48) last pick:  55.2450 63.5000
+\t (00:05:48) No DRC errors detected.
+\i (00:05:50) mouse_pos 55.5473 61.2616
+\i (00:05:51) pick grid 55.5473 61.2616
+\t (00:05:51) last pick:  55.2450 60.9600
+\t (00:05:51) No DRC errors detected.
+\t (00:05:51) Pick first element.
+\i (00:05:54) prepopup 59.4205 66.3710
+\i (00:05:55) done 
+\i (00:05:55) etchedit 
+\i (00:05:57) drag_start grid 56.0417 70.8623
+\i (00:05:57) move 
+\t (00:05:58) last pick:  55.8800 71.1200
+\t (00:05:58) Element has no origin, using pick.
+\t (00:05:58) Pick new location for the element(s).
+\i (00:05:59) drag_stop grid 56.9483 70.9035
+\i (00:05:59) etchedit 
+\i (00:06:01) undo 
+\i (00:06:01) trapsize 1030
+\i (00:06:01) etchedit 
+\i (00:06:03) placementedit 
+\i (00:06:04) drag_start grid 57.5663 70.9447
+\i (00:06:04) move 
+\t (00:06:04) last pick:  54.3400 75.0000
+\t (00:06:04) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (00:06:04) Pick new location for the element(s).
+\i (00:06:06) roam y -16
+\i (00:06:07) roam y -16
+\i (00:06:07) roam y -16
+\i (00:06:07) roam y -16
+\i (00:06:10) roam y -16
+\i (00:06:11) drag_stop 54.6408 75.6110
+\i (00:06:11) placementedit 
+\i (00:06:12) undo 
+\i (00:06:12) trapsize 1030
+\i (00:06:12) placementedit 
+\i (00:06:13) undo 
+\i (00:06:14) trapsize 1030
+\i (00:06:14) placementedit 
+\i (00:06:16) drag_start grid 57.3603 71.3774
+\i (00:06:16) move 
+\t (00:06:16) last pick:  54.3400 75.0000
+\t (00:06:16) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (00:06:16) Pick new location for the element(s).
+\i (00:06:19) roam y -16
+\i (00:06:19) roam y -16
+\i (00:06:20) roam y -16
+\i (00:06:24) drag_stop 55.1764 74.7664
+\i (00:06:24) placementedit 
+\i (00:06:25) pick grid 58.6170 67.9263
+\t (00:06:25) last pick:  58.4200 67.9450
+\i (00:06:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing" +
+\i (00:06:29) QtSignal "Add Connect"
+\i (00:06:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing" +
+\i (00:06:29) QtSignal "Add Connect"
+\i (00:06:29) add connect 
+\t (00:06:29) Pick first element.
+\i (00:06:32) pick grid 55.3619 71.7584
+\t (00:06:32) last pick:  55.2450 71.7550
+\t (00:06:32) last pick:  55.1764 72.1164
+\t (00:06:32) Target Symbol Pin is defined on TOP.
+\t (00:06:32) last pick:  55.1764 72.1164
+\i (00:06:35) pick grid 55.3207 63.8265
+\t (00:06:35) last pick:  55.2450 64.1350
+\t (00:06:35) No DRC errors detected.
+\t (00:06:35) last pick:  55.3744 64.2644
+\i (00:06:36) mouse_pos 55.0116 61.2717
+\i (00:06:40) pick grid 55.0116 61.2717
+\t (00:06:40) last pick:  55.2450 60.9600
+\t (00:06:40) No DRC errors detected.
+\t (00:06:40) Pick first element.
+\i (00:06:41) undo 
+\i (00:06:41) trapsize 1030
+\i (00:06:41) placementedit 
+\i (00:06:42) undo 
+\i (00:06:42) trapsize 1030
+\i (00:06:42) placementedit 
+\i (00:06:43) undo 
+\i (00:06:43) trapsize 472
+\i (00:06:43) placementedit 
+\i (00:06:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing" +
+\i (00:06:47) QtSignal "Add Connect"
+\i (00:06:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing" +
+\i (00:06:47) QtSignal "Add Connect"
+\i (00:06:47) add connect 
+\t (00:06:48) Pick first element.
+\i (00:06:49) pick grid 36.9540 59.2572
+\t (00:06:49) last pick:  36.8300 59.0550
+\t (00:06:49) last pick:  37.0000 59.3250
+\i (00:06:49) mouse_pos 36.9540 59.2572
+\i (00:06:49) mouse_pos 36.9540 59.4176
+\i (00:06:49) mouse_pos 37.0389 60.0122
+\i (00:06:50) pick grid 37.0389 60.0122
+\t (00:06:50) last pick:  36.8300 60.3250
+\t (00:06:50) No DRC errors detected.
+\t (00:06:50) Pick first element.
+\i (00:06:52) zoom fit 
+\i (00:06:52) trapsize 4262
+\i (00:06:53) zoom points 
+\t (00:06:53) Pick 1st corner of the new window.
+\i (00:06:55) drag_start 44.9763 74.5644
+\i (00:06:57) drag_stop 54.5240 58.9641
+\i (00:06:57) trapsize 1129
+\i (00:06:59) pick grid 54.3229 71.7649
+\t (00:06:59) last pick:  54.6100 71.7550
+\t (00:06:59) Pick first element.
+\t (00:06:59) last pick:  54.3400 72.3500
+\t (00:06:59) Target Symbol Pin is defined on TOP.
+\t (00:06:59) last pick:  54.3400 72.3500
+\i (00:07:02) pick grid 54.9325 64.3824
+\t (00:07:02) last pick:  55.2450 64.1350
+\t (00:07:02) No DRC errors detected.
+\i (00:07:02) mouse_pos 55.2937 61.2443
+\i (00:07:03) mouse_pos 55.2937 61.9668
+\i (00:07:07) pick grid 55.4743 63.2988
+\t (00:07:07) last pick:  55.2450 63.5000
+\t (00:07:07) No DRC errors detected.
+\i (00:07:08) prepopup 55.3614 63.8857
+\i (00:07:09) oops 
+\t (00:07:09) last pick:  55.2450 64.1350
+\i (00:07:11) prepopup 55.4292 66.7755
+\i (00:07:12) oops 
+\t (00:07:12) last pick:  54.3400 72.3500
+\i (00:07:15) pick grid 54.7970 64.4276
+\t (00:07:15) last pick:  54.6100 64.1350
+\t (00:07:15) No DRC errors detected.
+\t (00:07:15) last pick:  54.5380 64.1350
+\i (00:07:21) mouse_pos 55.3163 60.6799
+\i (00:07:21) mouse_pos 55.5420 61.4701
+\i (00:07:22) pick grid 55.5420 63.2536
+\t (00:07:22) last pick:  55.2450 63.5000
+\t (00:07:22) No DRC errors detected.
+\t (00:07:22) last pick:  55.1730 63.5000
+\i (00:07:24) mouse_pos 55.0228 61.2669
+\i (00:07:26) pick grid 55.0228 61.2669
+\t (00:07:26) last pick:  55.2450 60.9600
+\t (00:07:26) No DRC errors detected.
+\t (00:07:26) Pick first element.
+\i (00:07:36) zoom fit 
+\i (00:07:36) trapsize 4262
+\i (00:07:39) zoom points 
+\t (00:07:39) Pick 1st corner of the new window.
+\i (00:07:42) drag_start 35.5138 72.8594
+\i (00:07:46) drag_stop 36.6220 39.8686
+\i (00:07:46) trapsize 2387
+\i (00:07:49) pick grid 47.8794 41.8738
+\t (00:07:49) last pick:  47.6250 41.9100
+\t (00:07:49) Pick first element.
+\t (00:07:49) last pick:  48.0000 42.0000
+\t (00:07:49) Target Symbol Pin is defined on TOP.
+\t (00:07:49) last pick:  48.0000 42.0000
+\i (00:07:51) mouse_pos 52.6537 48.6057
+\i (00:07:52) pick grid 52.6537 48.6057
+\t (00:07:52) last pick:  52.7050 48.8950
+\t (00:07:52) No DRC errors detected.
+\t (00:07:52) Pick first element.
+\i (00:07:55) pick grid 58.3829 42.1603
+\t (00:07:55) last pick:  58.4200 41.9100
+\t (00:07:55) Pick first element.
+\t (00:07:55) last pick:  58.1600 42.0000
+\t (00:07:55) Target Symbol Pin is defined on TOP.
+\t (00:07:55) last pick:  58.1600 42.0000
+\i (00:07:56) mouse_pos 59.0991 50.5154
+\i (00:07:57) mouse_pos 59.0991 50.1812
+\i (00:08:00) pick grid 59.1468 44.1655
+\t (00:08:00) last pick:  59.0550 44.4500
+\t (00:08:00) No DRC errors detected.
+\i (00:08:01) mouse_pos 59.0514 50.5154
+\i (00:08:01) mouse_pos 59.1468 50.4677
+\i (00:08:07) pick grid 60.8656 46.0275
+\t (00:08:07) last pick:  60.9600 45.7200
+\t (00:08:07) No DRC errors detected.
+\i (00:08:09) prepopup 60.8179 46.0275
+\i (00:08:10) oops 
+\t (00:08:10) last pick:  59.0550 44.4500
+\i (00:08:13) pick grid 60.0540 45.5023
+\t (00:08:13) last pick:  60.3250 45.7200
+\t (00:08:13) No DRC errors detected.
+\i (00:08:16) pick grid 60.3882 51.0883
+\t (00:08:16) last pick:  60.3250 50.8000
+\t (00:08:16) No DRC errors detected.
+\i (00:08:17) mouse_pos 60.0062 51.1361
+\i (00:08:18) mouse_pos 60.0540 51.2316
+\i (00:08:19) pick grid 60.0540 51.2316
+\t (00:08:19) last pick:  60.3250 51.4350
+\t (00:08:19) No DRC errors detected.
+\i (00:08:20) mouse_pos 60.0062 51.1838
+\i (00:08:21) pick grid 58.9081 51.1361
+\t (00:08:21) last pick:  59.0550 51.4350
+\t (00:08:21) No DRC errors detected.
+\t (00:08:21) Pick first element.
+\i (00:08:22) pick grid 55.4228 41.1099
+\t (00:08:22) last pick:  55.2450 41.2750
+\t (00:08:22) Pick first element.
+\t (00:08:22) last pick:  55.6200 41.7460
+\t (00:08:22) Target Symbol Pin is defined on TOP.
+\t (00:08:22) last pick:  55.6200 41.7460
+\i (00:08:24) pick grid 58.3352 49.0831
+\t (00:08:24) last pick:  58.4200 48.8950
+\t (00:08:24) No DRC errors detected.
+\i (00:08:26) pick grid 57.8100 50.4677
+\t (00:08:26) last pick:  57.7850 50.1650
+\t (00:08:26) No DRC errors detected.
+\i (00:08:29) pick grid 57.3326 51.1361
+\t (00:08:29) last pick:  57.1500 51.4350
+\t (00:08:29) No DRC errors detected.
+\i (00:08:29) mouse_pos 58.1442 51.4703
+\i (00:08:30) pick grid 58.1442 51.4703
+\t (00:08:30) last pick:  58.4200 51.4350
+\t (00:08:30) No DRC errors detected.
+\t (00:08:30) Pick first element.
+\i (00:08:34) pick grid 64.8283 46.9346
+\t (00:08:34) last pick:  64.7700 46.9900
+\t (00:08:34) Pick first element.
+\t (00:08:34) last pick:  64.3000 47.0000
+\t (00:08:34) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:08:34) last pick:  64.3000 47.0000
+\i (00:08:35) mouse_pos 70.9872 53.6187
+\i (00:08:37) mouse_pos 71.4169 52.9503
+\i (00:08:38) mouse_pos 70.8440 53.2845
+\i (00:08:41) pick grid 71.6079 53.6665
+\t (00:08:41) last pick:  71.7550 53.9750
+\t (00:08:41) No DRC errors detected.
+\t (00:08:41) Pick first element.
+\i (00:08:46) pick grid 65.6877 52.2342
+\t (00:08:46) last pick:  65.4050 52.0700
+\t (00:08:46) Pick first element.
+\t (00:08:46) last pick:  65.4050 52.0700
+\i (00:08:47) mouse_pos 63.5870 52.4729
+\i (00:08:47) mouse_pos 60.7224 52.6639
+\i (00:08:48) mouse_pos 57.9533 54.7168
+\i (00:08:48) mouse_pos 59.0514 53.7620
+\i (00:08:48) mouse_pos 59.8153 52.9981
+\i (00:08:48) mouse_pos 60.6269 51.9477
+\i (00:08:48) mouse_pos 63.1573 52.5684
+\i (00:08:48) mouse_pos 64.0644 52.7116
+\i (00:08:49) Esc 
+\i (00:08:49) Esc 
+\i (00:08:50) prepopup 65.3535 52.5684
+\i (00:08:53) oops 
+\t (00:08:53) last pick:  65.4050 52.0700
+\t (00:08:53) Pick first element.
+\i (00:08:54) prepopup 65.7832 49.8947
+\i (00:08:55) done 
+\i (00:08:55) placementedit 
+\i (00:09:01) drag_start grid 61.9160 55.4330
+\i (00:09:02) drag_stop 65.8309 52.7594
+\i (00:09:04) move 
+\t (00:09:04) last pick:  63.6500 54.0000
+\t (00:09:04) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:09:04) Pick new location for the element(s).
+\i (00:09:08) prepopup 43.5347 55.1943
+\i (00:09:10) rotate 
+\t (00:09:10) Spin the element(s).
+\i (00:09:12) iangle 90.000
+\t (00:09:12) last angle:  270.000 Degrees
+\i (00:09:17) pick 43.8150 55.0000
+\t (00:09:17) last pick:  43.8150 55.0000
+\i (00:09:17) placementedit 
+\i (00:09:19) drag_start grid 43.3915 62.7377
+\i (00:09:20) drag_stop 45.7787 59.1570
+\i (00:09:22) pick grid 42.8186 61.8784
+\t (00:09:22) last pick:  42.5450 61.5950
+\i (00:09:23) pick grid 44.9670 62.0216
+\t (00:09:23) last pick:  45.0850 62.2300
+\i (00:09:24) move 
+\t (00:09:24) last pick:  45.0000 61.2500
+\t (00:09:24) Moving C3 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:09:24) Pick new location for the element(s).
+\i (00:09:28) prepopup 63.5870 55.0510
+\i (00:09:29) rotate 
+\t (00:09:29) Spin the element(s).
+\i (00:09:32) iangle 270.000
+\t (00:09:32) last angle:  180.000 Degrees
+\i (00:09:37) pick 63.6500 54.0000
+\t (00:09:37) last pick:  63.6500 54.0000
+\i (00:09:37) placementedit 
+\i (00:09:41) drag_start grid 42.9618 56.3879
+\i (00:09:41) drag_stop 44.7283 52.7594
+\i (00:09:42) prepopup 43.7257 56.1014
+\i (00:09:45) pick grid 43.7257 55.2420
+\t (00:09:45) last pick:  43.8150 55.2450
+\i (00:09:45) move 
+\t (00:09:45) last pick:  43.8150 55.0000
+\t (00:09:45) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:09:45) Pick new location for the element(s).
+\i (00:09:49) prepopup 44.2031 60.6848
+\i (00:09:50) rotate 
+\t (00:09:50) Spin the element(s).
+\i (00:09:53) iangle 180.000
+\t (00:09:53) last angle:  90.000 Degrees
+\i (00:09:58) pick 43.8150 55.0000
+\t (00:09:58) last pick:  43.8150 55.0000
+\i (00:09:58) placementedit 
+\i (00:09:59) pick grid 43.1050 50.5631
+\t (00:09:59) last pick:  43.1800 50.8000
+\i (00:10:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing" +
+\i (00:10:02) QtSignal "Add Connect"
+\i (00:10:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing" +
+\i (00:10:02) QtSignal "Add Connect"
+\i (00:10:02) add connect 
+\t (00:10:02) Pick first element.
+\i (00:10:03) pick grid 64.0644 53.7142
+\t (00:10:03) last pick:  64.1350 53.9750
+\t (00:10:03) last pick:  64.3000 54.0000
+\t (00:10:03) Target Symbol Pin is defined on TOP.
+\t (00:10:03) last pick:  64.3000 54.0000
+\i (00:10:04) mouse_pos 64.3031 47.8418
+\i (00:10:04) pick grid 64.3031 47.2688
+\t (00:10:04) last pick:  64.1350 46.9900
+\t (00:10:04) No DRC errors detected.
+\t (00:10:04) Pick first element.
+\i (00:10:12) pick grid 55.6616 72.1910
+\t (00:10:12) last pick:  55.8800 72.3900
+\t (00:10:12) Pick first element.
+\t (00:10:12) last pick:  55.6400 72.3500
+\t (00:10:12) Target Symbol Pin is defined on TOP.
+\t (00:10:12) last pick:  55.6400 72.3500
+\i (00:10:15) pick grid 56.5687 69.6606
+\t (00:10:15) last pick:  56.5150 69.8500
+\t (00:10:15) No DRC errors detected.
+\i (00:10:16) mouse_pos 56.8552 61.2577
+\i (00:10:17) pick grid 56.7597 60.6370
+\t (00:10:17) last pick:  56.5150 60.3250
+\t (00:10:17) No DRC errors detected.
+\t (00:10:17) Pick first element.
+\i (00:10:19) pick grid 49.2162 66.9869
+\t (00:10:19) last pick:  49.5300 66.6750
+\t (00:10:19) Pick first element.
+\t (00:10:19) last pick:  48.8500 66.6500
+\t (00:10:19) Target Symbol Pin is defined on TOP.
+\t (00:10:19) last pick:  48.8500 66.6500
+\i (00:10:23) pick grid 53.7041 66.3185
+\t (00:10:23) last pick:  53.9750 66.0400
+\t (00:10:23) No DRC errors detected.
+\i (00:10:23) mouse_pos 54.0860 61.2577
+\i (00:10:24) pick grid 54.0860 61.2577
+\t (00:10:24) last pick:  53.9750 60.9600
+\t (00:10:24) No DRC errors detected.
+\t (00:10:24) Pick first element.
+\i (00:10:27) pick grid 45.5877 63.9791
+\t (00:10:27) last pick:  45.7200 64.1350
+\t (00:10:28) Pick first element.
+\t (00:10:28) last pick:  45.1500 64.3500
+\t (00:10:28) Target Symbol Pin is defined on TOP.
+\t (00:10:28) last pick:  45.1500 64.3500
+\i (00:10:30) pick grid 47.9749 62.7855
+\t (00:10:30) last pick:  48.2600 62.8650
+\t (00:10:30) No DRC errors detected.
+\i (00:10:33) pick grid 53.0357 62.9287
+\t (00:10:33) last pick:  53.3400 62.8650
+\t (00:10:33) No DRC errors detected.
+\i (00:10:33) mouse_pos 53.7996 61.2577
+\i (00:10:35) pick grid 53.7996 60.6370
+\t (00:10:35) last pick:  53.9750 60.3250
+\t (00:10:35) No DRC errors detected.
+\t (00:10:35) Pick first element.
+\i (00:10:37) pick grid 43.8689 54.1917
+\t (00:10:37) last pick:  43.8150 53.9750
+\t (00:10:37) Pick first element.
+\t (00:10:37) last pick:  43.8150 54.3500
+\t (00:10:37) Target Symbol Pin is defined on TOP.
+\t (00:10:37) last pick:  43.8150 54.3500
+\i (00:10:39) pick grid 45.6354 54.9556
+\t (00:10:39) last pick:  45.7200 55.2450
+\t (00:10:39) No DRC errors detected.
+\i (00:10:39) mouse_pos 46.7335 55.2420
+\i (00:10:40) pick grid 47.3542 55.2420
+\t (00:10:40) last pick:  47.6250 55.2450
+\t (00:10:40) No DRC errors detected.
+\t (00:10:40) Pick first element.
+\i (00:10:42) pick grid 40.5746 54.1917
+\t (00:10:42) last pick:  40.6400 53.9750
+\t (00:10:42) Pick first element.
+\t (00:10:42) last pick:  40.3000 54.0000
+\t (00:10:42) Target Symbol Pin is defined on TOP.
+\t (00:10:42) last pick:  40.3000 54.0000
+\i (00:10:53) mouse_pos 40.3359 58.2021
+\i (00:10:55) pick grid 40.3359 58.2021
+\t (00:10:55) last pick:  40.6400 58.4200
+\t (00:10:55) No DRC errors detected.
+\t (00:10:55) Pick first element.
+\i (00:10:56) pick grid 41.6727 58.6318
+\t (00:10:56) last pick:  41.9100 58.4200
+\t (00:10:56) Pick first element.
+\t (00:10:56) last pick:  41.4196 58.6750
+\t (00:10:56) Target Symbol Pin is defined on TOP.
+\t (00:10:56) last pick:  41.4196 58.6750
+\i (00:10:58) Esc 
+\i (00:10:59) prepopup 41.5772 52.1387
+\i (00:11:00) oops 
+\t (00:11:00) last pick:  41.4196 58.6750
+\t (00:11:01) Pick first element.
+\i (00:11:11) zoom points 
+\t (00:11:11) Pick 1st corner of the new window.
+\i (00:11:12) drag_start 38.0920 62.9765
+\i (00:11:12) drag_stop 41.4340 56.4833
+\i (00:11:12) trapsize 470
+\i (00:11:17) add connect 
+\t (00:11:17) Pick first element.
+\i (00:11:18) pick grid 41.5594 58.4002
+\t (00:11:18) last pick:  41.2750 58.4200
+\t (00:11:18) last pick:  41.2750 58.4200
+\i (00:11:18) mouse_pos 41.5594 58.4002
+\i (00:11:19) mouse_pos 41.5970 59.1332
+\i (00:11:20) pick grid 41.4279 59.3681
+\t (00:11:20) last pick:  41.2750 59.0550
+\t (00:11:20) No DRC errors detected.
+\t (00:11:20) Pick first element.
+\i (00:11:21) undo 
+\i (00:11:22) trapsize 470
+\i (00:11:22) placementedit 
+\i (00:11:24) add connect 
+\t (00:11:24) Pick first element.
+\i (00:11:25) pick grid 41.4748 58.6728
+\t (00:11:25) last pick:  41.2750 58.4200
+\t (00:11:25) last pick:  41.4196 58.6750
+\t (00:11:25) Target Symbol Pin is defined on TOP.
+\t (00:11:25) last pick:  41.4196 58.6750
+\i (00:11:26) mouse_pos 41.4842 59.4151
+\i (00:11:27) mouse_pos 41.4654 60.0165
+\i (00:11:27) mouse_pos 41.2023 59.3493
+\i (00:11:27) mouse_pos 40.9486 59.0298
+\i (00:11:29) mouse_pos 40.9580 60.1762
+\i (00:11:30) mouse_pos 41.2399 59.3399
+\i (00:11:30) pick grid 41.2399 59.3399
+\t (00:11:30) last pick:  41.2750 59.0550
+\t (00:11:30) No DRC errors detected.
+\t (00:11:30) Pick first element.
+\i (00:11:31) pick grid 41.5218 59.3399
+\t (00:11:31) last pick:  41.2750 59.0550
+\t (00:11:31) Pick first element.
+\t (00:11:31) last pick:  41.4196 59.3250
+\t (00:11:31) Target Symbol Pin is defined on TOP.
+\t (00:11:31) last pick:  41.4196 59.3250
+\i (00:11:31) mouse_pos 41.5218 59.3399
+\i (00:11:31) mouse_pos 41.5030 59.4057
+\i (00:11:31) mouse_pos 41.4748 60.0165
+\i (00:11:32) pick grid 41.4748 60.0165
+\t (00:11:32) last pick:  41.2750 60.3250
+\t (00:11:32) No DRC errors detected.
+\t (00:11:32) Pick first element.
+\i (00:11:36) zoom out 
+\i (00:11:36) setwindow pcb
+\i (00:11:36) zoom out 43.6361 59.7252
+\i (00:11:36) trapsize 940
+\i (00:11:40) zoom out 
+\i (00:11:40) setwindow pcb
+\i (00:11:40) zoom out 43.6362 59.7252
+\i (00:11:40) trapsize 1879
+\i (00:11:45) pick grid 41.7943 59.9507
+\t (00:11:45) last pick:  41.9100 59.6900
+\t (00:11:45) Pick first element.
+\t (00:11:45) last pick:  41.4196 59.9750
+\t (00:11:45) Target Symbol Pin is defined on TOP.
+\t (00:11:45) last pick:  41.4196 59.9750
+\i (00:11:47) pick grid 49.2366 58.9359
+\t (00:11:47) last pick:  49.5300 59.0550
+\t (00:11:47) No DRC errors detected.
+\i (00:11:49) mouse_pos 56.6413 59.3869
+\i (00:11:50) pick grid 56.5285 60.0259
+\t (00:11:50) last pick:  56.5150 60.3250
+\t (00:11:50) No DRC errors detected.
+\t (00:11:50) Pick first element.
+\i (00:11:55) roam start
+\i (00:11:55) roam x 16
+\i (00:11:55) roam x 112
+\i (00:11:55) roam x 16
+\i (00:11:55) roam x 80
+\i (00:11:55) roam x 16
+\i (00:11:55) roam x 32
+\i (00:11:55) roam x 16
+\i (00:11:55) roam x 48
+\i (00:11:56) roam x 16
+\i (00:11:56) roam x 64
+\i (00:11:56) roam x 48
+\i (00:11:56) roam x 32
+\i (00:11:56) roam x 32
+\i (00:11:56) roam x 16
+\i (00:11:56) roam x 16
+\i (00:11:56) roam end
+\i (00:11:59) pick grid 73.6711 63.4464
+\t (00:11:59) last pick:  73.6600 63.5000
+\t (00:11:59) Pick first element.
+\t (00:11:59) last pick:  73.5000 64.0000
+\t (00:11:59) Target Symbol Pin is defined on TOP.
+\t (00:11:59) last pick:  73.5000 64.0000
+\i (00:12:01) pick grid 72.0548 65.2506
+\t (00:12:01) last pick:  71.7550 65.4050
+\t (00:12:01) No DRC errors detected.
+\i (00:12:02) mouse_pos 56.8319 65.2130
+\i (00:12:03) pick grid 56.8319 65.2130
+\t (00:12:03) last pick:  56.5150 65.4050
+\t (00:12:04) No DRC errors detected.
+\t (00:12:04) Pick first element.
+\i (00:12:08) pick grid 71.5286 59.8380
+\t (00:12:08) last pick:  71.7550 59.6900
+\t (00:12:08) Pick first element.
+\t (00:12:08) last pick:  71.5000 60.0000
+\t (00:12:08) Target Symbol Pin is defined on TOP.
+\t (00:12:08) last pick:  71.5000 60.0000
+\i (00:12:15) pick grid 60.6659 58.7479
+\t (00:12:15) last pick:  60.9600 59.0550
+\t (00:12:15) No DRC errors detected.
+\i (00:12:15) mouse_pos 59.9893 58.6728
+\i (00:12:16) pick grid 59.3503 58.6728
+\t (00:12:16) last pick:  59.0550 58.4200
+\t (00:12:16) No DRC errors detected.
+\t (00:12:16) Pick first element.
+\i (00:12:17) pick grid 73.4455 59.9132
+\t (00:12:17) last pick:  73.6600 59.6900
+\t (00:12:17) Pick first element.
+\t (00:12:17) last pick:  73.5000 60.0000
+\t (00:12:17) Target Symbol Pin is defined on TOP.
+\t (00:12:17) last pick:  73.5000 60.0000
+\i (00:12:20) pick grid 72.2803 58.7479
+\t (00:12:20) last pick:  72.3900 59.0550
+\t (00:12:20) No DRC errors detected.
+\i (00:12:20) mouse_pos 72.2803 59.0111
+\i (00:12:20) mouse_pos 72.0548 59.0111
+\i (00:12:22) pick grid 61.2672 58.5976
+\t (00:12:22) last pick:  60.9600 58.4200
+\t (00:12:22) No DRC errors detected.
+\i (00:12:22) mouse_pos 59.3503 58.0714
+\i (00:12:23) pick grid 59.3503 58.1090
+\t (00:12:23) last pick:  59.0550 58.4200
+\t (00:12:23) No DRC errors detected.
+\t (00:12:23) Pick first element.
+\i (00:12:26) pick grid 73.5959 55.8161
+\t (00:12:26) last pick:  73.6600 55.8800
+\t (00:12:26) Pick first element.
+\t (00:12:26) last pick:  73.5000 56.0000
+\t (00:12:26) Target Symbol Pin is defined on TOP.
+\t (00:12:26) last pick:  73.5000 56.0000
+\i (00:12:28) pick grid 72.1300 56.8686
+\t (00:12:28) last pick:  72.3900 57.1500
+\t (00:12:28) No DRC errors detected.
+\t (00:12:28) last pick:  72.3900 57.1100
+\i (00:12:30) pick grid 61.9062 57.0565
+\t (00:12:30) last pick:  61.5950 57.1500
+\t (00:12:30) No DRC errors detected.
+\t (00:12:30) last pick:  61.6467 57.0983
+\i (00:12:31) mouse_pos 59.9893 57.3572
+\i (00:12:32) pick grid 59.3127 57.3572
+\t (00:12:32) last pick:  59.0550 57.1500
+\t (00:12:32) No DRC errors detected.
+\t (00:12:32) Pick first element.
+\i (00:12:34) pick grid 71.4534 55.8161
+\t (00:12:34) last pick:  71.7550 55.8800
+\t (00:12:34) Pick first element.
+\t (00:12:34) last pick:  71.5000 56.0000
+\t (00:12:34) Target Symbol Pin is defined on TOP.
+\t (00:12:34) last pick:  71.5000 56.0000
+\i (00:12:38) pick grid 60.6283 53.5609
+\t (00:12:38) last pick:  60.3250 53.3400
+\t (00:12:38) No DRC errors detected.
+\i (00:12:39) mouse_pos 59.9893 53.2602
+\i (00:12:39) pick grid 59.3503 53.2602
+\t (00:12:39) last pick:  59.0550 53.3400
+\t (00:12:39) No DRC errors detected.
+\t (00:12:39) Pick first element.
+\i (00:12:44) roam start
+\i (00:12:44) roam y -16
+\i (00:12:44) roam x 16
+\i (00:12:44) roam y -80
+\i (00:12:44) roam y -48
+\i (00:12:44) roam y -32
+\i (00:12:44) roam y -32
+\i (00:12:44) roam y -32
+\i (00:12:44) roam x 16
+\i (00:12:44) roam y -32
+\i (00:12:44) roam y 16
+\i (00:12:45) roam y 32
+\i (00:12:45) roam y 32
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 32
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 32
+\i (00:12:45) roam y 32
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam x -16
+\i (00:12:45) roam y 16
+\i (00:12:45) roam y 16
+\i (00:12:46) roam y 16
+\i (00:12:46) roam y 16
+\i (00:12:46) roam y 16
+\i (00:12:46) roam y 16
+\i (00:12:46) roam y 16
+\i (00:12:47) roam y 16
+\i (00:12:47) roam y 16
+\i (00:12:47) roam y 16
+\i (00:12:47) roam x -16
+\i (00:12:47) roam y 16
+\i (00:12:47) roam y 16
+\i (00:12:48) roam end
+\i (00:12:49) pick grid 71.6790 57.8845
+\t (00:12:49) last pick:  71.7550 57.7850
+\t (00:12:50) Pick first element.
+\t (00:12:50) last pick:  71.5000 58.0000
+\t (00:12:50) Target Symbol Pin is defined on TOP.
+\t (00:12:50) last pick:  71.5000 58.0000
+\i (00:12:52) pick grid 74.0094 57.1327
+\t (00:12:52) last pick:  74.2950 57.1500
+\t (00:12:52) No DRC errors detected.
+\t (00:12:52) last pick:  74.2433 57.0983
+\i (00:12:56) pick grid 74.8739 44.7665
+\t (00:12:56) last pick:  74.9300 44.4500
+\t (00:12:56) No DRC errors detected.
+\i (00:13:00) pick grid 60.4028 37.7377
+\t (00:13:00) last pick:  60.3250 37.4650
+\t (00:13:00) No DRC errors detected.
+\i (00:13:03) pick grid 46.0445 37.2866
+\t (00:13:03) last pick:  46.3550 37.4650
+\t (00:13:03) No DRC errors detected.
+\i (00:13:06) pick grid 43.3382 39.7298
+\t (00:13:06) last pick:  43.1800 40.0050
+\t (00:13:06) No DRC errors detected.
+\i (00:13:12) pick grid 45.7814 53.7123
+\t (00:13:12) last pick:  45.7200 53.9750
+\t (00:13:12) No DRC errors detected.
+\i (00:13:12) mouse_pos 46.6835 53.7874
+\i (00:13:13) pick grid 47.3224 53.7499
+\t (00:13:13) last pick:  47.6250 53.9750
+\t (00:13:13) No DRC errors detected.
+\t (00:13:13) Pick first element.
+\i (00:13:17) roam start
+\i (00:13:17) roam y 16
+\i (00:13:17) roam y 32
+\i (00:13:17) roam y 32
+\i (00:13:17) roam y 16
+\i (00:13:17) roam y 16
+\i (00:13:18) roam y 16
+\i (00:13:18) roam end
+\i (00:13:20) pick grid 50.5174 35.4824
+\t (00:13:20) last pick:  50.8000 35.5600
+\t (00:13:20) Pick first element.
+\t (00:13:20) last pick:  50.5400 35.6500
+\t (00:13:20) Target Symbol Pin is defined on TOP.
+\t (00:13:20) last pick:  50.5400 35.6500
+\i (00:13:20) mouse_pos 52.4719 35.5576
+\i (00:13:21) pick grid 53.0357 35.5576
+\t (00:13:21) last pick:  53.3400 35.5600
+\t (00:13:21) No DRC errors detected.
+\t (00:13:21) Pick first element.
+\i (00:13:26) zoom in 1 
+\i (00:13:26) setwindow pcb
+\i (00:13:26) zoom in 57.1703 34.6555
+\i (00:13:26) trapsize 940
+\i (00:13:26) zoom out 1 
+\i (00:13:26) setwindow pcb
+\i (00:13:26) zoom out 57.1515 34.7683
+\i (00:13:26) trapsize 1879
+\i (00:13:27) zoom out 1 
+\i (00:13:27) setwindow pcb
+\i (00:13:27) zoom out 56.2494 34.9937
+\i (00:13:27) trapsize 3759
+\i (00:13:29) zoom in 1 
+\i (00:13:29) setwindow pcb
+\i (00:13:29) zoom in 55.6481 56.5689
+\i (00:13:29) trapsize 1879
+\i (00:13:31) prepopup 45.0485 47.2472
+\i (00:13:31) done 
+\i (00:13:32) placementedit 
+\i (00:13:36) status 
+\i (00:13:36) placementedit 
+\i (00:13:42) setwindow form.status
+\i (00:13:42) FORM status done  
+\i (00:13:48) setwindow pcb
+\i (00:13:48) pick grid 45.9130 53.6747
+\t (00:13:48) last pick:  45.7200 53.9750
+\i (00:13:50) drag_start grid 45.9882 53.7498
+\i (00:13:50) drag_stop 45.8003 53.2988
+\i (00:13:50) pick grid 45.8003 53.2988
+\t (00:13:50) last pick:  45.7200 53.3400
+\i (00:13:51) pick grid 45.8378 53.9378
+\t (00:13:51) last pick:  45.7200 53.9750
+\i (00:13:52) pick grid 45.9130 53.6371
+\t (00:13:52) last pick:  45.7200 53.3400
+\i (00:13:59) etchedit 
+\i (00:14:02) pick grid 44.4847 49.0138
+\t (00:14:02) last pick:  44.4500 48.8950
+\i (00:14:05) pick grid 46.0258 54.0129
+\t (00:14:05) last pick:  45.7200 53.9750
+\i (00:14:05) slide 
+\t (00:14:05) Waiting for the destination pick.
+\i (00:14:05) pick grid dbl 46.0258 53.9754
+\t (00:14:05) last pick:  45.7200 53.9750
+\t (00:14:05) No DRC errors detected.
+\i (00:14:05) etchedit 
+\i (00:14:06) pick grid 46.0258 53.8626
+\t (00:14:06) last pick:  45.7200 53.9750
+\i (00:14:06) slide 
+\t (00:14:06) Waiting for the destination pick.
+\i (00:14:06) pick grid 46.0258 53.8626
+\t (00:14:06) last pick:  45.7200 53.9750
+\t (00:14:06) No DRC errors detected.
+\i (00:14:06) etchedit 
+\i (00:14:06) pick grid 45.9506 53.2988
+\t (00:14:06) last pick:  45.7200 53.3400
+\i (00:14:06) pick grid dbl 45.9506 53.2988
+\t (00:14:06) last pick:  45.7200 53.3400
+\i (00:14:08) pick grid 43.4323 49.4273
+\t (00:14:08) last pick:  43.1800 49.5300
+\i (00:14:08) drag_start grid 43.9585 49.4273
+\i (00:14:09) drag_stop 44.8606 49.4273
+\i (00:14:11) pick grid 45.2740 48.9387
+\t (00:14:11) last pick:  45.0850 48.8950
+\i (00:14:12) drag_start grid 43.1316 49.3897
+\i (00:14:12) slide 
+\t (00:14:13) Waiting for the destination pick.
+\i (00:14:14) drag_stop grid 44.8982 49.1642
+\t (00:14:14) No DRC errors detected.
+\i (00:14:15) etchedit 
+\i (00:14:18) drag_start grid 58.4296 49.0514
+\i (00:14:18) slide 
+\t (00:14:18) Waiting for the destination pick.
+\i (00:14:19) drag_stop grid 57.6778 49.0514
+\t (00:14:19) No DRC errors detected.
+\i (00:14:19) etchedit 
+\i (00:14:28) drag_start grid 74.4418 44.3530
+\i (00:14:28) slide 
+\t (00:14:28) Waiting for the destination pick.
+\i (00:14:30) drag_stop grid 74.2538 44.0899
+\t (00:14:30) No DRC errors detected.
+\i (00:14:30) etchedit 
+\i (00:14:31) drag_start grid 74.9680 46.2324
+\i (00:14:31) slide 
+\t (00:14:31) Waiting for the destination pick.
+\t (00:14:31) New cline would result in DRC error(s); retaining old cline.
+\i (00:14:32) drag_stop grid 74.4042 46.1572
+\t (00:14:32) No DRC errors detected.
+\i (00:14:33) etchedit 
+\i (00:14:36) drag_start grid 65.4208 57.0575
+\i (00:14:36) slide 
+\t (00:14:37) Waiting for the destination pick.
+\t (00:14:37) New cline would result in DRC error(s); retaining old cline.
+\i (00:14:41) drag_stop grid 65.4960 57.0199
+\t (00:14:41) No DRC errors detected.
+\i (00:14:41) etchedit 
+\i (00:14:54) custom smooth 
+   (00:14:54) Loading cmds.cxt 
+\i (00:14:57) pick 66.7364 57.1703
+\t (00:14:57) last pick:  66.7364 57.1703
+\i (00:14:59) pick 66.8867 57.0951
+\t (00:14:59) last pick:  66.8867 57.0951
+\i (00:15:02) pick 65.9471 59.0496
+\t (00:15:02) last pick:  65.9471 59.0496
+\i (00:15:03) pick 65.9471 59.0496
+\t (00:15:03) last pick:  65.9471 59.0496
+\i (00:15:14) custom smooth 
+\i (00:15:16) drag_start 57.6027 45.5934
+\i (00:15:17) drag_stop 60.5345 43.3006
+\i (00:15:19) drag_start 54.4453 47.0217
+\i (00:15:19) drag_stop 57.6403 44.5785
+\i (00:15:21) drag_start 50.2731 46.6083
+\i (00:15:21) drag_stop 52.6787 45.0672
+\i (00:15:23) drag_start 63.6542 62.9587
+\i (00:15:24) drag_stop 67.4505 55.1406
+\t (00:15:24) Iteration # 1, Items changed = 0
+
+\i (00:15:28) drag_start 65.7967 51.2691
+\i (00:15:28) drag_stop 67.3378 48.3373
+\i (00:15:29) pick 67.3378 48.6380
+\t (00:15:29) last pick:  67.3378 48.6380
+\t (00:15:29) No Element Found.
+\i (00:15:31) drag_start 66.6988 49.1266
+\i (00:15:32) drag_stop 66.6612 50.1415
+\i (00:15:33) drag_start 44.9733 56.0427
+\i (00:15:34) drag_stop 46.1010 53.3740
+\t (00:15:34) Iteration # 1, Items changed = 2
+
+\t (00:15:34) Iteration # 2, Items changed = 0
+
+\i (00:15:36) drag_start 44.2968 61.2673
+\i (00:15:37) drag_stop 45.5747 59.0121
+\i (00:15:38) drag_start 38.9970 56.7568
+\i (00:15:38) drag_stop 41.5153 55.8547
+\i (00:15:41) drag_start 51.8142 65.2891
+\i (00:15:42) drag_stop 58.7679 62.3197
+\t (00:15:42) Iteration # 1, Items changed = 2
+
+\t (00:15:42) Iteration # 2, Items changed = 1
+
+\t (00:15:42) Iteration # 3, Items changed = 0
+
+\i (00:15:47) drag_start 62.4514 61.2673
+\i (00:15:47) drag_stop 61.2111 57.7341
+\t (00:15:47) Iteration # 1, Items changed = 0
+
+\i (00:15:48) pick 62.7145 58.0348
+\t (00:15:48) last pick:  62.7145 58.0348
+\t (00:15:48) No Element Found.
+\i (00:15:49) drag_start 69.3675 56.2682
+\i (00:15:50) drag_stop 81.6210 52.8477
+\t (00:15:50) Iteration # 1, Items changed = 0
+
+\i (00:15:52) zoom fit 
+\i (00:15:52) trapsize 4262
+\i (00:15:54) pick 45.6582 36.6292
+\t (00:15:54) last pick:  45.6582 36.6292
+\t (00:15:54) No Element Found.
+\i (00:16:14) zoom in 
+\i (00:16:14) setwindow pcb
+\i (00:16:14) zoom in 84.9574 54.9574
+\i (00:16:14) trapsize 2131
+\i (00:16:17) slide 
+\t (00:16:18) Pick element to slide.
+\i (00:16:19) drag_start grid 66.0325 48.3507
+\i (00:16:20) drag_stop 66.8423 47.8392
+\t (00:16:20) Pick element to slide.
+\i (00:16:21) drag_start grid 66.6292 48.9901
+\i (00:16:21) drag_stop 67.3112 48.0950
+\t (00:16:21) Pick element to slide.
+\i (00:16:22) drag_start grid 66.8423 49.2458
+\i (00:16:23) drag_stop 67.5669 48.2655
+\t (00:16:23) Pick element to slide.
+\i (00:16:23) pick grid 67.2686 47.4982
+\t (00:16:23) last pick:  67.3100 47.6250
+\t (00:16:23) Pick element to slide.
+\i (00:16:26) slide 
+\t (00:16:26) Pick element to slide.
+\i (00:16:27) drag_start grid 66.6292 48.8622
+\i (00:16:28) drag_stop 67.3538 47.9245
+\t (00:16:28) Pick element to slide.
+\i (00:16:29) drag_start grid 66.9276 49.3737
+\i (00:16:29) drag_stop 67.8227 48.0097
+\t (00:16:29) Waiting for the destination pick.
+\i (00:16:34) pick grid 66.5440 49.2458
+\t (00:16:34) last pick:  66.6750 49.5300
+\t (00:16:34) No DRC errors detected.
+\t (00:16:34) Pick another element to slide.
+\i (00:16:46) zoom fit 
+\i (00:16:46) trapsize 4262
+\i (00:18:16) save_as 
+\i (00:18:21) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video9_DRC and Manufacturing\PCB EDITOR TUTORIAL.brd"
+\i (00:18:21) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video9_DRC and Manufacturing"
+\i (00:18:21) etchedit 
+\i (10:52:39) status 
+\i (10:52:39) etchedit 
+\i (10:52:42) setwindow form.status
+\i (10:52:42) FORM status done  
+\i (11:00:10) setwindow pcb
+\i (11:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing" +
+\i (11:00:10) QtSignal "Add Connect"
+\i (11:00:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing" +
+\i (11:00:10) QtSignal "Add Connect"
+\i (11:00:10) add connect 
+\t (11:00:10) Pick first element.
+\i (11:03:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (11:03:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (11:03:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (11:03:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (11:03:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (11:03:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (11:03:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (11:03:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (11:03:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (11:03:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (11:04:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (11:04:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (11:28:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (11:28:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (11:58:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (11:58:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (11:58:58) prepopup 99.3642 59.9870
+\i (11:58:59) done 
+\i (11:58:59) etchedit 
+\i (24:11:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (24:11:58) QtSignal "Artwork (Film Records) Setup"
+\i (24:11:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (24:11:58) QtSignal "Artwork (Film Records) Setup"
+\i (24:11:58) artwork 
+\i (24:12:02) setwindow form.film_control
+\i (24:12:02) FORM film_control cancel  
+\i (24:12:02) setwindow pcb
+\i (24:12:02) etchedit 
+\i (24:12:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (24:12:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (24:12:30) pick grid 43.8680 58.8788
+\t (24:12:30) last pick:  43.8150 59.0550
+\i (24:12:38) pick grid 48.4714 44.6425
+\t (24:12:38) last pick:  48.2600 44.4500
+\i (24:12:44) pick grid 52.9895 27.4224
+\t (24:12:44) last pick:  52.7050 27.3050
+\i (24:12:45) pick grid 53.5010 28.5307
+\t (24:12:45) last pick:  53.3400 28.5750
+\i (24:12:56) cancel 
+\i (24:12:56) etchedit 
+\i (24:13:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (24:13:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (24:13:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities "Display Status"
+\i (24:13:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities "Display Status"
+\i (24:13:18) status 
+\i (24:13:18) etchedit 
+\i (24:13:24) setwindow form.status
+\i (24:13:24) FORM status drc_update  
+\t (24:13:24) Running DRC, wait...
+\t (24:13:24) Performing DRC...
+\t (24:13:24) Multithreaded DRC update (8 threads).
+\t (24:13:24) No DRC errors detected.
+\t (24:13:24) DRC done.
+\i (24:13:28) FORM status done  
+\i (24:13:29) setwindow pcb
+\i (24:13:29) zoom points 
+\t (24:13:29) Pick 1st corner of the new window.
+\i (24:13:31) drag_start 43.6975 62.5445
+\i (24:13:32) drag_stop 58.8716 46.3474
+\i (24:13:32) trapsize 1172
+\i (24:13:35) change 
+\i (24:13:41) setwindow form.mini
+\i (24:13:41) FORM mini line_width 0.5080 
+\i (24:13:43) setwindow pcb
+\i (24:13:43) pick grid 57.6912 55.7234
+\t (24:13:43) last pick:  57.7850 55.8800
+\t (24:13:43) Changed 1 items out of 1 items found.
+\i (24:13:44) prepopup 54.3627 55.7234
+\i (24:13:45) done 
+\i (24:13:45) etchedit 
+\i (24:13:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities "Display Status"
+\i (24:13:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities "Display Status"
+\i (24:13:47) status 
+\i (24:13:47) etchedit 
+\i (24:13:52) setwindow form.status
+\i (24:13:52) FORM status drc_color 1 
+\i (24:13:52) setwindow pcb
+\i (24:13:52) reports drc 
+\i (24:13:52) etchedit 
+\i (24:13:57) setwindow text
+\i (24:13:57) close
+\i (24:13:59) setwindow form.status
+\i (24:13:59) FORM status done  
+\i (24:14:02) setwindow pcb
+\i (24:14:02) change 
+\i (24:14:06) setwindow form.mini
+\i (24:14:06) FORM mini line_width 0.2800 
+\i (24:14:08) setwindow pcb
+\i (24:14:08) pick grid 57.6443 55.7703
+\t (24:14:08) last pick:  57.7850 55.8800
+\t (24:14:08) Changed 1 items out of 1 items found.
+\i (24:14:09) prepopup 54.2221 55.8172
+\i (24:14:10) done 
+\i (24:14:10) etchedit 
+\i (24:14:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities "Display Status"
+\i (24:14:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities "Display Status"
+\i (24:14:12) status 
+\i (24:14:12) etchedit 
+\i (24:14:15) setwindow form.status
+\i (24:14:15) FORM status done  
+\i (24:14:38) setwindow pcb
+\i (24:14:38) zoom fit 
+\i (24:14:38) trapsize 4262
+\i (24:14:40) color192 
+\i (24:14:41) etchedit 
+\i (24:14:43) QtSignal CVDNetContainer CVDClearAllNets clicked
+\i (24:14:45) QtFillin Yes
+\i (24:14:45) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (24:14:47) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (24:14:53) zoom out 
+\i (24:14:53) setwindow pcb
+\i (24:14:53) zoom out 84.9574 54.9574
+\i (24:14:53) trapsize 8525
+\i (24:14:53) zoom out 
+\i (24:14:53) setwindow pcb
+\i (24:14:53) zoom out 100.5922 58.8209
+\i (24:14:53) trapsize 17050
+\i (24:15:00) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (24:15:05) drag_start grid 18.0725 98.8872
+\i (24:15:06) drag_stop 193.3416 15.3446
+\i (24:15:07) move 
+\t (24:15:08) Cannot edit Mechanical Pin "Mounting_Hole1.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C2.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C2.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C4.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C5.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C6.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C6.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Mounting_Hole1.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C4.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C5.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C1.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C1.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C9.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C9.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.8". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.7". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.6". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "U1.5". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C8.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C8.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Y1.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Y1.3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Main_Pwr.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Main_Pwr.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "R1.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "R1.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.64". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.63". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.62". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.61". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.60". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.59". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.9". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.8". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.7". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.6". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.5". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.58". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.57". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.56". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.55". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.54". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.53". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.52". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.51". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.50". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.49". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.48". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.47". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.46". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.45". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.44". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.43". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.42". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.41". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.40". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Y1.4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Y1.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Mt4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.P_2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Mt2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Id". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Gnd". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.6". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.5". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp2.4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.22". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.21". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.20". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.19". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.18". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.17". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.16". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.15". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.14". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.13". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.12". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.11". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.10". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.39". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.38". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.37". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.36". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.35". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.34". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.33". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.32". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.31". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.30". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.29". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.28". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.27". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.26". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.25". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.24". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Ic1.23". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Mt3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.P_1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Mt1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.D+". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.D-". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "X1.Vbus". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C7.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C7.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "R2.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "R2.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C3.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "C3.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Jp9.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.19". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.20". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.17". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.15". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.13". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.11". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.18". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.16". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.14". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.12". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.9". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.7". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.5". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.10". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.8". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.6". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Jp9.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.3". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.4". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.2". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Pin "Jp9.1". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Mounting_Hole1.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Jp9.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Jp9.". Symbol or drawing must have UNFIXED_PINS property.
+\t (24:15:08) Cannot edit Mechanical Pin "Mounting_Hole1.". Symbol or drawing must have UNFIXED_PINS property.
+\i (24:15:10) pick grid 45.6927 37.5090
+\t (24:15:10) last pick:  45.7200 37.4650
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Element has no origin, using pick.
+\t (24:15:10) Pick new location for the element(s).
+\i (24:15:16) pick grid 124.1205 109.4580
+\t (24:15:16) last pick:  123.8250 109.2200
+\i (24:15:17) etchedit 
+\i (24:15:19) undo 
+\i (24:15:19) trapsize 17050
+\i (24:15:19) etchedit 
+\i (24:15:20) pick grid 132.3043 113.8908
+\t (24:15:20) last pick:  132.0800 113.6650
+\i (24:15:22) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (24:15:26) setwindow form.find
+\i (24:15:26) FORM find all_on  
+\i (24:15:32) setwindow pcb
+\i (24:15:32) drag_start grid 12.9576 87.6346
+\i (24:15:33) drag_stop 160.6065 18.7545
+\i (24:15:34) move 
+\i (24:15:36) pick grid 39.5549 29.3252
+\t (24:15:36) last pick:  39.3700 29.2100
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Element has no origin, using pick.
+\t (24:15:36) Moving U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS.
+\t (24:15:36) Moving C2 / CAP_1210_100UF / 1210.
+\t (24:15:36) Moving C4 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (24:15:36) Moving C5 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (24:15:36) Moving C6 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (24:15:36) Moving C1 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (24:15:36) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (24:15:36) Moving C8 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (24:15:36) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (24:15:36) Moving MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ.
+\t (24:15:36) Moving R1 / RESISTOR_0402-RES_150 / 0402-RES.
+\t (24:15:36) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (24:15:36) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (24:15:36) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (24:15:36) Moving JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM.
+\t (24:15:36) Moving R2 / RESISTOR_0402-RES_56K / 0402-RES.
+\t (24:15:36) Moving C3 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (24:15:36) Moving C7 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (24:15:36) Pick new location for the element(s).
+\i (24:15:38) pick grid 151.0588 103.6611
+\t (24:15:38) last pick:  151.1300 103.5050
+\i (24:15:38) etchedit 
+\i (24:15:41) zoom out 
+\i (24:15:41) setwindow pcb
+\i (24:15:41) zoom out 201.1844 117.6417
+\i (24:15:41) trapsize 31245
+\i (24:15:43) pick grid 316.8200 233.7094
+\t (24:15:43) last pick:  316.8650 233.6800
+\i (24:15:48) zoom points 
+\t (24:15:48) Pick 1st corner of the new window.
+\i (24:15:49) drag_start 127.4779 117.4796
+\i (24:15:49) drag_stop 189.9670 78.1114
+\i (24:15:49) trapsize 2849
+\i (24:15:53) chg origin 
+\t (24:15:53) Pick new location for drawing origin.
+\i (24:15:55) prepopup 146.6777 104.2050
+\i (24:15:57) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (24:15:57) last pick:  146.7600 104.2950
+\i (24:15:57) trapsize 2849
+\t (24:15:57) Pick point (146.7600 104.2950) changed to origin (0.0000, 0.0000)
+\i (24:15:57) etchedit 
+\i (24:15:59) prepopup -1.4496 -10.1173
+\i (24:16:01) zoom out 
+\i (24:16:01) setwindow pcb
+\i (24:16:01) zoom out 14.3319 -6.5280
+\i (24:16:01) trapsize 5697
+\i (24:16:02) zoom out 
+\i (24:16:02) setwindow pcb
+\i (24:16:02) zoom out 14.3318 -6.5280
+\i (24:16:02) trapsize 11395
+\i (24:16:02) zoom out 
+\i (24:16:02) setwindow pcb
+\i (24:16:02) zoom out 14.3319 -6.5279
+\i (24:16:02) trapsize 22789
+\i (24:16:06) zoom out 
+\i (24:16:06) setwindow pcb
+\i (24:16:06) zoom out 122.1518 52.9500
+\i (24:16:06) trapsize 31245
+\i (24:16:09) done 
+\i (24:16:09) place manual 
+\i (24:16:09) FORM plc_manual placement_list 
+\i (24:16:09) FORM plc_manual categories Components by refdes 
+\i (24:16:09) trapsize 31245
+\i (24:16:11) setwindow form.plc_manual
+\i (24:16:11) FORM plc_manual advanced_settings  
+\i (24:16:12) FORM plc_manual library YES 
+\i (24:16:13) FORM plc_manual placement_list  
+\i (24:16:15) FORM plc_manual categories Format symbols 
+\i (24:16:16) FORM plc_manual tree 'MULTISEL YES' ASIZEH 'Format symbols' 
+\i (24:16:16) FORM plc_manual tree  ASIZEH 'Format symbols' 
+\i (24:16:22) setwindow pcb
+\i (24:16:22) pick grid -18.0324 -63.0522
+\t (24:16:22) last pick:  -18.0000 -63.0000
+\i (24:16:29) setwindow form.plc_manual
+\i (24:16:29) FORM plc_manual done  
+\i (24:16:29) setwindow pcb
+\i (24:16:29) etchedit 
+\i (24:16:33) zoom points 
+\t (24:16:33) Pick 1st corner of the new window.
+\i (24:16:34) drag_start 99.4472 -17.4351
+\i (24:16:36) drag_stop 245.0469 -46.8050
+\i (24:16:36) trapsize 6164
+\i (24:16:39) zoom out 
+\i (24:16:39) setwindow pcb
+\i (24:16:39) zoom out 172.1854 -60.0917
+\i (24:16:39) trapsize 12329
+\i (24:16:43) setwindow form.find
+\i (24:16:43) FORM find all_off  
+\i (24:16:47) setwindow pcb
+\i (24:16:47) generaledit 
+\i (24:16:49) setwindow form.find
+\i (24:16:49) FORM find all_off  
+\i (24:16:51) FORM find text YES 
+\i (24:16:52) setwindow pcb
+\i (24:16:52) pick grid 210.8969 -15.7763
+\t (24:16:52) last pick:  211.0000 -16.0000
+\i (24:16:52) pick grid dbl 210.8969 -15.7763
+\t (24:16:52) last pick:  211.0000 -16.0000
+\i (24:16:54) pick grid 215.0886 -16.7626
+\t (24:16:54) last pick:  215.0000 -17.0000
+\i (24:16:54) pick grid dbl 215.0886 -16.7626
+\t (24:16:54) last pick:  215.0000 -17.0000
+\i (24:16:55) pick grid 215.0886 -16.7626
+\t (24:16:55) last pick:  215.0000 -17.0000
+\i (24:16:55) pick grid dbl 215.0886 -16.7626
+\t (24:16:55) last pick:  215.0000 -17.0000
+\i (24:16:55) prepopup 215.0886 -16.7626
+\i (24:16:58) pop dyn_option_select '@:@Text edit' 
+\i (24:16:58) text edit 
+\i (24:17:05) setwindow form.textedit
+\i (24:17:05) FORM textedit str 'EMA DESIGN AUTOMATION' 
+\i (24:17:05) FORM textedit done  
+\i (24:17:05) setwindow pcb
+\i (24:17:05) pick 0.0000 0.0000
+\t (24:17:05) Pick text to edit.
+\i (24:17:05) setwindow pcb
+\i (24:17:05) generaledit 
+\i (24:17:17) zoom fit 
+\i (24:17:17) trapsize 4262
+\i (24:17:19) zoom out 
+\i (24:17:19) setwindow pcb
+\i (24:17:19) zoom out 49.9574 24.9574
+\i (24:17:19) trapsize 8525
+\i (24:17:21) pick grid -3.5781 29.3903
+\t (24:17:21) last pick:  -4.0000 29.0000
+\e (24:17:27) Command not found: Del
+\i (24:17:31) pick grid -4.6011 29.0494
+\t (24:17:31) last pick:  -5.0000 29.0000
+\i (24:17:32) prepopup -4.6011 29.0494
+\i (24:17:33) pop dyn_option_select @:@Delete 
+\i (24:17:33) delete 
+\i (24:17:34) generaledit 
+\i (24:17:35) pick grid 18.9273 -3.8562
+\t (24:17:35) last pick:  19.0000 -4.0000
+\i (24:17:36) prepopup 18.9273 -3.8562
+\i (24:17:37) pop dyn_option_select @:@Delete 
+\i (24:17:37) delete 
+\i (24:17:37) generaledit 
+\i (24:17:41) zoom fit 
+\i (24:17:41) trapsize 4262
+\i (24:17:43) drag_start grid 18.0748 0.9176
+\i (24:17:44) move 
+\t (24:17:44) last pick:  18.9250 4.9975
+\t (24:17:44) Pick new location for the element(s).
+\i (24:17:48) drag_stop grid 21.5699 5.6915
+\i (24:17:48) generaledit 
+\i (24:18:08) change 
+\i (24:18:09) setwindow form.mini
+\i (24:18:09) FORM mini apply_size YES 
+\i (24:18:11) FORM mini apply_width NO 
+\i (24:18:12) FORM mini text_block 2 
+\i (24:18:13) setwindow pcb
+\i (24:18:13) pick grid 21.3142 3.9865
+\t (24:18:13) last pick:  21.0000 4.0000
+\t (24:18:13) No DRC errors detected.
+\t (24:18:13) Changed 1 items out of 1 items found.
+\i (24:18:18) pick grid 35.4653 36.0396
+\t (24:18:18) last pick:  35.0000 36.0000
+\t (24:18:18) No DRC errors detected.
+\t (24:18:18) Changed 1 items out of 1 items found.
+\i (24:18:19) pick grid 20.2912 39.7905
+\t (24:18:19) last pick:  20.0000 40.0000
+\t (24:18:19) No DRC errors detected.
+\t (24:18:19) Changed 1 items out of 1 items found.
+\i (24:18:24) pick grid 2.8155 21.9738
+\t (24:18:24) last pick:  3.0000 22.0000
+\t (24:18:24) No DRC errors detected.
+\t (24:18:24) Changed 1 items out of 1 items found.
+\i (24:18:26) pick grid 2.7302 18.9048
+\t (24:18:26) last pick:  3.0000 19.0000
+\t (24:18:26) No DRC errors detected.
+\t (24:18:26) Changed 1 items out of 1 items found.
+\i (24:18:28) pick grid 3.2417 13.0228
+\t (24:18:28) last pick:  3.0000 13.0000
+\t (24:18:28) No DRC errors detected.
+\t (24:18:28) Changed 1 items out of 1 items found.
+\i (24:18:30) pick grid 28.3045 18.0524
+\t (24:18:30) last pick:  28.0000 18.0000
+\t (24:18:30) No DRC errors detected.
+\t (24:18:30) Changed 1 items out of 1 items found.
+\i (24:18:32) pick grid 29.0717 21.5475
+\t (24:18:32) last pick:  29.0000 22.0000
+\t (24:18:32) No DRC errors detected.
+\t (24:18:32) Changed 1 items out of 1 items found.
+\i (24:18:33) pick grid 29.5832 22.9967
+\t (24:18:33) last pick:  30.0000 23.0000
+\w (24:18:33) WARNING(SPMHGE-537): Shape already matches option panel settings.
+\i (24:18:35) pick grid 29.4980 23.0820
+\t (24:18:35) last pick:  29.0000 23.0000
+\t (24:18:35) No DRC errors detected.
+\t (24:18:35) Changed 1 items out of 1 items found.
+\i (24:18:38) pick grid 1.1105 35.5281
+\t (24:18:38) last pick:  1.0000 36.0000
+\t (24:18:38) No DRC errors detected.
+\t (24:18:38) Changed 1 items out of 1 items found.
+\i (24:18:39) pick grid 3.5827 35.1019
+\t (24:18:39) last pick:  4.0000 35.0000
+\t (24:18:39) No DRC errors detected.
+\t (24:18:39) Changed 1 items out of 1 items found.
+\i (24:18:42) pick grid 14.4091 33.3117
+\t (24:18:42) last pick:  14.0000 33.0000
+\t (24:18:42) No DRC errors detected.
+\t (24:18:42) Changed 1 items out of 1 items found.
+\i (24:18:48) pick grid 5.4581 22.9115
+\t (24:18:48) last pick:  5.0000 23.0000
+\t (24:18:48) No DRC errors detected.
+\t (24:18:48) Changed 1 items out of 1 items found.
+\i (24:18:49) pick grid 7.9303 24.1902
+\t (24:18:49) last pick:  8.0000 24.0000
+\t (24:18:49) No DRC errors detected.
+\t (24:18:49) Changed 1 items out of 1 items found.
+\i (24:18:50) pick grid 15.1764 23.8492
+\t (24:18:50) last pick:  15.0000 24.0000
+\t (24:18:50) No DRC errors detected.
+\t (24:18:50) Changed 1 items out of 1 items found.
+\i (24:18:53) pick grid 14.4944 4.1570
+\t (24:18:53) last pick:  14.0000 4.0000
+\t (24:18:53) No DRC errors detected.
+\t (24:18:53) Changed 1 items out of 1 items found.
+\i (24:19:06) prepopup 4.4352 28.7936
+\i (24:19:07) done 
+\i (24:19:07) generaledit 
+\i (24:19:08) pick grid 3.7532 29.2198
+\t (24:19:08) last pick:  4.0000 29.0000
+\e (24:19:10) Command not found: Del
+\i (24:19:11) prepopup 3.7532 29.2198
+\i (24:19:12) pop dyn_option_select @:@Delete 
+\i (24:19:12) delete 
+\i (24:19:12) generaledit 
+\i (24:19:13) pick grid 4.4352 28.9641
+\t (24:19:13) last pick:  4.0000 29.0000
+\i (24:19:15) prepopup 4.3499 28.9641
+\i (24:19:16) pop dyn_option_select @:@Delete 
+\i (24:19:16) delete 
+\i (24:19:16) generaledit 
+\i (24:19:17) pick grid 4.2647 28.8788
+\t (24:19:17) last pick:  4.0000 29.0000
+\i (24:19:21) pick grid 5.1171 28.6231
+\t (24:19:21) last pick:  5.0000 29.0000
+\i (24:19:21) prepopup 5.1171 28.6231
+\i (24:19:22) pop dyn_option_select @:@Delete 
+\i (24:19:22) delete 
+\i (24:19:22) generaledit 
+\i (24:19:24) pick grid 4.0089 28.6231
+\t (24:19:24) last pick:  4.0000 29.0000
+\i (24:19:28) drag_start grid 4.5204 28.7083
+\i (24:19:28) move 
+\t (24:19:28) last pick:  4.2098 28.3650
+\t (24:19:28) Pick new location for the element(s).
+\i (24:19:29) drag_stop grid 5.2024 31.6920
+\i (24:19:29) generaledit 
+\i (24:19:30) pick grid 4.8614 28.5378
+\t (24:19:30) last pick:  5.0000 29.0000
+\i (24:19:31) prepopup 4.7762 28.5378
+\i (24:19:32) pop dyn_option_select @:@Delete 
+\i (24:19:32) delete 
+\i (24:19:32) generaledit 
+\i (24:19:34) drag_start grid 4.8614 32.5445
+\i (24:19:34) move 
+\t (24:19:34) last pick:  5.0000 32.0000
+\t (24:19:34) Pick new location for the element(s).
+\i (24:19:35) drag_stop grid 4.8614 31.9477
+\i (24:19:35) generaledit 
+\i (24:19:38) change 
+\i (24:19:41) pick grid 4.5204 31.9477
+\t (24:19:41) last pick:  5.0000 32.0000
+\t (24:19:41) No DRC errors detected.
+\t (24:19:41) Changed 1 items out of 1 items found.
+\i (24:19:42) prepopup 7.5893 32.1182
+\i (24:19:43) done 
+\i (24:19:43) generaledit 
+\i (24:19:46) drag_start grid 22.0814 3.8160
+\i (24:19:46) move 
+\t (24:19:46) last pick:  22.0000 6.0000
+\t (24:19:46) Pick new location for the element(s).
+\i (24:19:49) drag_stop grid 20.3765 4.4980
+\i (24:19:49) generaledit 
+\i (24:19:50) pick grid 27.8783 2.7930
+\t (24:19:50) last pick:  28.0000 3.0000
+\i (24:19:55) drag_start grid 29.5832 22.9115
+\i (24:19:55) move 
+\t (24:19:55) last pick:  29.5390 23.3015
+\t (24:19:55) Pick new location for the element(s).
+\i (24:19:57) drag_stop grid 30.7767 23.1672
+\i (24:19:57) generaledit 
+\i (24:20:07) drag_start grid 0.8548 34.9314
+\i (24:20:07) move 
+\t (24:20:08) last pick:  1.3015 35.1110
+\t (24:20:08) Pick new location for the element(s).
+\i (24:20:10) drag_stop grid 1.8777 37.6593
+\i (24:20:10) generaledit 
+\i (24:20:11) pick grid 6.8221 33.3969
+\t (24:20:11) last pick:  7.0000 33.0000
+\i (24:20:14) drag_start grid 3.5827 35.5281
+\i (24:20:14) move 
+\t (24:20:15) last pick:  3.9515 35.1110
+\t (24:20:15) Pick new location for the element(s).
+\i (24:20:16) drag_stop grid 3.7532 37.7446
+\i (24:20:16) generaledit 
+\i (24:20:17) pick grid 7.4188 39.1085
+\t (24:20:17) last pick:  7.0000 39.0000
+\i (24:20:36) add text 
+\t (24:20:36) Pick text location.
+\i (24:20:40) setwindow form.mini
+\i (24:20:40) FORM mini class REF DES 
+\i (24:20:43) setwindow pcb
+\i (24:20:43) pick grid 53.1968 32.8002
+\t (24:20:43) last pick:  53.0000 33.0000
+\w (24:20:43) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (24:20:47) setwindow form.mini
+\i (24:20:47) FORM mini text_block 2 
+\i (24:20:48) setwindow pcb
+\i (24:20:48) pick grid 53.6230 29.4755
+\t (24:20:48) last pick:  54.0000 29.0000
+\w (24:20:48) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (24:20:51) pick grid 28.6455 4.3275
+\t (24:20:51) last pick:  29.0000 4.0000
+\w (24:20:51) WARNING(SPMHGE-131): No legal element was found text attachment, select again.
+\i (24:20:58) pick grid 37.3407 31.3510
+\t (24:20:58) last pick:  37.0000 31.0000
+\t (24:20:58) Pick text location.
+\i (24:20:59) pick grid 48.5082 32.3740
+\t (24:20:59) last pick:  49.0000 32.0000
+\t (24:20:59) Enter text string.
+\i (24:21:02) setwindow pcb
+\i (24:21:02) pick 49.0000 32.0000
+\t (24:21:02) Pick an element to attach the text to.
+\i (24:21:04) prepopup 49.7016 1.9406
+\i (24:21:05) done 
+\i (24:21:05) generaledit 
+\i (24:21:09) pick grid 49.4459 32.2887
+\t (24:21:09) last pick:  49.0000 32.0000
+\e (24:21:09) Command not found: Del
+\i (24:21:10) prepopup 49.5311 32.2887
+\i (24:21:11) pop dyn_option_select @:@Delete 
+\i (24:21:11) delete 
+\i (24:21:12) generaledit 
+\i (24:21:13) pick grid 40.4949 2.0258
+\t (24:21:13) last pick:  40.0000 2.0000
+\i (24:21:17) drag_start grid 40.4949 2.0258
+\i (24:21:18) drag_stop 25.1503 50.7874
+\i (24:21:24) enved 
+\i (24:21:24) generaledit 
+\i (24:21:32) setwindow form.prfedit
+\i (24:21:32) FORM prfedit treelist  Output_dir File_management 
+\i (24:21:42) FORM prfedit done  
+\i (24:22:16) setwindow pcb
+\i (24:22:16) zoom out 
+\i (24:22:16) setwindow pcb
+\i (24:22:16) zoom out 49.9574 24.9574
+\i (24:22:16) trapsize 8525
+\i (24:22:17) zoom out 
+\i (24:22:17) setwindow pcb
+\i (24:22:17) zoom out 49.9574 24.9575
+\i (24:22:17) trapsize 17050
+\i (24:22:18) zoom out 
+\i (24:22:18) setwindow pcb
+\i (24:22:18) zoom out 54.4244 24.9574
+\i (24:22:18) trapsize 31245
+\i (24:22:19) zoom points 
+\t (24:22:19) Pick 1st corner of the new window.
+\i (24:22:20) drag_start -31.7800 158.1594
+\i (24:22:22) drag_stop 147.5639 -68.6762
+\i (24:22:22) trapsize 16414
+\i (24:22:27) save_as 
+\i (24:22:33) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video10_Manufacturing Export\PCB EDITOR TUTORIAL.brd"
+\i (24:22:33) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video10_Manufacturing Export"
+\i (24:22:33) generaledit 
+\i (25:22:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Utilities
+\i (25:22:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Utilities
+\i (25:22:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (25:22:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (25:24:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (25:24:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (25:24:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (25:24:04) QtSignal NCDrill
+\i (25:24:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (25:24:04) QtSignal NCDrill
+\i (25:24:04) nctape_full 
+\w (25:24:04) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (25:24:10) setwindow form.nc_drill
+\i (25:24:10) FORM nc_drill cancel  
+\i (25:24:10) setwindow pcb
+\i (25:24:10) generaledit 
+\i (25:24:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (25:24:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (27:37:04) exit 
+\t (27:37:04)     Journal end - Thu Apr 12 12:03:48 2018

@@ -1,0 +1,190 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Apr-09-2018 at 14:16:40 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CAPTURE TUTORIAL';
+ POST_TIME='Mar 19 2018 12:24:12';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_0402-CAP_10UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS684@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins684@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins684@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_1210_100UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS668@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins668@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins668@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_0402-CAP_10UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS700@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins700@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins700@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_0402-CAP_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS716@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins716@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins716@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_0402-CAP_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS732@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins732@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins732@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_0402-CAP_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS748@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins748@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins748@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_0402-CAP_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS764@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins764@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins764@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_0402-CAP_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS780@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins780@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins780@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_0402-CAP_10UF':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS796@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins796@discrete.\cap.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins796@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'PIC32MX440F512H_SQFP-S-10X10-64':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS382@CAPTURETUTORIAL 2.PIC32MX440F512H.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins382@\capturetutorial 2\.\pic32mx440f512h.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins382@\capturetutorial 2\.\pic32mx440f512h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP2 'M06_LOCK_1X06_LOCK_PIC 32 PROG':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS572@CAPTURETUTORIAL 2.M06_LOCK.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins572@\capturetutorial 2\.\m06_lock.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins572@\capturetutorial 2\.\m06_lock.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP9 'XTEND-DIGI-MODEM_XTEND-DIGI-MOD':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS199@CAPTURETUTORIAL 2.XTEND-DIGI-MODEM.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins199@\capturetutorial 2\.\xtend-digi-modem.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins199@\capturetutorial 2\.\xtend-digi-modem.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MAIN_PWR 'LED_LED_LNJ_RED':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS862@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins862@discrete.\led.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins862@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_0402-RES_150':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS837@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins837@discrete.\resistor.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins837@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_0402-RES_56K':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS821@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins821@discrete.\resistor.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins821@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LT1965_MSOP-8_MS_LT1965':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS124@CAPTURETUTORIAL 2.LT1965.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins124@\capturetutorial 2\.\lt1965.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins124@\capturetutorial 2\.\lt1965.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'USB-MICROB_USB-MICROB_USB-B':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS623@CAPTURETUTORIAL 2.USB-MICROB.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins623@\capturetutorial 2\.\usb-microb.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins623@\capturetutorial 2\.\usb-microb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRYSTAL-SMD-5X3_8MHZ':;
+
+SECTION_NUMBER 1
+ '@CAPTURE TUTORIAL.SCHEMATIC1(SCH_1):INS535@CAPTURETUTORIAL 2.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@\capture tutorial\.schematic1(sch_1):ins535@\capturetutorial 2\.\crystal.normal\(chips)',
+ P_PATH='@\capture tutorial\.schematic1(sch_1):page1_ins535@\capturetutorial 2\.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

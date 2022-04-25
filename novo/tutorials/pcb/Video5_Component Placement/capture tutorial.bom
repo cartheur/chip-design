@@ -1,0 +1,27 @@
+Transciever  Revised: Thursday, April 05, 2018
+EMA-1          Revision: A
+
+EMA DESIGN AUTOMATION
+225 TECH PARK DRIVE
+ROCHESTER, NY 14623
+
+
+
+Bill Of Materials          April 5,2018      21:04:29	Page1
+
+Item	Quantity	Reference	Part	Vendor	Manufacturer	Manufacturer Part Number
+______________________________________________
+
+1	3	C1,C3,C9	10uF	Digi-Key	Murata	GRJ155R60J106ME11D
+2	1	C2	100uF	Digi-Key	Murata	GRM32EC80J107ME20L
+3	5	C4,C5,C6,C7,C8	0.1uF	Digi-Key	Samsung	RCS1005F151CS
+4	1	IC1	PIC32MX440F512H	Digi-Key	MicroChip	PIC32MX440F512H-XMR
+5	1	JP2	PIC 32 PROG	Digi-Key	TE Connectivity	640456-6
+6	1	JP9	XTEND-DIGI-MODEM	Digi-Key		
+7	1	MAIN_PWR	RED	Digi-Key	Lite-On, Inc.	LTST-C191KRKT
+8	1	R1	150	Digi-Key	Samsung	RCS1005F151CS
+
+9	1	R2	56k	Digi-Key	Panasonic	ERA-2AEB563X
+10	1	U1	LT1965	Digi-Key	Linear Technology	LT1965EMS8EPBF
+11	1	X1	USB-B	Digi-Key	Amphenol	10104110-0001LF
+12	1	Y1	8MHz	Digi-Key	Abracon	ABM3-8MHZ-CL-R500-B1G

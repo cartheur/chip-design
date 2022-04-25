@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : PCB EDITOR TUTORIAL_COMPLETE.brd              )
+(    Software Version : 17.2S037                                      )
+(    Date/Time        : Sun Apr 15 09:58:16 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+WARNING: in SHAPE center = (0.0000 0.0000)
+  class = MANUFACTURING
+  subclass = STEP3D_ASSEMBLY_ENCLOSURE 
+  Part of Symbol Def STEP3D_MECH_MECHANICAL_USB.
+  ERROR(SPMHDB-44): Shape is unfilled.
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+2 warnings, 0 errors detected, 0 errors could be fixed.

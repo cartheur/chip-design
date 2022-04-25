@@ -1,0 +1,1036 @@
+\t (00:00:04) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Apr 10 07:57:17 2018
+\t (00:00:04)         Host=SHANNON-W10LT User=shannonh Pid=3584 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video4_Mechanical Symbols\PCB EDITOR TUTORIAL.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:06) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video4_Mechanical Symbols/PCB EDITOR TUTORIAL.brd
+\i (00:00:06) trapsize 4181
+\i (00:00:06) trapsize 4306
+\i (00:00:06) trapsize 4181
+\i (00:00:06) trapsize 4262
+\i (00:00:06) trapsize 4345
+\i (00:00:07) generaledit 
+\i (00:00:20) done 
+\i (00:00:20) place manual 
+\i (00:00:20) setwindow form.plc_manual 
+\i (00:00:20) setwindow form.plc_manual
+\i (00:00:20) FORM plc_manual advanced_settings 
+\i (00:00:20) FORM plc_manual advanced_settings  
+\i (00:00:20) FORM plc_manual library YES 
+\i (00:00:20) FORM plc_manual library YES 
+\i (00:00:20) FORM plc_manual placement_list 
+\i (00:00:20) FORM plc_manual placement_list  
+\i (00:00:20) FORM plc_manual categories Mechanical symbols 
+\i (00:00:20) FORM plc_manual categories Mechanical symbols 
+\i (00:00:20) trapsize 4345
+\i (00:00:20) setwindow pcb
+\i (00:00:20) linefont 
+\i (00:00:25) done 
+\i (00:00:25) place manual 
+\i (00:00:25) setwindow form.plc_manual 
+\i (00:00:25) setwindow form.plc_manual
+\i (00:00:25) FORM plc_manual advanced_settings 
+\i (00:00:25) FORM plc_manual advanced_settings  
+\i (00:00:25) FORM plc_manual library YES 
+\i (00:00:25) FORM plc_manual placement_list 
+\i (00:00:25) FORM plc_manual placement_list  
+\i (00:00:25) FORM plc_manual categories Mechanical symbols 
+\i (00:00:25) trapsize 4345
+\i (00:00:46) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\w (00:00:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:46) FORM plc_manual tree  MOUNTING_HOLE1 'Mechanical symbols' 
+\i (00:00:52) pick grid 38.9824 34.4116
+\t (00:00:52) last pick:  39.0000 34.0000
+\i (00:00:55) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (00:01:00) pick grid 131.1915 34.4985
+\t (00:01:00) last pick:  131.0000 34.0000
+\i (00:01:03) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (00:01:10) pick grid 131.4523 76.3881
+\t (00:01:10) last pick:  131.0000 76.0000
+\i (00:01:13) FORM plc_manual tree 'MULTISEL YES' MOUNTING_HOLE1 'Mechanical symbols' 
+\i (00:01:20) pick grid 39.1562 76.4750
+\t (00:01:20) last pick:  39.0000 76.0000
+\i (00:01:22) FORM plc_manual done  
+\i (00:01:22) setwindow pcb
+\i (00:01:22) generaledit 
+\i (00:01:25) placementedit 
+\i (00:01:26) pick grid 38.1133 76.4750
+\t (00:01:26) last pick:  38.0000 76.0000
+\i (00:01:26) move 
+\t (00:01:26) last pick:  39.0000 76.0000
+\t (00:01:26) Pick new location for the element(s).
+\i (00:01:26) pick grid dbl 38.1133 76.4750
+\t (00:01:26) last pick:  38.0000 76.0000
+\i (00:01:26) placementedit 
+\i (00:01:30) pick grid 38.4609 75.7797
+\t (00:01:30) last pick:  38.0000 76.0000
+\i (00:01:30) move 
+\t (00:01:30) last pick:  38.0000 76.0000
+\t (00:01:30) Pick new location for the element(s).
+\i (00:01:35) pick grid 38.8955 75.5190
+\t (00:01:35) last pick:  39.0000 76.0000
+\i (00:01:35) placementedit 
+\i (00:01:36) prepopup 55.4079 72.3903
+\i (00:01:37) pick grid 67.4881 67.3496
+\t (00:01:37) last pick:  67.0000 67.0000
+\i (00:39:24) save_as 
+\i (00:39:31) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video5_Component Placement\PCB EDITOR TUTORIAL.brd"
+\i (00:39:31) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video5_Component Placement"
+\i (00:39:31) placementedit 
+\i (00:43:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement
+\i (00:43:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement
+\i (00:43:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Manual
+\i (00:43:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Manual
+\i (00:43:28) place manual 
+\i (00:43:33) setwindow form.plc_manual
+\i (00:43:33) FORM plc_manual cancel  
+\i (00:43:33) setwindow pcb
+\i (00:43:33) placementedit 
+\i (00:43:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement QuickPlace
+\i (00:43:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement QuickPlace
+\i (00:43:35) quickplace 
+\i (00:43:37) setwindow form.quickplc
+\i (00:43:37) FORM quickplc cancel  
+\i (00:43:37) setwindow pcb
+\i (00:43:37) placementedit 
+\i (00:43:41) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Report
+\i (00:43:41) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Report
+\i (00:43:41) reports 'Unplaced Components Report' 
+\i (00:43:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Placement 3 | Report
+\i (00:43:42) placementedit 
+\i (00:43:48) setwindow text
+\i (00:43:48) close
+\i (00:45:35) cancel 
+\i (00:45:35) placementedit 
+\i (00:45:58) trapsize 7321
+\i (00:46:06) trapsize 7331
+\i (00:46:06) trapsize 7969
+\i (00:46:06) trapsize 8640
+\i (00:46:06) trapsize 9280
+\i (00:46:06) trapsize 9348
+\i (00:46:06) trapsize 9504
+\i (00:46:06) trapsize 9869
+\i (00:46:06) trapsize 9965
+\i (00:46:06) trapsize 10004
+\i (00:46:09) trapsize 6554
+\i (00:46:43) done 
+\i (00:46:43) place manual 
+\i (00:46:44) FORM plc_manual placement_list 
+\i (00:46:44) FORM plc_manual categories Components by refdes 
+\i (00:46:44) setwindow form.plc_manual
+\i (00:46:44) FORM plc_manual categories Components by refdes 
+\i (00:46:44) setwindow pcb
+\i (00:46:44) trapsize 6554
+\i (00:46:46) refdes Ic1 
+\t (00:46:46) Placing IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64 on Top.
+\i (00:46:46) xname_flush 
+\i (00:46:57) pick grid 55.5719 56.6137
+\t (00:46:57) last pick:  56.0000 57.0000
+\i (00:47:02) refdes Jp9 
+\t (00:47:02) Placing JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM on Top.
+\i (00:47:02) xname_flush 
+\i (00:47:18) pick grid 103.0240 56.4827
+\t (00:47:18) last pick:  103.0000 56.0000
+\i (00:47:22) refdes X1 
+\t (00:47:22) Placing X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB on Top.
+\i (00:47:22) xname_flush 
+\i (00:47:25) prepopup 54.5232 73.9167
+\i (00:47:27) rotate 
+\t (00:47:27) Spin the element(s).
+\i (00:47:30) iangle -180.000
+\t (00:47:30) last angle:  180.000 Degrees
+\i (00:47:36) pick grid 55.5719 75.4897
+\t (00:47:36) last pick:  56.0000 75.0000
+\i (00:47:39) refdes Jp2 
+\t (00:47:39) Placing JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK on Top.
+\i (00:47:39) xname_flush 
+\i (00:47:48) pick grid 48.2312 42.4567
+\t (00:47:48) last pick:  48.0000 42.0000
+\i (00:48:00) setwindow form.plc_manual
+\i (00:48:00) FORM plc_manual done  
+\i (00:48:00) setwindow pcb
+\i (00:48:00) placementedit 
+\i (00:48:04) trapsize 3537
+\i (00:48:09) showhide_workflow 
+\i (00:48:09) trapsize 4345
+\i (00:48:09) placementedit 
+\i (00:48:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Manual
+\i (00:48:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Manual
+\i (00:48:11) place manual 
+\i (00:48:21) setwindow form.plc_manual
+\i (00:48:21) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (00:48:21) Placing C1 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (00:48:21) FORM plc_manual tree  'Components by refdes' 
+\i (00:48:28) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:48:29) FORM plc_manual tree  R2 'Components by refdes' 
+\i (00:48:31) setwindow pcb
+\i (00:48:31) pick grid 41.0682 58.4851
+\t (00:48:31) last pick:  41.0000 58.0000
+\t (00:48:31) Placing C2 / CAP_1210_100UF / 1210 on Top.
+\i (00:48:44) funckey r iangle90 
+\i (00:49:00) funckey r iangle 90 
+\i (00:49:10) prepopup 39.9384 43.2762
+\i (00:49:12) rotate 
+\t (00:49:12) Spin the element(s).
+\i (00:49:14) iangle 90.000
+\t (00:49:14) last angle:  +90.000 Degrees
+\i (00:49:16) pick grid 39.5038 41.7119
+\t (00:49:16) last pick:  40.0000 42.0000
+\t (00:49:16) Placing C3 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (00:49:28) pick grid 67.0536 54.5742
+\t (00:49:28) last pick:  67.0000 55.0000
+\t (00:49:28) Placing C4 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (00:49:41) pick grid 67.4882 49.8812
+\t (00:49:41) last pick:  67.0000 50.0000
+\t (00:49:41) Placing C5 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (00:49:55) pick grid 39.5038 51.9670
+\t (00:49:55) last pick:  40.0000 52.0000
+\t (00:49:55) Placing C6 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (00:49:58) pick grid 39.5038 49.5336
+\t (00:49:58) last pick:  40.0000 50.0000
+\t (00:49:58) Placing C7 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (00:50:04) prepopup 40.2860 64.0472
+\i (00:50:05) rotate 
+\t (00:50:05) Spin the element(s).
+\i (00:50:06) iangle 90.000
+\t (00:50:06) last angle:  +90.000 Degrees
+\i (00:50:10) pick grid 37.6788 64.5686
+\t (00:50:10) last pick:  38.0000 65.0000
+\t (00:50:10) Placing C8 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (00:50:11) prepopup 40.7205 64.6555
+\i (00:50:13) rotate 
+\t (00:50:13) Spin the element(s).
+\i (00:50:14) iangle 90.000
+\t (00:50:14) last angle:  +90.000 Degrees
+\i (00:50:15) pick grid 40.4598 65.0901
+\t (00:50:15) last pick:  40.0000 65.0000
+\t (00:50:15) Placing C9 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (00:50:24) prepopup 66.0976 51.7932
+\i (00:50:25) rotate 
+\t (00:50:25) Spin the element(s).
+\i (00:50:27) iangle 90.000
+\t (00:50:27) last angle:  +90.000 Degrees
+\i (00:50:28) pick grid 66.0107 52.5753
+\t (00:50:28) last pick:  66.0000 53.0000
+\w (00:50:28) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:50:28) Placing MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ on Top.
+\i (00:50:32) prepopup 55.9294 34.2378
+\i (00:50:34) rotate 
+\t (00:50:34) Spin the element(s).
+\i (00:50:36) iangle 90.000
+\t (00:50:36) last angle:  +90.000 Degrees
+\i (00:50:41) pick grid 54.4520 34.3247
+\t (00:50:41) last pick:  54.0000 34.0000
+\t (00:50:41) Placing R1 / RESISTOR_0402-RES_150 / 0402-RES on Top.
+\i (00:50:46) prepopup 46.7172 34.4116
+\i (00:50:48) rotate 
+\t (00:50:48) Spin the element(s).
+\i (00:50:51) iangle 90.000
+\t (00:50:51) last angle:  +90.000 Degrees
+\i (00:50:54) pick grid 50.4542 33.8032
+\t (00:50:54) last pick:  50.0000 34.0000
+\t (00:50:55) Placing R2 / RESISTOR_0402-RES_56K / 0402-RES on Top.
+\i (00:51:04) pick grid 66.9667 45.5358
+\t (00:51:04) last pick:  67.0000 46.0000
+\w (00:51:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:51:04) Placing U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS on Top.
+\i (00:51:12) pick grid 39.4169 59.7887
+\t (00:51:12) last pick:  39.0000 60.0000
+\t (00:51:12) Placing Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3 on Top.
+\i (00:51:16) prepopup 46.6303 68.1319
+\i (00:51:18) rotate 
+\t (00:51:18) Spin the element(s).
+\i (00:51:21) iangle -90.000
+\t (00:51:21) last angle:  +270.000 Degrees
+\i (00:51:25) pick grid 46.6303 66.5675
+\t (00:51:25) last pick:  47.0000 67.0000
+\i (00:51:29) setwindow form.plc_manual
+\i (00:51:29) FORM plc_manual done  
+\i (00:51:29) setwindow pcb
+\i (00:51:29) placementedit 
+\i (00:51:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Report
+\i (00:51:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Report
+\i (00:51:32) reports 'Unplaced Components Report' 
+\i (00:51:32) placementedit 
+\i (00:51:35) setwindow text
+\i (00:51:35) close
+\i (00:51:37) placementedit 
+\i (00:51:38) pick grid 78.7862 57.0946
+\t (00:51:38) last pick:  79.0000 57.0000
+\i (00:51:40) pick grid 76.6135 36.9319
+\t (00:51:40) last pick:  77.0000 37.0000
+\i (00:51:41) pick grid 76.7873 37.8879
+\t (00:51:41) last pick:  77.0000 38.0000
+\i (00:51:41) move 
+\t (00:51:41) last pick:  103.0000 56.0000
+\t (00:51:41) Moving JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM.
+\t (00:51:41) Pick new location for the element(s).
+\i (00:51:46) pick 99.0000 55.0000
+\t (00:51:46) last pick:  99.0000 55.0000
+\i (00:51:46) placementedit 
+\i (00:51:49) pick grid 56.2770 55.8778
+\t (00:51:49) last pick:  56.0000 56.0000
+\i (00:51:49) move 
+\t (00:51:49) last pick:  56.0000 57.0000
+\t (00:51:49) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (00:51:49) Pick new location for the element(s).
+\i (00:51:53) prepopup 51.9317 56.1386
+\i (00:51:54) rotate 
+\t (00:51:54) Spin the element(s).
+\i (00:51:57) iangle 90.000
+\t (00:51:57) last angle:  90.000 Degrees
+\i (00:52:02) pick 53.2900 55.0000
+\t (00:52:02) last pick:  53.2900 55.0000
+\i (00:52:02) placementedit 
+\i (00:52:07) pick grid 40.4598 40.8428
+\t (00:52:07) last pick:  40.0000 41.0000
+\i (00:52:07) move 
+\t (00:52:07) last pick:  40.0000 42.0000
+\t (00:52:07) Moving C2 / CAP_1210_100UF / 1210.
+\t (00:52:07) Pick new location for the element(s).
+\i (00:52:12) pick 38.0000 43.3460
+\t (00:52:12) last pick:  38.0000 43.3460
+\i (00:52:12) placementedit 
+\i (00:52:13) pick grid 49.8459 34.0640
+\t (00:52:13) last pick:  50.0000 34.0000
+\i (00:52:13) move 
+\t (00:52:13) last pick:  50.0000 34.0000
+\t (00:52:13) Moving R1 / RESISTOR_0402-RES_150 / 0402-RES.
+\t (00:52:13) Pick new location for the element(s).
+\i (00:52:14) pick 50.5400 34.0000
+\t (00:52:14) last pick:  50.5400 34.0000
+\i (00:52:14) placementedit 
+\i (00:52:15) pick grid 54.4520 33.5425
+\t (00:52:15) last pick:  54.0000 34.0000
+\i (00:52:15) move 
+\t (00:52:15) last pick:  54.0000 34.0000
+\t (00:52:15) Moving MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ.
+\t (00:52:15) Pick new location for the element(s).
+\i (00:52:17) pick 53.2900 33.9975
+\t (00:52:17) last pick:  53.2900 33.9975
+\i (00:52:17) placementedit 
+\i (00:52:31) pick grid 41.6765 57.5291
+\t (00:52:31) last pick:  42.0000 58.0000
+\i (00:52:31) move 
+\t (00:52:31) last pick:  41.0000 58.0000
+\t (00:52:31) Moving C1 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:52:31) Pick new location for the element(s).
+\i (00:52:33) pick 40.0000 55.0000
+\t (00:52:33) last pick:  40.0000 55.0000
+\i (00:52:33) placementedit 
+\i (00:52:34) pick grid 43.7623 51.9670
+\t (00:52:34) last pick:  44.0000 52.0000
+\i (00:52:35) pick grid 40.7205 59.0934
+\t (00:52:35) last pick:  41.0000 59.0000
+\i (00:52:35) move 
+\t (00:52:35) last pick:  39.0000 60.0000
+\t (00:52:35) Moving U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS.
+\t (00:52:35) Pick new location for the element(s).
+\i (00:52:39) pick 40.2098 59.0000
+\t (00:52:39) last pick:  40.2098 59.0000
+\i (00:52:39) placementedit 
+\i (00:52:43) pick grid 39.4169 64.9163
+\t (00:52:43) last pick:  39.0000 65.0000
+\i (00:52:43) move 
+\t (00:52:43) last pick:  40.0000 65.0000
+\t (00:52:43) Moving C8 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:52:43) Pick new location for the element(s).
+\i (00:52:45) pick 40.0000 67.5000
+\t (00:52:45) last pick:  40.0000 67.5000
+\i (00:52:45) placementedit 
+\i (00:52:46) pick grid 37.5049 64.3079
+\t (00:52:46) last pick:  38.0000 64.0000
+\i (00:52:46) move 
+\t (00:52:46) last pick:  38.0000 65.0000
+\t (00:52:46) Moving C7 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:52:46) Pick new location for the element(s).
+\i (00:52:49) pick 37.0000 67.5000
+\t (00:52:49) last pick:  37.0000 67.5000
+\i (00:52:49) placementedit 
+\i (00:52:53) pick grid 56.6247 73.5201
+\t (00:52:53) last pick:  57.0000 74.0000
+\i (00:52:53) move 
+\t (00:52:53) last pick:  56.0000 75.0000
+\t (00:52:53) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (00:52:53) Pick new location for the element(s).
+\i (00:52:59) pick 54.8900 76.0000
+\t (00:52:59) last pick:  54.8900 76.0000
+\i (00:52:59) placementedit 
+\i (00:53:02) pick grid 47.7601 67.3497
+\t (00:53:02) last pick:  48.0000 67.0000
+\i (00:53:02) move 
+\t (00:53:02) last pick:  47.0000 67.0000
+\t (00:53:02) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (00:53:02) Pick new location for the element(s).
+\i (00:53:06) pick 48.0000 67.5000
+\t (00:53:06) last pick:  48.0000 67.5000
+\i (00:53:06) placementedit 
+\i (00:53:08) pick grid 49.8459 67.0890
+\t (00:53:08) last pick:  50.0000 67.0000
+\i (00:53:08) move 
+\t (00:53:08) last pick:  48.0000 67.5000
+\t (00:53:08) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (00:53:08) Pick new location for the element(s).
+\i (00:53:10) pick 49.0000 67.0000
+\t (00:53:10) last pick:  49.0000 67.0000
+\i (00:53:10) placementedit 
+\i (00:53:15) drag_start grid 63.4035 55.4433
+\i (00:53:16) drag_stop 67.9227 48.9252
+\i (00:53:17) drag_start grid 66.0107 52.0539
+\i (00:53:17) drag_stop grid 64.7940 52.1408
+\i (00:53:18) pick grid 65.6631 52.4884
+\t (00:53:18) last pick:  66.0000 52.0000
+\i (00:53:18) move 
+\t (00:53:18) last pick:  66.0000 53.0000
+\t (00:53:18) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:53:18) Pick new location for the element(s).
+\i (00:53:19) pick 64.0000 52.1000
+\t (00:53:19) last pick:  64.0000 52.1000
+\i (00:53:19) placementedit 
+\i (00:53:20) pick grid 66.2715 55.1826
+\t (00:53:20) last pick:  66.0000 55.0000
+\i (00:53:20) move 
+\t (00:53:20) last pick:  67.0000 55.0000
+\t (00:53:20) Moving C3 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:53:20) Pick new location for the element(s).
+\i (00:53:24) pick 64.0000 55.0000
+\t (00:53:24) last pick:  64.0000 55.0000
+\i (00:53:24) placementedit 
+\i (00:53:30) pick grid 66.9667 45.3620
+\t (00:53:30) last pick:  67.0000 45.0000
+\i (00:53:30) move 
+\t (00:53:30) last pick:  67.0000 46.0000
+\t (00:53:30) Moving R2 / RESISTOR_0402-RES_56K / 0402-RES.
+\t (00:53:30) Pick new location for the element(s).
+\i (00:53:32) pick 64.0000 48.0000
+\t (00:53:32) last pick:  64.0000 48.0000
+\i (00:53:32) placementedit 
+\i (00:53:33) pick grid 64.3595 47.9692
+\t (00:53:33) last pick:  64.0000 48.0000
+\i (00:53:33) move 
+\t (00:53:33) last pick:  64.0000 48.0000
+\t (00:53:33) Moving R2 / RESISTOR_0402-RES_56K / 0402-RES.
+\t (00:53:33) Pick new location for the element(s).
+\i (00:53:34) pick 64.0000 46.0000
+\t (00:53:34) last pick:  64.0000 46.0000
+\i (00:53:34) placementedit 
+\i (00:53:34) pick grid 66.7060 49.7074
+\t (00:53:34) last pick:  67.0000 50.0000
+\i (00:53:34) move 
+\t (00:53:34) last pick:  67.0000 50.0000
+\t (00:53:34) Moving C4 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:53:34) Pick new location for the element(s).
+\i (00:53:52) pick grid 41.4158 63.4388
+\t (00:53:52) last pick:  41.0000 63.0000
+\i (00:53:52) placementedit 
+\i (00:57:04) xrefdes C9 
+\i (00:57:04) xname_flush 
+\i (00:57:04) trapsize 477
+\i (00:59:11) zoom out 
+\i (00:59:11) setwindow pcb
+\i (00:59:11) zoom out 63.6749 52.0952
+\i (00:59:11) trapsize 953
+\i (00:59:12) zoom out 
+\i (00:59:12) setwindow pcb
+\i (00:59:12) zoom out 63.6750 52.0953
+\i (00:59:12) trapsize 1907
+\i (00:59:12) zoom out 
+\i (00:59:12) setwindow pcb
+\i (00:59:12) zoom out 63.6750 52.0952
+\i (00:59:12) trapsize 3813
+\i (00:59:15) pick grid 47.2780 66.5095
+\t (00:59:15) last pick:  47.0000 67.0000
+\i (00:59:15) move 
+\t (00:59:15) last pick:  49.0000 67.0000
+\t (00:59:15) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (00:59:15) Pick new location for the element(s).
+\i (00:59:15) prepopup 47.2780 66.5095
+\i (00:59:18) pick 48.0000 67.5000
+\t (00:59:18) last pick:  48.0000 67.5000
+\i (00:59:18) placementedit 
+\i (00:59:19) generaledit 
+\i (00:59:20) pick grid 47.2017 65.7468
+\t (00:59:20) last pick:  47.0000 66.0000
+\i (00:59:20) prepopup 47.2017 65.7468
+\i (00:59:25) pick grid 45.8289 72.4582
+\t (00:59:25) last pick:  46.0000 72.0000
+\i (00:59:29) drag_start grid 36.6771 70.8566
+\i (00:59:30) drag_stop 50.0998 65.1367
+\i (00:59:32) prepopup 46.2865 67.3484
+\i (00:59:38) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (00:59:38) unplace component 
+\i (00:59:38) generaledit 
+\i (00:59:39) drag_start grid 36.2958 65.8993
+\i (00:59:40) drag_stop 44.3036 39.3590
+\i (00:59:42) prepopup 39.4227 59.5693
+\i (00:59:44) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (00:59:44) unplace component 
+\i (00:59:45) generaledit 
+\i (00:59:46) drag_start grid 62.8361 57.5864
+\i (00:59:47) drag_stop 66.1918 43.7824
+\i (00:59:48) prepopup 64.1326 46.9855
+\i (00:59:54) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (00:59:54) unplace component 
+\i (00:59:54) generaledit 
+\i (00:59:55) drag_start grid 46.5153 35.8508
+\i (00:59:55) drag_stop 57.3450 31.8850
+\i (00:59:56) prepopup 51.7014 33.1815
+\i (01:00:00) pop dyn_option_select 'Symbol@:@Unplace component' 
+\i (01:00:00) unplace component 
+\i (01:00:00) generaledit 
+\i (01:00:01) pick grid 52.5403 50.4938
+\t (01:00:01) last pick:  53.0000 50.0000
+\i (01:00:02) prepopup 52.6166 50.4938
+\i (01:00:08) pop dyn_option_select @:@Spin 
+\i (01:00:08) spin 
+\t (01:00:08) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\i (01:00:11) iangle -90.000
+\t (01:00:11) last angle:  0.000 Degrees
+\i (01:00:11) generaledit 
+\i (01:00:13) pick grid 65.2766 41.5707
+\t (01:00:13) last pick:  65.0000 42.0000
+\i (01:00:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Manual
+\i (01:00:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Manual
+\i (01:00:17) place manual 
+\i (01:00:23) setwindow form.plc_manual
+\i (01:00:23) FORM plc_manual cancel  
+\i (01:00:23) setwindow pcb
+\i (01:00:23) generaledit 
+\i (01:00:38) funckey r iangle 90 
+\i (01:01:51) pick grid 51.2438 52.4004
+\t (01:01:51) last pick:  51.0000 52.0000
+\i (01:01:52) iangle 90 
+\e (01:01:52) angle command is not allowed in this mode.
+\i (01:01:57) generaledit 
+\i (01:01:58) pick grid 51.7014 55.5273
+\t (01:01:58) last pick:  52.0000 56.0000
+\i (01:01:58) iangle 90 
+\e (01:01:58) angle command is not allowed in this mode.
+\i (01:02:02) placementedit 
+\i (01:02:04) pick grid 52.2352 55.4510
+\t (01:02:04) last pick:  52.0000 55.0000
+\i (01:02:04) move 
+\t (01:02:04) last pick:  53.2900 55.0000
+\t (01:02:04) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (01:02:04) Pick new location for the element(s).
+\i (01:02:06) undo 
+\i (01:02:06) trapsize 3813
+\i (01:02:06) placementedit 
+\i (01:02:07) iangle 90 
+\e (01:02:07) angle command is not allowed in this mode.
+\i (01:02:16) generaledit 
+\i (01:02:17) pick grid 52.3115 55.4510
+\t (01:02:17) last pick:  52.0000 55.0000
+\i (01:02:19) iangle 90 
+\e (01:02:19) angle command is not allowed in this mode.
+\e (01:02:25) Command not found: scriptmode+e
+\i (01:02:30) scriptmode +e 
+\i (01:02:33) prepopup 54.9808 56.2899
+\i (01:02:34) pop dyn_option_select @:@Spin 
+\i (01:02:34) spin 
+\t (01:02:35) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\i (01:02:41) iangle 90.000
+\t (01:02:41) last angle:  90.000 Degrees
+\i (01:02:41) generaledit 
+\i (01:03:02) funckey r iangle 90.000 
+\i (01:03:05) iangle 90.000 
+\e (01:03:05) angle command is not allowed in this mode.
+\i (01:03:08) pick grid 42.7783 57.8915
+\t (01:03:08) last pick:  43.0000 58.0000
+\i (01:03:09) pick grid 50.4811 57.3576
+\t (01:03:09) last pick:  50.0000 57.0000
+\i (01:03:10) iangle 90.000 
+\e (01:03:10) angle command is not allowed in this mode.
+\i (01:03:18) generaledit 
+\i (01:03:19) pick grid 52.3115 55.1459
+\t (01:03:19) last pick:  52.0000 55.0000
+\i (01:03:20) iangle 90.000 
+\e (01:03:20) angle command is not allowed in this mode.
+\i (01:03:24) spin 
+\t (01:03:24) Pick origin to spin the element(s) around.
+\i (01:03:27) pick grid 52.6166 51.6377
+\t (01:03:27) last pick:  53.0000 52.0000
+\t (01:03:27) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\i (01:03:36) iangle 0.000
+\t (01:03:36) last angle:  90.000 Degrees
+\i (01:03:36) generaledit 
+\i (01:03:40) pick grid 41.6344 48.2821
+\t (01:03:40) last pick:  42.0000 48.0000
+\i (01:03:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Manual
+\i (01:03:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Manual
+\i (01:03:55) place manual 
+\i (01:03:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Manual
+\i (01:03:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Manual
+\i (01:03:56) place manual 
+\i (01:04:15) setwindow form.plc_manual
+\i (01:04:15) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\t (01:04:15) Placing C1 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (01:04:15) FORM plc_manual tree  'Components by refdes' 
+\i (01:04:19) setwindow pcb
+\i (01:04:19) prepopup 39.2701 55.0697
+\i (01:04:20) rotate 
+\t (01:04:20) Spin the element(s).
+\i (01:04:23) iangle 180.000
+\t (01:04:23) last angle:  +180.000 Degrees
+\i (01:04:26) pick grid 41.4818 55.3747
+\t (01:04:26) last pick:  41.0000 55.0000
+\t (01:04:26) Placing C2 / CAP_1210_100UF / 1210 on Top.
+\i (01:04:30) prepopup 41.4818 42.1046
+\i (01:04:32) rotate 
+\t (01:04:32) Spin the element(s).
+\i (01:04:33) iangle 90.000
+\t (01:04:33) last angle:  +90.000 Degrees
+\i (01:04:37) pick grid 39.5752 43.4011
+\t (01:04:37) last pick:  40.0000 43.0000
+\t (01:04:37) Placing C3 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (01:04:46) prepopup 43.0071 59.8744
+\i (01:04:47) rotate 
+\t (01:04:47) Spin the element(s).
+\i (01:04:49) iangle -90.000
+\t (01:04:49) last angle:  +270.000 Degrees
+\i (01:04:52) pick grid 43.6935 61.4760
+\t (01:04:52) last pick:  44.0000 61.0000
+\t (01:04:52) Placing C4 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (01:05:02) pick grid 38.4312 52.2479
+\t (01:05:02) last pick:  38.0000 52.0000
+\t (01:05:02) Placing C5 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (01:05:04) pick grid 37.9736 50.4175
+\t (01:05:04) last pick:  38.0000 50.0000
+\t (01:05:04) Placing C6 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (01:05:11) prepopup 37.9736 66.2044
+\i (01:05:13) rotate 
+\t (01:05:13) Spin the element(s).
+\i (01:05:14) iangle 90.000
+\t (01:05:14) last angle:  +90.000 Degrees
+\i (01:05:15) pick grid 37.3635 66.0519
+\t (01:05:15) last pick:  37.0000 66.0000
+\t (01:05:15) Placing C7 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (01:05:16) prepopup 39.4227 66.5095
+\i (01:05:18) rotate 
+\t (01:05:18) Spin the element(s).
+\i (01:05:19) iangle 90.000
+\t (01:05:19) last angle:  +90.000 Degrees
+\i (01:05:24) prepopup 63.5225 50.5700
+\i (01:05:25) rotate 
+\t (01:05:25) Spin the element(s).
+\i (01:05:27) iangle -90.000
+\t (01:05:28) last angle:  +270.000 Degrees
+\i (01:05:30) pick grid 63.4462 51.4089
+\t (01:05:30) last pick:  63.0000 51.0000
+\t (01:05:30) Placing C8 / CAP_0402-CAP_0.1UF / 0402-CAP on Top.
+\i (01:05:32) prepopup 41.3293 66.2044
+\i (01:05:33) rotate 
+\t (01:05:33) Spin the element(s).
+\i (01:05:35) iangle 90.000
+\t (01:05:35) last angle:  +90.000 Degrees
+\i (01:05:37) pick grid 39.4989 65.9756
+\t (01:05:37) last pick:  39.0000 66.0000
+\t (01:05:37) Placing C9 / CAP_0402-CAP_10UF / 0402-CAP on Top.
+\i (01:05:41) prepopup 63.5988 53.7732
+\i (01:05:43) rotate 
+\t (01:05:43) Spin the element(s).
+\i (01:05:45) iangle 180.000
+\t (01:05:45) last angle:  +180.000 Degrees
+\i (01:05:47) pick grid 64.4377 54.0020
+\t (01:05:47) last pick:  64.0000 54.0000
+\w (01:05:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:05:47) Placing MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ on Top.
+\i (01:05:48) prepopup 54.4469 34.8594
+\i (01:05:51) rotate 
+\t (01:05:51) Spin the element(s).
+\i (01:05:53) iangle 90.000
+\t (01:05:53) last angle:  +90.000 Degrees
+\i (01:05:55) pick grid 54.5232 35.2407
+\t (01:05:55) last pick:  55.0000 35.0000
+\t (01:05:55) Placing R1 / RESISTOR_0402-RES_150 / 0402-RES on Top.
+\i (01:05:58) prepopup 51.0150 35.1644
+\i (01:06:01) rotate 
+\t (01:06:01) Spin the element(s).
+\i (01:06:04) iangle 90.000
+\t (01:06:04) last angle:  +90.000 Degrees
+\i (01:06:07) pick grid 51.4726 35.1644
+\t (01:06:07) last pick:  51.0000 35.0000
+\t (01:06:07) Placing R2 / RESISTOR_0402-RES_56K / 0402-RES on Top.
+\i (01:06:13) pick grid 63.5225 47.8245
+\t (01:06:13) last pick:  64.0000 48.0000
+\w (01:06:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:06:13) Placing U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS on Top.
+\i (01:06:16) pick grid 39.4227 57.5864
+\t (01:06:16) last pick:  39.0000 58.0000
+\t (01:06:16) Placing Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3 on Top.
+\i (01:06:20) prepopup 45.4476 67.8060
+\i (01:06:21) rotate 
+\t (01:06:21) Spin the element(s).
+\i (01:06:25) iangle 270.000
+\t (01:06:25) last angle:  +270.000 Degrees
+\i (01:06:29) pick grid 46.4391 65.6705
+\t (01:06:29) last pick:  46.0000 66.0000
+\i (01:06:33) setwindow form.plc_manual
+\i (01:06:33) FORM plc_manual done  
+\i (01:06:34) setwindow pcb
+\i (01:06:34) generaledit 
+\i (01:06:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Placement Report
+\i (01:06:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Placement Report
+\i (01:06:36) reports 'Unplaced Components Report' 
+\i (01:06:36) generaledit 
+\i (01:06:38) setwindow text
+\i (01:06:38) close
+\i (01:06:40) placementedit 
+\i (01:06:42) pick grid 40.2616 41.2657
+\t (01:06:42) last pick:  40.0000 41.0000
+\i (01:06:42) move 
+\t (01:06:42) last pick:  40.0000 43.0000
+\t (01:06:42) Moving C2 / CAP_1210_100UF / 1210.
+\t (01:06:42) Pick new location for the element(s).
+\i (01:06:45) pick 41.0000 43.3460
+\t (01:06:45) last pick:  41.0000 43.3460
+\i (01:06:45) placementedit 
+\i (01:06:47) pick grid 50.3286 34.2492
+\t (01:06:47) last pick:  50.0000 34.0000
+\i (01:06:47) move 
+\t (01:06:47) last pick:  51.0000 35.0000
+\t (01:06:47) Moving R1 / RESISTOR_0402-RES_150 / 0402-RES.
+\t (01:06:47) Pick new location for the element(s).
+\i (01:06:47) pick 50.5400 35.0000
+\t (01:06:47) last pick:  50.5400 35.0000
+\i (01:06:48) placementedit 
+\i (01:06:49) pick grid 55.2858 34.9356
+\t (01:06:49) last pick:  55.0000 35.0000
+\i (01:06:49) move 
+\t (01:06:49) last pick:  55.0000 35.0000
+\t (01:06:49) Moving MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ.
+\t (01:06:49) Pick new location for the element(s).
+\i (01:06:50) pick 53.2900 34.9975
+\t (01:06:50) last pick:  53.2900 34.9975
+\i (01:06:50) placementedit 
+\i (01:06:53) pick grid 64.0563 53.6206
+\t (01:06:53) last pick:  64.0000 54.0000
+\i (01:06:53) move 
+\t (01:06:53) last pick:  64.0000 54.0000
+\t (01:06:53) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (01:06:53) Pick new location for the element(s).
+\i (01:06:55) pick 63.6500 54.0000
+\t (01:06:55) last pick:  63.6500 54.0000
+\i (01:06:55) placementedit 
+\i (01:06:56) pick grid 63.5225 47.6719
+\t (01:06:56) last pick:  64.0000 48.0000
+\i (01:06:56) move 
+\t (01:06:56) last pick:  64.0000 48.0000
+\t (01:06:56) Moving R2 / RESISTOR_0402-RES_56K / 0402-RES.
+\t (01:06:56) Pick new location for the element(s).
+\i (01:06:58) pick 63.6500 47.0000
+\t (01:06:58) last pick:  63.6500 47.0000
+\i (01:06:58) placementedit 
+\i (01:07:07) pick grid 41.6344 44.9264
+\t (01:07:07) last pick:  42.0000 45.0000
+\i (01:07:07) move 
+\t (01:07:07) last pick:  41.0000 43.3460
+\t (01:07:07) Moving C2 / CAP_1210_100UF / 1210.
+\t (01:07:07) Pick new location for the element(s).
+\i (01:07:10) pick 39.0000 43.3460
+\t (01:07:10) last pick:  39.0000 43.3460
+\i (01:07:10) placementedit 
+\i (01:07:11) pick grid 38.8888 49.5786
+\t (01:07:11) last pick:  39.0000 50.0000
+\i (01:07:11) move 
+\t (01:07:11) last pick:  38.0000 50.0000
+\t (01:07:11) Moving C5 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (01:07:11) Pick new location for the element(s).
+\i (01:07:13) pick 38.3500 49.0000
+\t (01:07:13) last pick:  38.3500 49.0000
+\i (01:07:13) placementedit 
+\i (01:07:13) pick grid 38.6600 51.8665
+\t (01:07:13) last pick:  39.0000 52.0000
+\i (01:07:13) move 
+\t (01:07:14) last pick:  38.0000 52.0000
+\t (01:07:14) Moving C4 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (01:07:14) Pick new location for the element(s).
+\i (01:07:15) pick 38.3500 51.0000
+\t (01:07:15) last pick:  38.3500 51.0000
+\i (01:07:15) placementedit 
+\i (01:07:18) pick grid 41.4056 54.6883
+\t (01:07:18) last pick:  41.0000 55.0000
+\i (01:07:18) move 
+\t (01:07:18) last pick:  41.0000 55.0000
+\t (01:07:18) Moving C1 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (01:07:18) Pick new location for the element(s).
+\i (01:07:24) pick 39.6500 54.0000
+\t (01:07:24) last pick:  39.6500 54.0000
+\i (01:07:24) placementedit 
+\i (01:07:28) pick grid 38.5075 57.9677
+\t (01:07:28) last pick:  39.0000 58.0000
+\i (01:07:28) move 
+\t (01:07:28) last pick:  39.0000 58.0000
+\t (01:07:28) Moving U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS.
+\t (01:07:28) Pick new location for the element(s).
+\i (01:07:34) pick 39.2098 59.0000
+\t (01:07:34) last pick:  39.2098 59.0000
+\i (01:07:34) placementedit 
+\i (01:07:36) pick grid 44.0748 60.9421
+\t (01:07:36) last pick:  44.0000 61.0000
+\i (01:07:36) move 
+\t (01:07:36) last pick:  44.0000 61.0000
+\t (01:07:36) Moving C3 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (01:07:36) Pick new location for the element(s).
+\i (01:07:39) pick 45.0000 61.2500
+\t (01:07:39) last pick:  45.0000 61.2500
+\i (01:07:39) placementedit 
+\i (01:07:40) pick grid 45.7527 65.2892
+\t (01:07:40) last pick:  46.0000 65.0000
+\i (01:07:40) move 
+\t (01:07:40) last pick:  46.0000 66.0000
+\t (01:07:40) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (01:07:40) Pick new location for the element(s).
+\i (01:07:43) pick 47.0000 65.5000
+\t (01:07:43) last pick:  47.0000 65.5000
+\i (01:07:43) placementedit 
+\i (01:07:59) pick grid 56.4298 73.6784
+\t (01:07:59) last pick:  56.0000 74.0000
+\i (01:07:59) move 
+\t (01:07:59) last pick:  54.8900 76.0000
+\t (01:07:59) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (01:07:59) Pick new location for the element(s).
+\i (01:08:08) pick 54.3400 75.0000
+\t (01:08:08) last pick:  54.3400 75.0000
+\i (01:08:08) placementedit 
+\i (01:08:10) prepopup 30.1946 70.7041
+\i (01:08:13) trapsize 8779
+\i (01:08:17) trapsize 3813
+\i (01:08:18) trapsize 8779
+\i (01:08:26) trapsize 8796
+\i (01:08:26) trapsize 9941
+\i (01:08:26) trapsize 12041
+\i (01:08:26) trapsize 13606
+\i (01:08:26) trapsize 14863
+\i (01:08:26) trapsize 15370
+\i (01:08:26) trapsize 15802
+\i (01:08:26) trapsize 15970
+\i (01:08:26) trapsize 16027
+\i (01:08:26) trapsize 16084
+\i (01:08:28) trapsize 8188
+\i (01:08:36) xrefdes Jp2 
+\i (01:08:36) xname_flush 
+\i (01:08:36) trapsize 3139
+\i (01:08:39) xrefdes X1 
+\i (01:08:39) xname_flush 
+\i (01:08:39) trapsize 1952
+\i (01:08:42) xrefdes U1 
+\i (01:08:42) xname_flush 
+\i (01:08:42) trapsize 1286
+\i (01:08:45) trapsize 487
+\i (01:08:48) zoom fit 
+\i (01:08:48) trapsize 3660
+\i (01:08:52) showhide_workflow 
+\i (01:08:52) trapsize 4497
+\i (01:08:52) placementedit 
+\i (01:08:54) pick grid 60.9435 34.3870
+\t (01:08:54) last pick:  61.0000 34.0000
+\i (01:09:28) save_as 
+\i (01:09:38) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video6_Copper Pours\PCB EDITOR TUTORIAL.brd"
+\i (01:09:38) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video6_Copper Pours"
+\i (01:09:38) placementedit 
+\i (01:10:12) pick grid 103.7506 65.4131
+\t (01:10:12) last pick:  104.0000 65.0000
+\i (04:03:57) trapsize 18966
+\i (04:04:03) trapsize 9655
+\i (04:04:07) xrefdes Jp9 
+\i (04:04:07) xname_flush 
+\i (04:04:07) trapsize 9091
+\i (04:04:12) xrefdes U1 
+\i (04:04:12) xname_flush 
+\i (04:04:12) trapsize 1286
+\i (04:04:14) xrefdes Jp2 
+\i (04:04:14) xname_flush 
+\i (04:04:14) trapsize 3139
+\i (04:05:33) xrefdes Ic1 
+\i (04:05:33) xname_flush 
+\i (04:05:33) trapsize 3139
+\i (04:05:39) xrefdes C2 
+\i (04:05:39) xname_flush 
+\i (04:05:39) trapsize 756
+\i (04:05:43) zoom out 
+\i (04:05:43) setwindow pcb
+\i (04:05:43) zoom out 39.0000 43.3384
+\i (04:05:43) trapsize 1511
+\i (04:05:48) xrefdes C1 
+\i (04:05:48) xname_flush 
+\i (04:05:48) trapsize 599
+\i (04:05:51) zoom out 
+\i (04:05:51) setwindow pcb
+\i (04:05:51) zoom out 39.6500 53.6737
+\i (04:05:51) trapsize 1198
+\i (04:05:55) xrefdes C5 
+\i (04:05:55) xname_flush 
+\i (04:05:55) trapsize 599
+\i (04:05:57) zoom in 
+\i (04:05:57) setwindow pcb
+\i (04:05:57) zoom in 38.3500 49.3142
+\i (04:05:57) trapsize 299
+\i (04:05:59) zoom out 
+\i (04:05:59) setwindow pcb
+\i (04:05:59) zoom out 38.3501 49.3142
+\i (04:05:59) trapsize 599
+\i (04:06:00) zoom out 
+\i (04:06:00) setwindow pcb
+\i (04:06:00) zoom out 38.3500 49.3142
+\i (04:06:00) trapsize 1198
+\i (04:06:06) move 
+\i (04:06:07) pick grid 37.8949 48.7154
+\t (04:06:07) last pick:  38.0000 49.0000
+\t (04:06:07) Moving JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM.
+\t (04:06:07) Moving U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS.
+\t (04:06:07) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (04:06:07) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (04:06:07) Moving C2 / CAP_1210_100UF / 1210.
+\t (04:06:07) Moving C1 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (04:06:07) Moving C5 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (04:06:07) Pick new location for the element(s).
+\i (04:06:11) undo 
+\i (04:06:11) trapsize 1198
+\i (04:06:11) placementedit 
+\i (04:06:12) pick grid 41.9671 49.4340
+\t (04:06:12) last pick:  42.0000 49.0000
+\i (04:06:13) pick grid 38.1344 49.1226
+\t (04:06:13) last pick:  38.0000 49.0000
+\i (04:06:13) move 
+\t (04:06:13) last pick:  38.3500 49.0000
+\t (04:06:13) Moving C5 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (04:06:13) Pick new location for the element(s).
+\i (04:06:16) pick 38.3500 48.0000
+\t (04:06:16) last pick:  38.3500 48.0000
+\i (04:06:16) placementedit 
+\i (04:06:16) pick grid 42.5180 48.6914
+\t (04:06:16) last pick:  43.0000 49.0000
+\i (04:06:22) xdehilite 
+\i (04:06:22) xrefdes C5 
+\i (04:06:22) xname_flush 
+\i (04:06:22) done 
+\i (04:06:22) placementedit 
+\i (04:06:23) xrefdes C6 
+\i (04:06:23) xname_flush 
+\i (04:06:23) trapsize 484
+\i (04:06:25) xrefdes C5 
+\i (04:06:25) xname_flush 
+\i (04:06:25) trapsize 599
+\i (04:06:28) zoom out 
+\i (04:06:28) setwindow pcb
+\i (04:06:28) zoom out 38.3500 48.3142
+\i (04:06:28) trapsize 1198
+\i (04:06:59) xrefdes Jp9 
+\i (04:06:59) xname_flush 
+\i (04:06:59) trapsize 9091
+\i (04:07:04) xrefdes Y1 
+\i (04:07:04) xname_flush 
+\i (04:07:04) trapsize 1180
+\i (04:07:48) trapsize 447
+\i (04:07:50) zoom out 
+\i (04:07:50) setwindow pcb
+\i (04:07:50) zoom out 46.9956 60.2876
+\i (04:07:50) trapsize 894
+\i (04:07:52) pick grid 38.6428 65.4746
+\t (04:07:52) last pick:  39.0000 65.0000
+\i (04:07:52) move 
+\t (04:07:52) last pick:  39.0000 66.0000
+\t (04:07:52) Moving C8 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (04:07:52) Pick new location for the element(s).
+\i (04:07:57) pick 39.6500 66.0000
+\t (04:07:57) last pick:  39.6500 66.0000
+\i (04:07:57) placementedit 
+\i (04:08:01) zoom out 
+\i (04:08:01) setwindow pcb
+\i (04:08:01) zoom out 46.9956 60.2877
+\i (04:08:01) trapsize 1789
+\i (04:08:04) pick grid 63.4864 50.9512
+\t (04:08:04) last pick:  63.0000 51.0000
+\i (04:08:04) move 
+\t (04:08:04) last pick:  63.0000 51.0000
+\t (04:08:04) Moving C7 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (04:08:04) Pick new location for the element(s).
+\i (04:08:05) pick 63.0000 51.0000
+\t (04:08:05) last pick:  63.0000 51.0000
+\i (04:08:05) placementedit 
+\i (04:08:14) roam start
+\i (04:08:14) roam y -32
+\i (04:08:14) roam y -96
+\i (04:08:14) roam y -64
+\i (04:08:14) roam y -32
+\i (04:08:15) roam y -16
+\i (04:08:15) roam y 96
+\i (04:08:15) roam y 80
+\i (04:08:15) roam y 80
+\i (04:08:15) roam y 64
+\i (04:08:15) roam x -16
+\i (04:08:15) roam y 64
+\i (04:08:15) roam y 64
+\i (04:08:15) roam y 64
+\i (04:08:15) roam y 64
+\i (04:08:15) roam y 32
+\i (04:08:15) roam y 16
+\i (04:08:15) roam y 16
+\i (04:08:15) roam y 16
+\i (04:08:15) roam y 16
+\i (04:08:15) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam x -16
+\i (04:08:16) roam y 16
+\i (04:08:16) roam y 16
+\i (04:08:17) roam end
+\i (04:08:20) pick grid 52.8354 30.3347
+\t (04:08:20) last pick:  53.0000 30.0000
+\i (04:08:20) move 
+\t (04:08:20) last pick:  53.2900 34.9975
+\t (04:08:20) Moving MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ.
+\t (04:08:20) Pick new location for the element(s).
+\i (04:08:20) pick dbl 53.0800 30.0000
+\t (04:08:20) last pick:  53.0800 30.0000
+\i (04:08:20) placementedit 
+\i (04:08:21) undo 
+\i (04:08:21) trapsize 1789
+\i (04:08:21) placementedit 
+\i (04:08:27) pick grid 63.9247 34.1266
+\t (04:08:27) last pick:  64.0000 34.0000
+\i (04:08:30) zoom fit 
+\i (04:08:30) trapsize 3660
+\i (04:08:30) zoom fit 
+\i (04:08:30) trapsize 3660
+\i (04:08:39) show allpanes 
+\i (04:08:39) trapsize 4497
+\i (04:08:39) placementedit 
+\i (04:08:45) save 
+\i (04:08:47) fillin yes 
+\i (04:08:47) placementedit 
+\i (04:48:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (04:48:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (04:48:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (04:48:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (04:48:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (04:48:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (04:48:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Shapes
+\i (04:48:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Shapes
+\i (04:48:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Shapes
+\i (04:48:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Shapes
+\i (04:48:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing"
+\i (04:48:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing"
+\i (04:48:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect "Manual Routing"
+\i (04:48:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect "Manual Routing"
+\i (04:48:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Timing
+\i (04:48:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Timing
+\i (04:48:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Timing
+\i (04:48:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Timing
+\i (04:48:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (04:48:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (04:48:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (04:48:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (04:48:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (04:48:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (04:50:01) exit 
+\t (04:50:01)     Journal end - Tue Apr 10 12:47:14 2018

@@ -1,0 +1,205 @@
+\t (00:00:06) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Fri Apr 13 08:18:18 2018
+\t (00:00:06)         Host=SHANNON-W10LT User=shannonh Pid=26176 CPUs=8
+\t (00:00:06) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:07) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video12_3D Modeling/PCB EDITOR TUTORIAL.brd
+\i (00:00:07) trapsize 18781
+\i (00:00:07) trapsize 19343
+\i (00:00:07) trapsize 18781
+\i (00:00:07) trapsize 19147
+\i (00:00:07) trapsize 19520
+\i (00:00:08) generaledit 
+\i (00:07:56) step pkg map 
+\i (00:10:09) setwindow form.pkgmap3d
+\i (00:10:09) FORM pkgmap3d pkglist MOUNTING_HOLE1 
+\i (00:10:11) fillin confirm
+\i (00:10:13) FORM pkgmap3d pkglist LED_LNJ 
+\i (00:10:20) fillin confirm
+\i (00:10:49) FORM pkgmap3d done  
+\i (00:10:49) setwindow pcb
+\i (00:10:49) generaledit 
+\i (00:10:52) step pkg map 
+\i (00:10:54) setwindow form.pkgmap3d
+\i (00:10:54) FORM pkgmap3d folder_step  
+\i (00:10:58) fillin confirm
+\i (00:17:44) FORM pkgmap3d done  
+\i (00:17:44) setwindow pcb
+\i (00:17:44) generaledit 
+\i (00:20:00) color192 
+\i (00:20:00) generaledit 
+\i (00:20:03) QtSignal CVDLoadMenu CVDLoadDefaultAction triggered
+\i (00:20:09) QtSignal CVDLoadMenu CVDLoadDefaultAction triggered
+\i (00:20:12) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:20:21) color192 
+\i (00:20:21) generaledit 
+\i (00:20:50) color192 
+\i (00:20:50) generaledit 
+\i (00:20:56) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:20:57) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:21:02) QtSignal CVDLoadMenu CVDLoadDefaultAction triggered
+\i (00:21:08) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:21:17) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:21:20) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:21:28) QtSignal CVDLayerContainer CVDVisibilityRestore clicked
+\i (00:21:36) color192 
+\i (00:21:36) generaledit 
+\i (00:21:38) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:21:40) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:21:41) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:21:42) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:21:43) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:21:45) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:21:51) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:21:52) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:21:53) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:21:55) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:22:03) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:22:05) QtSignal CVPLayerGrid CVPBoxAllPower_Plane clicked false
+\i (00:22:10) zoom fit 
+\i (00:22:10) trapsize 4262
+\i (00:22:14) color192 
+\i (00:22:14) generaledit 
+\i (00:22:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:22:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 2
+\i (00:22:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:22:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:22:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 2
+\i (00:22:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 2
+\i (00:22:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:22:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 2
+\i (00:22:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 2
+\i (00:22:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:22:25) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:22:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (00:22:26) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:22:26) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:22:29) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:22:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:22:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:22:34) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:22:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:22:46) QtSignal CVDLayerTable VertHeader clickedCheckBox 32
+\i (00:22:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 32 0
+\i (00:22:46) QtSignal CVDLayerTable VertHeader clickedCheckBox 31
+\i (00:22:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 31 0
+\i (00:22:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 30
+\i (00:22:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
+\i (00:22:50) QtSignal CVDLayerTable VertHeader clickedCheckBox 22
+\i (00:22:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 22 0
+\i (00:22:53) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:22:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:22:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:23:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:23:06) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:23:11) color192 
+\i (00:23:12) generaledit 
+\i (00:23:21) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:23:40) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:23:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 15 0
+\i (00:23:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 15 0
+\i (00:23:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:23:45) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:24:08) drag_start grid 36.2325 12.4260
+\i (00:24:08) slide 
+\t (00:24:08) Waiting for the destination pick.
+\t (00:24:08) New cline would result in DRC error(s); retaining old cline.
+\i (00:24:11) drag_stop grid 35.4653 11.7440
+\t (00:24:11) No DRC errors detected.
+\i (00:24:11) generaledit 
+\i (00:24:14) drag_start grid 36.1473 11.6588
+\i (00:24:14) move 
+\t (00:24:14) last pick:  64.0000 25.0000
+\t (00:24:14) Moving JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM.
+\t (00:24:14) Pick new location for the element(s).
+\i (00:24:15) drag_stop 30.6914 11.6588
+\i (00:24:15) generaledit 
+\i (00:24:15) undo 
+\i (00:24:15) trapsize 4262
+\i (00:24:15) generaledit 
+\i (00:24:18) drag_start grid 38.3637 14.4720
+\i (00:24:18) slide 
+\t (00:24:18) Waiting for the destination pick.
+\t (00:24:18) New cline would result in DRC error(s); retaining old cline.
+\i (00:24:22) drag_stop grid 35.6358 12.5965
+\t (00:24:22) No DRC errors detected.
+\i (00:24:22) generaledit 
+\i (00:24:24) drag_start grid 31.8849 10.2096
+\i (00:24:24) slide 
+\t (00:24:24) Waiting for the destination pick.
+\i (00:24:26) drag_stop grid 31.0324 8.7604
+\t (00:24:26) No DRC errors detected.
+\i (00:24:26) generaledit 
+\i (00:24:28) drag_start grid 13.0452 10.3801
+\i (00:24:28) slide 
+\t (00:24:28) Waiting for the destination pick.
+\i (00:24:30) drag_stop grid 10.8287 9.7833
+\t (00:24:30) No DRC errors detected.
+\i (00:24:30) generaledit 
+\i (00:24:31) drag_start grid 10.5730 14.3015
+\i (00:24:31) slide 
+\t (00:24:32) Waiting for the destination pick.
+\i (00:24:34) drag_stop grid 9.8910 13.8752
+\t (00:24:34) No DRC errors detected.
+\i (00:24:34) generaledit 
+\i (00:24:38) drag_start grid 33.7603 10.8063
+\i (00:24:38) slide 
+\t (00:24:38) Waiting for the destination pick.
+\i (00:24:40) drag_stop grid 32.6521 10.8063
+\t (00:24:40) No DRC errors detected.
+\i (00:24:40) generaledit 
+\i (00:24:41) pick grid 34.3571 5.4357
+\t (00:24:41) last pick:  34.2900 5.7150
+\i (00:24:51) save 
+\i (00:24:56) fillin yes 
+\i (00:24:56) generaledit 
+\i (00:26:03) step pkg map 
+\i (00:26:06) setwindow form.pkgmap3d
+\i (00:26:06) FORM pkgmap3d folder_step  
+\i (00:26:09) fillin confirm
+\i (00:26:12) FORM pkgmap3d pkglist 1210 
+\i (00:26:14) FORM pkgmap3d stplist 1210CAP.step 
+\i (00:26:17) FORM pkgmap3d save_current  
+\i (00:26:19) FORM pkgmap3d pkglist 0402-CAP 
+\i (00:26:21) FORM pkgmap3d stplist 0402CAP.STEP 
+\i (00:26:23) FORM pkgmap3d save_current  
+\i (00:26:24) FORM pkgmap3d pkglist 0402-RES 
+\i (00:26:26) FORM pkgmap3d stplist 0402RES.step 
+\i (00:26:27) FORM pkgmap3d save_current  
+\i (00:26:30) FORM pkgmap3d pkglist 1X06_LOCK 
+\i (00:26:36) FORM pkgmap3d stplist conn1x6.step 
+\i (00:26:38) FORM pkgmap3d save_current  
+\i (00:26:40) FORM pkgmap3d pkglist CRYSTAL-SMD-5X3 
+\i (00:26:44) FORM pkgmap3d stplist Crystal4.step 
+\i (00:26:47) FORM pkgmap3d save_current  
+\i (00:26:48) FORM pkgmap3d pkglist LED_LNJ 
+\i (00:26:51) FORM pkgmap3d save_current  
+\i (00:26:55) FORM pkgmap3d pkglist MSOP-8_MS 
+\i (00:26:58) FORM pkgmap3d save_current  
+\i (00:27:00) FORM pkgmap3d pkglist SQFP-S-10X10-64 
+\i (00:27:21) FORM pkgmap3d stplist QFP64-16X16_P0_5.step 
+\i (00:27:32) FORM pkgmap3d save_current  
+\i (00:27:35) FORM pkgmap3d pkglist USB-MICROB 
+\i (00:27:37) FORM pkgmap3d stplist USB_MicroAB.STEP 
+\i (00:27:45) FORM pkgmap3d offset_x -4 
+\i (00:27:50) FORM pkgmap3d offset_y 3 
+\i (00:27:56) FORM pkgmap3d offset_z 2.25 
+\i (00:28:04) FORM pkgmap3d increment .5 
+\i (00:28:07) FORM pkgmap3d arrow_up  
+\i (00:28:10) FORM pkgmap3d arrow_right  
+\i (00:28:13) FORM pkgmap3d arrow_left  
+\i (00:28:15) FORM pkgmap3d arrow_up  
+\i (00:28:17) FORM pkgmap3d arrow_down  
+\i (00:28:18) FORM pkgmap3d arrow_up  
+\i (00:28:22) FORM pkgmap3d arrow_right  
+\i (00:28:27) FORM pkgmap3d offset_y 3.5 
+\i (00:28:31) FORM pkgmap3d done  
+\i (00:28:32) setwindow pcb
+\i (00:28:32) generaledit 
+\i (00:28:33) exit 
+\e (00:28:33) Do you want to save the changes you made to C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video12_3D Modeling/PCB EDITOR TUTORIAL.brd?
+\i (00:28:34) fillin no 
+\t (00:28:34)     Journal end - Fri Apr 13 08:46:47 2018

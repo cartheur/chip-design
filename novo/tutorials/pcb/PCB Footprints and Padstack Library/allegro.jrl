@@ -1,0 +1,29 @@
+\t (00:00:02) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Apr 14 09:09:40 2018
+\t (00:00:02)         Host=SHANNON-W10LT User=shannonh Pid=25944 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\PCB Footprints and Padstack Library\xtend-digi-modem.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged xtend-digi-modem
+\d (00:00:02) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/PCB Footprints and Padstack Library/xtend-digi-modem.dra
+\i (00:00:02) trapsize 4320
+\i (00:00:02) trapsize 4449
+\i (00:00:02) trapsize 4320
+\i (00:00:02) trapsize 4449
+\i (00:00:02) trapsize 7527
+\i (00:00:02) etchedit 
+\i (00:00:08) padeditdb 
+\i (00:00:09) setwindow form.mini
+\i (00:00:09) FORM mini padlist HN330M350 
+\i (00:00:09) FORM mini padlist C142M163H70 
+\i (00:00:31) FORM mini padlist HN330M350 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) padeditlib 
+\i (00:01:01) fillin "menu_cancel"
+\i (00:01:13) fillin yes 
+\i (00:01:13) etchedit 
+\i (00:01:16) exit 
+\e (00:01:16) Do you want to save the changes you made to xtend-digi-modem.dra?
+\i (00:01:18) fillin no 
+\t (00:01:18)     Journal end - Sat Apr 14 09:10:56 2018

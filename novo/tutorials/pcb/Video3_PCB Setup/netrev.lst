@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : CAPTURE TUTORIAL.brd                          )
+(    Software Version : 17.2S037                                      )
+(    Date/Time        : Mon Apr 09 14:16:40 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup'
+Design Directory:            'C:/USERS/SHANNONH/DESKTOP/ASSIGNMENTS/PCB_CAPTURE TUTORIALS/PCB TUTORIAL/VIDEO3_PCB SETUP/allegro'
+Old design name:             'C:/USERS/SHANNONH/DESKTOP/ASSIGNMENTS/PCB_CAPTURE TUTORIALS/PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd'
+New design name:             'C:/USERS/SHANNONH/DESKTOP/ASSIGNMENTS/PCB_CAPTURE TUTORIALS/PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd'
+
+CmdLine: netrev.exe -y 1 -n -i C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\PCB TUTORIAL\VIDEO3_PCB SETUP\allegro\CAPTURE TUTORIAL.brd C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\PCB TUTORIAL\VIDEO3_PCB SETUP\allegro\CAPTURE TUTORIAL.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstchip.dat 
+   Finished reading C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstchip.dat (00:00:00.02)
+Starting to read C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstxprt.dat 
+   Finished reading C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstxnet.dat 
+   Finished reading C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video3_PCB Setup/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 9 14:16:40 2018
+   DESIGN NAME : 'CAPTURE TUTORIAL'
+   PACKAGING ON Mar 19 2018 12:24:12
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:38
+elapsed time  0:00:00
+

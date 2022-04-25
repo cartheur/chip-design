@@ -1,0 +1,747 @@
+\t (00:00:04) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Apr 10 20:12:01 2018
+\t (00:00:04)         Host=SHANNON-W10LT User=shannonh Pid=16444 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video6_Differential Pairs and Constraints\PCB EDITOR TUTORIAL.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:05) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video6_Differential Pairs and Constraints/PCB EDITOR TUTORIAL.brd
+\i (00:00:05) trapsize 4411
+\i (00:00:05) trapsize 4543
+\i (00:00:06) trapsize 4411
+\i (00:00:06) trapsize 4497
+\i (00:00:06) trapsize 4584
+\i (00:00:06) placementedit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 41.8636 73.0762
+\i (00:00:11) trapsize 9168
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 41.8637 86.7312
+\i (00:00:11) trapsize 18336
+\i (00:00:13) zoom fit 
+\i (00:00:13) trapsize 4262
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (00:00:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (00:00:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Modes
+\i (00:00:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Modes
+\i (00:00:18) cns cmmodesv2 
+\i (00:00:23) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Electrical
+\i (00:00:23) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Electrical
+\i (00:00:30) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Physical
+\i (00:00:30) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Physical
+\i (00:00:35) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Spacing
+\i (00:00:35) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Spacing
+\i (00:00:38) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Same Net Spacing"
+\i (00:00:38) QtSignal m_analysisFrame_2 m_analysisTreeView clicked "Same Net Spacing"
+\i (00:00:40) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Assembly
+\i (00:00:40) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Assembly
+\i (00:00:43) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Design
+\i (00:00:43) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Design
+\i (00:00:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 0 | Modes
+\i (00:00:47) placementedit 
+\i (00:00:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Physical
+\i (00:00:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Physical
+\i (00:00:49) cmgr_phys 
+\i (00:00:49) setwindow cmgr
+\i (00:00:49) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:49) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:49) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:49) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:00:49) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:00:49) setwindow pcb
+\i (00:00:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 1 | Physical
+\i (00:00:49) placementedit 
+\i (00:00:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Spacing
+\i (00:00:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Spacing
+\i (00:00:58) cmgr_spac 
+\i (00:00:58) setwindow cmgr
+\i (00:00:58) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:00:58) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:00:58) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:58) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:58) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:00:58) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:00:58) setwindow pcb
+\i (00:00:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 2 | Spacing
+\i (00:00:58) placementedit 
+\i (00:01:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints "Same Net Spacing"
+\i (00:01:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints "Same Net Spacing"
+\i (00:01:00) cmgr_snspac 
+\i (00:01:00) setwindow cmgr
+\i (00:01:00) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:01:00) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:00) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:01:00) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:00) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:01:00) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:00) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:00) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:01:00) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:01:00) setwindow pcb
+\i (00:01:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 3 | "Same Net Spacing"
+\i (00:01:00) placementedit 
+\i (00:01:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Manufacturing
+\i (00:01:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Manufacturing
+\i (00:01:01) cmgr_manufacturing 
+\i (00:01:01) setwindow cmgr
+\i (00:01:01) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:01:01) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:01) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:01:01) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:01) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:01:01) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:01:01) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:01:01) setwindow pcb
+\i (00:01:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged Constraints 5 | Manufacturing
+\i (00:01:01) placementedit 
+\i (00:01:06) setwindow cmgr
+\i (00:01:06) cm exit
+\i (00:01:22) setwindow pcb
+\i (00:01:22) diff pairs 
+   (00:01:22) Loading consmgr.cxt 
+   (00:01:22) Loading acns_formula.cxt 
+   (00:01:22) Loading cmds.cxt 
+   (00:01:22) Loading fputil.cxt 
+\i (00:01:26) setwindow form.fpconsdiff
+\i (00:01:26) FORM fpconsdiff autogen  
+\i (00:01:33) setwindow form.diffpairauto
+\i (00:01:33) FORM diffpairauto prefix DP 
+\i (00:01:35) FORM diffpairauto net1 + 
+\i (00:01:39) FORM diffpairauto net2 - 
+\i (00:01:39) FORM diffpairauto cancel  
+\i (00:01:42) setwindow form.fpconsdiff
+\i (00:01:42) FORM fpconsdiff cancel  
+\i (00:01:42) setwindow pcb
+\i (00:01:42) placementedit 
+\i (00:04:10) diff pairs 
+\i (00:04:15) setwindow form.fpconsdiff
+\i (00:04:15) FORM fpconsdiff autogen  
+\i (00:04:19) setwindow form.diffpairauto
+\i (00:04:19) FORM diffpairauto prefix DP 
+\i (00:04:21) FORM diffpairauto net1 + 
+\i (00:04:26) FORM diffpairauto net2 - 
+\i (00:04:26) FORM diffpairauto cancel  
+\i (00:04:29) setwindow form.fpconsdiff
+\i (00:04:29) FORM fpconsdiff done  
+\i (00:04:29) setwindow pcb
+\i (00:04:29) placementedit 
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Modes
+\i (00:04:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Modes
+\i (00:04:32) cns cmmodesv2 
+\i (00:04:35) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Electrical
+\i (00:04:35) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Electrical
+\i (00:04:36) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Physical
+\i (00:04:36) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Physical
+\i (00:04:37) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Spacing
+\i (00:04:37) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Spacing
+\i (00:04:39) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Same Net Spacing"
+\i (00:04:39) QtSignal m_analysisFrame_2 m_analysisTreeView clicked "Same Net Spacing"
+\i (00:04:41) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged Assembly
+\i (00:04:41) QtSignal m_analysisFrame_2 m_analysisTreeView clicked Assembly
+\i (00:04:42) QtSignal m_analysisFrame_2 m_analysisTreeView selectionChanged "Design for Fabrication"
+\i (00:04:42) QtSignal m_analysisFrame_2 m_analysisTreeView clicked "Design for Fabrication"
+\i (00:04:49) QtSignal m_ActionFrame m_CancelPushButton clicked
+\i (00:04:49) placementedit 
+\i (00:04:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Physical
+\i (00:04:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Physical
+\i (00:04:52) cmgr_phys 
+\i (00:04:52) setwindow cmgr
+\i (00:04:52) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:04:52) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:04:52) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:04:52) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:04:52) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:04:52) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:04:52) setwindow pcb
+\i (00:04:52) placementedit 
+\i (00:05:00) setwindow cmgr
+\i (00:05:00) cm clearGridSelectionCell
+\i (00:05:00) cm selectInGrid 0 5 3
+\i (00:05:00) cm clearGridSelection
+\i (00:05:00) cm scope Design "PCB EDITOR TUTORIAL"
+\i (00:05:00) cm selectInGrid 32842 ( "Physical CSet" "DEFAULT" )
+\i (00:05:00) cm startQtDialog 32842
+\i (00:05:06) setwindow pcb
+\i (00:05:06) QtSignal CreateNamedObjDlg m_RegionText editingFinished POWER_GND
+\i (00:05:06) QtSignal CreateNamedObjDlg m_ButtonOK clicked
+\i (00:05:21) setwindow cmgr
+\i (00:05:21) cm putValue ( "Physical CSet" "POWER_GND" ) MIN_LINE_WIDTH .381 7 ( "Physical CSet" "POWER_GND" )
+\i (00:05:22) cm endUndoBlock
+\i (00:05:26) cm putValue ( "Physical CSet" "POWER_GND" ) MAXIMUM_NECK_LENGTH 5.08 7 ( "Physical CSet" "POWER_GND" )
+\i (00:05:26) cm endUndoBlock
+\i (00:05:30) cm clearGridSelectionCell
+\i (00:05:30) cm selectInGrid 0 5 3
+\i (00:05:30) cm clearGridSelection
+\i (00:05:30) cm selectInGrid 32842 ( "Physical CSet" "DEFAULT" )
+\i (00:05:30) cm startQtDialog 32842
+\i (00:05:33) setwindow pcb
+\i (00:05:33) QtSignal CreateNamedObjDlg m_RegionText editingFinished DP
+\i (00:05:33) QtSignal CreateNamedObjDlg m_ButtonOK clicked
+\i (00:05:45) setwindow cmgr
+\i (00:05:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_PRIMARY_GAP .127 7 ( "Physical CSet" "DEFAULT" )
+\i (00:05:45) cm endUndoBlock
+\i (00:05:51) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:05:51) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:05:51) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:05:51) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:05:51) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:05:56) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:05:56) cm add ( "Diff Pair" "DPD" ) to ( "Physical CSet" "DP" )
+\i (00:05:56) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:05:56) cm endUndoBlock
+\i (00:05:58) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:05:58) cm add ( Net "GND" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:05:58) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:05:58) cm endUndoBlock
+\i (00:06:01) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:06:01) cm add ( Net "3.3V" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:06:01) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:06:01) cm endUndoBlock
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:07) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:07) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" ) 0
+\i (00:06:11) cm clearGridSelectionCell
+\i (00:06:11) cm selectInGrid 0 4 3
+\i (00:06:11) cm clearGridSelection
+\i (00:06:11) cm selectInGrid 32841 ( Design "PCB EDITOR TUTORIAL" )
+\i (00:06:11) cm startQtDialog 32841
+\i (00:06:16) setwindow pcb
+\i (00:06:16) QtSignal CreateNamedObjDlg m_RegionText editingFinished DP
+\i (00:06:16) QtSignal CreateNamedObjDlg m_ButtonOK clicked
+\i (00:06:18) setwindow cmgr
+\i (00:06:18) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:06:24) cm putValue ( "Electrical CSet" "DP" ) DIFFP_GATHER_CONTROL Ignore 0
+\i (00:06:24) cm endUndoBlock
+\i (00:06:32) cm putValue ( "Electrical CSet" "DP" ) DIFFP_UNCOUPLED_LENGTH 5.08 0
+\i (00:06:32) cm endUndoBlock
+\i (00:06:40) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:40) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:40) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:40) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" ) 0
+\i (00:06:42) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:06:42) cm add ( "Diff Pair" "DPD" ) to ( "Electrical CSet" "DP" )
+\i (00:06:42) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:06:42) cm endUndoBlock
+\i (00:06:54) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:06:55) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:06:55) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:06:55) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:06:55) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:06:59) cm putValue ( Net "GND" ) VOLTAGE 0 0
+\i (00:06:59) cm endUndoBlock
+\i (00:07:05) cm putValue ( Net "3.3V" ) VOLTAGE 3.3V 0
+\i (00:07:05) cm endUndoBlock
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:07:09) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:09) cm exit
+\i (00:07:17) setwindow pcb
+\i (00:07:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints Physical
+\i (00:07:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints Physical
+\i (00:07:17) cmgr_phys 
+\i (00:07:17) setwindow cmgr
+\i (00:07:17) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:07:17) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" ) 0
+\i (00:07:17) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:07:17) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:17) setwindow pcb
+\i (00:07:17) placementedit 
+\i (00:07:20) setwindow cmgr
+\i (00:07:20) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:20) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:22) cm scope Design "PCB EDITOR TUTORIAL"
+\i (00:07:22) cm expand ( row ( "Diff Pair" "DPD" ) )
+\i (00:07:27) cm collapse ( row ( "Diff Pair" "DPD" ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:07:29) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:07:29) cm exit
+\i (00:32:42) setwindow pcb
+\i (00:32:42) cmgr 
+\i (00:32:43) setwindow cmgr
+\i (00:32:43) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:32:43) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:32:43) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:32:43) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:43) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:32:43) setwindow pcb
+\i (00:32:43) placementedit 
+\i (00:32:47) setwindow cmgr
+\i (00:32:47) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" )
+\i (00:32:48) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:32:56) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:32:56) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:33:10) cm scope Design "PCB EDITOR TUTORIAL"
+\i (00:33:10) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_PRIMARY_GAP 0 7 ( "Physical CSet" "DEFAULT" )
+\i (00:33:10) cm endUndoBlock
+\i (00:33:13) cm putValue ( "Physical CSet" "DP" ) DIFFP_PRIMARY_GAP .127 7 ( "Physical CSet" "DP" )
+\i (00:33:13) cm endUndoBlock
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:33:15) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:33:15) cm exit
+\i (00:33:19) setwindow pcb
+\i (00:33:19) save_as 
+\i (00:33:24) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video7_Copper Pours\PCB EDITOR TUTORIAL.brd"
+\i (00:33:24) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video7_Copper Pours"
+\i (00:33:25) placementedit 
+\i (00:34:40) cmgr 
+\i (00:34:41) setwindow cmgr
+\i (00:34:41) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" "174:All Layers" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet 400:Manufacturing "401:Design for Fabrication" "402:DFF Constraint Set" 403:Outline )
+\i (00:34:41) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing "34:Differential Pair" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "36:General Properties" "37:General Properties" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing "32:Differential Pair" ) 0
+\i (00:34:41) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm expand ( row ( Design "PCB EDITOR TUTORIAL" ) )
+\i (00:34:41) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:34:41) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:34:41) setwindow pcb
+\i (00:34:41) placementedit 
+\i (00:34:46) setwindow cmgr
+\i (00:34:46) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:34:46) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:34:48) cm scope Design "PCB EDITOR TUTORIAL"
+\i (00:34:48) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:34:48) cm add ( "Diff Pair" "DPD" ) to ( "Physical CSet" "DEFAULT" )
+\i (00:34:48) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:34:48) cm endUndoBlock
+\i (00:34:50) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:50) cm add ( Net "GND" ) to ( "Physical CSet" "DEFAULT" )
+\i (00:34:50) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:50) cm endUndoBlock
+\i (00:34:54) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:34:54) cm remove ( Net "3.3V" ) from ( "Physical CSet" "POWER_GND" )
+\i (00:34:54) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:34:54) cm endUndoBlock
+\i (00:34:56) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:56) cm add ( Net "GND" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:34:56) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:56) cm endUndoBlock
+\i (00:34:58) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:58) cm remove ( Net "GND" ) from ( "Physical CSet" "POWER_GND" )
+\i (00:34:58) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:34:59) cm endUndoBlock
+\i (00:35:00) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:35:00) cm add ( "Diff Pair" "DPD" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:35:00) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:35:01) cm endUndoBlock
+\i (00:35:04) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:35:04) cm remove ( "Diff Pair" "DPD" ) from ( "Physical CSet" "POWER_GND" )
+\i (00:35:04) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:35:04) cm endUndoBlock
+\i (00:35:05) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:35:05) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:35:19) cm putValue ( "Physical CSet" "DP" ) DIFFP_PRIMARY_GAP 0 7 ( "Physical CSet" "DP" )
+\i (00:35:19) cm endUndoBlock
+\i (00:35:32) cm putValue ( "Physical CSet" "DP" ) DIFFP_PRIMARY_GAP 0.127 7 ( "Physical CSet" "DP" )
+\i (00:35:32) cm endUndoBlock
+\i (00:35:36) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:35:36) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:38:35) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:38:35) cm add ( "Diff Pair" "DPD" ) to ( "Physical CSet" "DP" )
+\i (00:38:35) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( "Diff Pair" "DPD" ) TS_DEFER
+\i (00:38:36) cm endUndoBlock
+\i (00:38:37) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:38:37) cm add ( Net "GND" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:38:37) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "GND" ) TS_DEFER
+\i (00:38:37) cm endUndoBlock
+\i (00:38:39) cm startTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:38:39) cm add ( Net "3.3V" ) to ( "Physical CSet" "POWER_GND" )
+\i (00:38:39) cm commitTransaction ( Design "PCB EDITOR TUTORIAL" ) ( Net "3.3V" ) TS_DEFER
+\i (00:38:40) cm endUndoBlock
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook "171:Same Net Spacing" "172:Same Net Spacing Constraint Set" "173:All Layers" ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "36:General Properties" ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:38:42) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:38:42) cm exit
+\i (00:38:46) setwindow pcb
+\i (00:38:46) save 
+\i (00:38:48) fillin yes 
+\i (00:38:48) placementedit 
+\i (00:38:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Constraints
+\i (00:38:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Constraints
+\i (00:38:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect
+\i (00:38:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect
+\i (00:38:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (00:38:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (00:39:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (00:39:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (00:44:56) cancel 
+\i (00:44:56) placementedit 
+\i (00:45:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Shapes +
+\i (00:45:13) QtSignal Rectangular
+\i (00:45:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Shapes Rectangular
+\i (00:45:13) shape add rect 
+\i (00:45:19) setwindow form.mini
+\i (00:45:19) FORM mini class ETCH 
+\i (00:45:21) FORM mini subclass BOTTOM 
+\i (00:45:23) FORM mini dyns_netname_list  
+\i (00:45:28) fillin "Gnd"
+\t (00:45:28) Assigning selected shape to net: GND
+\i (00:45:31) setwindow pcb
+\i (00:45:31) pick grid 35.3433 79.5940
+\t (00:45:31) last pick:  35.5600 79.3750
+\i (00:45:35) pick grid 94.4199 30.7471
+\t (00:45:35) last pick:  94.6150 30.4800
+\i (00:45:40) pick grid 93.7379 79.4235
+\t (00:45:40) last pick:  93.9800 79.3750
+\i (00:45:49) pick grid 131.8435 56.1509
+\t (00:45:49) last pick:  132.0800 55.8800
+\i (00:45:50) prepopup 110.4464 48.4786
+\i (00:45:53) done 
+\i (00:45:53) placementedit 
+\i (00:45:53) pick grid 102.9446 63.7379
+\t (00:45:53) last pick:  102.8700 63.5000
+\i (00:45:55) shapeedit 
+\i (00:45:56) pick grid 107.3775 67.4036
+\t (00:45:56) last pick:  107.3150 67.3100
+\i (00:45:58) prepopup 98.4265 62.5445
+\i (00:45:59) pop dyn_option_select '@:@Merge Shapes' 
+\i (00:45:59) shape merge shapes 
+\t (00:45:59) Pick shapes to be merged
+\i (00:46:00) pick grid 88.6230 59.4755
+\t (00:46:00) last pick:  88.9000 59.6900
+\i (00:46:04) prepopup 100.1314 49.6721
+\i (00:46:05) done 
+\i (00:46:05) shapeedit 
+\i (00:46:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Interconnect Shapes +
+\i (00:46:08) QtSignal Polygon
+\i (00:46:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Interconnect Shapes Polygon
+\i (00:46:08) shape add 
+\i (00:46:10) setwindow form.mini
+\i (00:46:10) FORM mini dyns_netname_list  
+\i (00:46:13) fillin "Gnd"
+\t (00:46:13) Assigning selected shape to net: GND
+\i (00:46:16) setwindow pcb
+\i (00:46:16) pick grid 131.1616 79.4235
+\t (00:46:16) last pick:  131.4450 79.3750
+\i (00:46:21) pick grid 134.4862 79.0825
+\t (00:46:21) last pick:  134.6200 79.3750
+\i (00:46:27) pick grid 134.4862 30.2356
+\t (00:46:27) last pick:  134.6200 30.4800
+\i (00:46:30) pick grid 93.6526 30.4061
+\t (00:46:30) last pick:  93.3450 30.4800
+\i (00:46:33) pick grid 94.1641 56.7476
+\t (00:46:33) last pick:  93.9800 56.5150
+\i (00:46:40) pick grid 131.5878 56.2361
+\t (00:46:40) last pick:  131.4450 56.5150
+\i (00:46:43) pick grid 131.5026 79.0825
+\t (00:46:43) last pick:  131.4450 79.3750
+\i (00:46:46) prepopup 124.6828 47.8819
+\i (00:46:47) done 
+\i (00:46:47) shapeedit 
+\i (00:46:47) pick grid 124.2565 47.7966
+\t (00:46:47) last pick:  124.4600 47.6250
+\i (00:46:49) prepopup 119.7384 51.5475
+\i (00:46:51) pop dyn_option_select '@:@Merge Shapes' 
+\i (00:46:51) shape merge shapes 
+\t (00:46:51) Pick shapes to be merged
+\i (00:46:52) pick grid 114.6235 63.3117
+\t (00:46:52) last pick:  114.9350 63.5000
+\i (00:46:54) pick grid 88.4525 28.3602
+\t (00:46:54) last pick:  88.2650 28.5750
+\i (00:46:54) prepopup 88.4525 28.3602
+\i (00:46:56) done 
+\i (00:46:56) shapeedit 
+\i (00:47:02) generaledit 
+\i (00:47:03) pick grid 39.3499 76.2693
+\t (00:47:03) last pick:  39.3700 76.2000
+\i (00:47:05) pick grid 39.6057 75.2463
+\t (00:47:05) last pick:  39.3700 74.9300
+\i (00:47:06) placementedit 
+\i (00:47:07) pick grid 40.5434 75.5873
+\t (00:47:07) last pick:  41.0000 76.0000
+\i (00:47:07) move 
+\t (00:47:07) last pick:  39.0000 76.0000
+\t (00:47:07) Pick new location for the element(s).
+\i (00:47:09) pick 45.0000 72.0000
+\t (00:47:09) last pick:  45.0000 72.0000
+\i (00:47:09) placementedit 
+\i (00:47:10) undo 
+\i (00:47:10) trapsize 4262
+\i (00:47:10) placementedit 
+\i (00:47:12) pick grid 63.6455 27.6782
+\t (00:47:12) last pick:  64.0000 28.0000
+\i (00:47:20) split plane create 
+\i (00:47:26) setwindow form.createsplitplane
+\i (00:47:26) FORM createsplitplane cancel  
+   (00:47:26) Loading apt.cxt 
+\i (00:47:26) setwindow pcb
+\i (00:47:26) placementedit 
+\i (00:47:30) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:47:34) split plane create 
+\i (00:47:37) setwindow form.createsplitplane
+\i (00:47:37) FORM createsplitplane subclass POWER PLANE 
+\i (00:47:41) FORM createsplitplane create  
+\i (00:47:44) fillin "3.3V"
+\t (00:47:44) Shape moved from a null net to 3.3V.
+\i (00:47:44) setwindow pcb
+\i (00:47:44) trapsize 6312
+\i (00:47:44) placementedit 
+\i (00:47:51) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (01:12:54) save_as 
+\i (01:13:00) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video8_Routing\PCB EDITOR TUTORIAL.brd"
+\i (01:13:00) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video8_Routing"
+\i (01:13:00) placementedit 
+\i (12:12:11) cancel 
+\i (12:12:11) placementedit 
+\i (12:12:37) zoom fit 
+\i (12:12:37) trapsize 4262
+\i (12:12:41) color192 
+\i (12:12:41) placementedit 
+\i (12:12:44) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (12:12:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (12:12:45) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (12:12:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (12:12:46) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (12:12:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
+\i (12:12:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 2
+\i (12:12:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 2 0
+\i (12:12:48) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (12:12:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (12:12:49) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (12:12:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (12:12:50) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (12:12:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (12:12:50) QtSignal CVDLayerTable VertHeader clickedCheckBox 6
+\i (12:12:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 6 0
+\i (12:12:52) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (12:12:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (12:12:53) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (12:12:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (12:12:55) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (12:12:58) QtSignal CVDColorTable CVDColorButton1:13 clicked
+\i (12:12:59) QtSignal CVDNetTable CVDNetTableDelegate clickedColor 0 0
+\i (12:12:59) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (12:12:59) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (12:13:02) QtSignal CVDColorTable CVDColorButton1:12 clicked
+\i (12:13:03) QtSignal CVDNetTable CVDNetTableDelegate clickedColor 4 0
+\i (12:13:03) QtSignal CVDNetSplitter CVDNetTable dataChanged 4 0
+\i (12:13:03) QtSignal CVDNetSplitter CVDNetTable selectionChanged
+\i (12:13:05) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (12:13:06) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (12:13:15) create fanout 
+\w (12:13:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (12:13:28) setwindow form.mini
+\i (12:13:28) FORM mini crfan_via_direction Outward 
+\i (12:13:42) setwindow pcb
+\i (12:13:42) pick grid 39.9467 66.6363
+\t (12:13:42) last pick:  40.0050 66.6750
+\t (12:13:42) Generate Fanouts completed, #Pins=2, C8
+\i (12:13:44) pick grid 37.3040 66.5511
+\t (12:13:44) last pick:  37.4650 66.6750
+\t (12:13:44) Generate Fanouts completed, #Pins=2, C6
+\i (12:13:46) zoom in 
+\i (12:13:46) setwindow pcb
+\i (12:13:46) zoom in 84.9574 54.9574
+\i (12:13:46) trapsize 2131
+\i (12:13:48) pick grid 62.8783 51.7180
+\t (12:13:48) last pick:  62.8650 51.4350
+\t (12:13:48) Generate Fanouts completed, #Pins=2, C7
+\i (12:13:51) zoom out 
+\i (12:13:51) setwindow pcb
+\i (12:13:51) zoom out 84.9574 54.9574
+\i (12:13:51) trapsize 4262
+\i (12:13:54) pick grid 38.3270 50.0131
+\t (12:13:54) last pick:  38.1000 50.1650
+\t (12:13:54) Generate Fanouts completed, #Pins=2, C4
+\i (12:13:55) pick grid 38.3270 47.9671
+\t (12:13:55) last pick:  38.1000 48.2600
+\t (12:13:55) Generate Fanouts completed, #Pins=2, C5
+\i (12:13:55) pick grid 38.6680 43.7900
+\t (12:13:55) last pick:  38.7350 43.8150
+\t (12:13:55) Generate Fanouts completed, #Pins=2, C2
+\i (12:13:58) pick grid 44.8911 60.0723
+\t (12:13:58) last pick:  45.0850 60.3250
+\t (12:13:58) Generate Fanouts completed, #Pins=2, C3
+\i (12:14:00) undo 
+\i (12:14:00) trapsize 4262
+\i (12:14:00) placementedit 
+\i (12:14:03) pick grid 36.8777 66.6363
+\t (12:14:03) last pick:  36.8300 66.6750
+\i (12:14:03) move 
+\t (12:14:03) last pick:  37.0000 66.0000
+\t (12:14:03) Moving C6 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (12:14:03) Pick new location for the element(s).
+\i (12:14:04) undo 
+\i (12:14:04) trapsize 4262
+\i (12:14:04) placementedit 
+\i (12:14:11) create fanout 
+\w (12:14:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (12:14:22) placementedit 
+\i (12:14:34) exit 
+\e (12:14:34) Do you want to save the changes you made to C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video8_Routing/PCB EDITOR TUTORIAL.brd?
+\i (12:14:35) fillin no 
+\t (12:14:35)     Journal end - Wed Apr 11 08:26:32 2018

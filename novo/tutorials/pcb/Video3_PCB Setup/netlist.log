@@ -1,0 +1,14 @@
+{ Using PSTWRITER 17.2.0 d001Apr-09-2018 at 14:16:39 }
+
+#1 WARNING(ORCAP-36006): Part Name "PIC32MX440F512H_SQFP-S-10X10-64_PIC32MX440F512H" is renamed to "PIC32MX440F512H_SQFP-S-10X10-64".
+#2 WARNING(ORCAP-36006): Part Name "XTEND-DIGI-MODEM_XTEND-DIGI-MODEM_XTEND-DIGI-MODEM" is renamed to "XTEND-DIGI-MODEM_XTEND-DIGI-MOD".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup/pstchip.dat
+
+Loading... C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup/pstchip.dat
+
+Loading... C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup/pstxprt.dat
+
+Loading... C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video3_PCB Setup/pstxnet.dat
+packaging the design view...

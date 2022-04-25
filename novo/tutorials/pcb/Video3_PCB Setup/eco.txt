@@ -1,0 +1,191 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3.3V         pins ADDED TO this new net
+                                 C2.1           C4.1           C5.1           
+                                 C6.1           C7.1           C8.1           
+                                 IC1.10         IC1.19         IC1.26         
+                                 IC1.35         IC1.38         JP2.2          
+                                 R1.1           R2.1           U1.1           
+                                 U1.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CTS          pins ADDED TO this new net
+                                 IC1.21         JP9.9          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D+           pins ADDED TO this new net
+                                 IC1.37         X1.D+          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  D-           pins ADDED TO this new net
+                                 IC1.36         X1.D-          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.2           C6.2           
+                                 C7.2           C8.2           C9.2           
+                                 IC1.9          IC1.20         IC1.25         
+                                 IC1.41         JP2.3          JP9.1          
+                                 MAIN_PWR.1     U1.4           U1.5           
+                                 X1.GND         Y1.2           Y1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01360       pins ADDED TO this new net
+                                 MAIN_PWR.2     R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01559       pins ADDED TO this new net
+                                 C3.1           JP9.11         R2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01622       pins ADDED TO this new net
+                                 IC1.39         Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01634       pins ADDED TO this new net
+                                 IC1.40         Y1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01671       pins ADDED TO this new net
+                                 C9.1           IC1.56         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PROG0        pins ADDED TO this new net
+                                 IC1.17         JP2.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PROG1        pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 IC1.18         JP2.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 IC1.7          JP2.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RTS          pins ADDED TO this new net
+                                 IC1.29         JP9.10         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SHDN         pins ADDED TO this new net
+                                 IC1.59         JP9.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  URX          pins ADDED TO this new net
+                                 IC1.31         JP9.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UTX          pins ADDED TO this new net
+                                 IC1.32         JP9.5          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBUS         pins ADDED TO this new net
+                                 C1.1           IC1.34         JP9.2          
+                                 U1.6           U1.7           U1.8           
+                                 X1.VBUS        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D+                DIFFERENTIAL_P DPD
+ D-                DIFFERENTIAL_P DPD
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP_0402-CAP_0.1UF
+ CAP_0402-CAP_10UF
+ CAP_1210_100UF
+ CRYSTAL_CRYSTAL-SMD-5X3_8MHZ
+ LED_LED_LNJ_RED
+ LT1965_MSOP-8_MS_LT1965
+ M06_LOCK_1X06_LOCK_PIC 32 PROG
+ PIC32MX440F512H_SQFP-S-10X10-64
+ RESISTOR_0402-RES_56K
+ RESISTOR_0402-RES_150
+ USB-MICROB_USB-MICROB_USB-B
+ XTEND-DIGI-MODEM_XTEND-DIGI-MOD
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_0402-CAP_10UF     
+ C2                  CAP_1210_100UF        
+ C3                  CAP_0402-CAP_10UF     
+ C4                  CAP_0402-CAP_0.1UF    
+ C5                  CAP_0402-CAP_0.1UF    
+ C6                  CAP_0402-CAP_0.1UF    
+ C7                  CAP_0402-CAP_0.1UF    
+ C8                  CAP_0402-CAP_0.1UF    
+ C9                  CAP_0402-CAP_10UF     
+ IC1                 PIC32MX440F512H_SQFP-S-10X10-64 
+ JP2                 M06_LOCK_1X06_LOCK_PIC 32 PROG 
+ JP9                 XTEND-DIGI-MODEM_XTEND-DIGI-MOD 
+ MAIN_PWR            LED_LED_LNJ_RED       
+ R1                  RESISTOR_0402-RES_150 
+ R2                  RESISTOR_0402-RES_56K 
+ U1                  LT1965_MSOP-8_MS_LT1965 
+ X1                  USB-MICROB_USB-MICROB_USB-B 
+ Y1                  CRYSTAL_CRYSTAL-SMD-5X3_8MHZ 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../PCB TUTORIAL/VIDEO3_PCB SETUP/allegro/CAPTURE TUTORIAL.brd            |
+|                                                    Mon Apr 09 14:16:40 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ IC1.7                          PRIM_FILE      .\pstchip.dat
+ JP2.6                          PRIM_FILE      .\pstchip.dat
+ JP9.2                          PRIM_FILE      .\pstchip.dat
+ MAIN_PWR.1                     PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ U1.2                           PRIM_FILE      .\pstchip.dat
+ X1.VBUS                        PRIM_FILE      .\pstchip.dat
+ Y1.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      76                                        |
+|       Net property added    :       2                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      18                                        |
+|       Slot property added   :      18                                        |
+|                                                                              |
+|   Total ECO changes reported:     126                                        |
+|------------------------------------------------------------------------------|

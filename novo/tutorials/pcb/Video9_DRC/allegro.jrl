@@ -1,0 +1,992 @@
+\t (00:00:04) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Thu Apr 12 12:04:50 2018
+\t (00:00:04)         Host=SHANNON-W10LT User=shannonh Pid=2040 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video9_DRC\PCB EDITOR TUTORIAL.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL"
+\d (00:00:06) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Video9_DRC/PCB EDITOR TUTORIAL.brd
+\i (00:00:06) trapsize 4181
+\i (00:00:06) trapsize 4306
+\i (00:00:06) trapsize 4181
+\i (00:00:06) trapsize 4262
+\i (00:00:06) trapsize 4345
+\i (00:00:06) generaledit 
+\i (00:00:34) zoom out 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 84.9566 55.5302
+\i (00:00:34) trapsize 8691
+\i (00:00:39) zoom out 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 102.5512 59.9664
+\i (00:00:39) trapsize 17382
+\i (00:00:43) zoom in 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 205.1025 119.9328
+\i (00:00:43) trapsize 8691
+\i (00:00:47) zoom out 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 205.1025 119.9328
+\i (00:00:47) trapsize 17382
+\i (00:00:50) zoom fit 
+\i (00:00:50) trapsize 4262
+\i (00:01:03) color192 
+\i (00:01:03) generaledit 
+\i (00:01:06) QtSignal CVDNetContainer CVDClearAllNets clicked
+\i (00:01:08) QtFillin Yes
+\i (00:01:08) QtSignal CVDNetSplitter CVDNetTable dataChanged 0 0
+\i (00:01:09) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:01:12) zoom out 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 84.9574 54.9574
+\i (00:01:12) trapsize 8525
+\i (00:01:12) zoom out 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 100.5922 58.8209
+\i (00:01:12) trapsize 17050
+\i (00:01:16) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:24) generaledit 
+\i (00:01:26) setwindow form.find
+\i (00:01:26) FORM find all_on  
+\i (00:01:29) setwindow pcb
+\i (00:01:29) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:31) drag_start grid 11.9347 91.0445
+\i (00:01:31) drag_stop 161.2885 18.4135
+\i (00:01:33) move 
+\i (00:01:34) pick grid 35.8040 31.3711
+\t (00:01:34) last pick:  35.5600 31.1150
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:34) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Element has no origin, using pick.
+\t (00:01:35) Moving U1 / LT1965_MSOP-8_MS_LT1965 / MSOP-8_MS.
+\t (00:01:35) Moving C2 / CAP_1210_100UF / 1210.
+\t (00:01:35) Moving C4 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:01:35) Moving C5 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:01:35) Moving C1 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:01:35) Moving C6 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:01:35) Moving C9 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:01:35) Moving C8 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:01:35) Moving Y1 / CRYSTAL_CRYSTAL-SMD-5X3_8MHZ / CRYSTAL-SMD-5X3.
+\t (00:01:35) Moving MAIN_PWR / LED_LED_LNJ_RED / LED_LNJ.
+\t (00:01:35) Moving R1 / RESISTOR_0402-RES_150 / 0402-RES.
+\t (00:01:35) Moving JP2 / M06_LOCK_1X06_LOCK_PIC 32 PROG / 1X06_LOCK.
+\t (00:01:35) Moving IC1 / PIC32MX440F512H_SQFP-S-10X10-64 / SQFP-S-10X10-64.
+\t (00:01:35) Moving X1 / USB-MICROB_USB-MICROB_USB-B / USB-MICROB.
+\t (00:01:35) Moving JP9 / XTEND-DIGI-MODEM_XTEND-DIGI-MOD / XTEND-DIGI-MODEM.
+\t (00:01:35) Moving R2 / RESISTOR_0402-RES_56K / 0402-RES.
+\t (00:01:35) Moving C3 / CAP_0402-CAP_10UF / 0402-CAP.
+\t (00:01:35) Moving C7 / CAP_0402-CAP_0.1UF / 0402-CAP.
+\t (00:01:35) Pick new location for the element(s).
+\i (00:01:37) pick grid 131.6223 100.2512
+\t (00:01:37) last pick:  131.4450 100.3300
+\i (00:01:37) generaledit 
+\i (00:01:41) zoom points 
+\t (00:01:41) Pick 1st corner of the new window.
+\i (00:01:42) drag_start 117.3007 109.7989
+\i (00:01:42) drag_stop 148.6719 84.5656
+\i (00:01:43) trapsize 1826
+\i (00:01:47) chg origin 
+\t (00:01:47) Pick new location for drawing origin.
+\i (00:01:48) prepopup 130.9216 99.2090
+\i (00:01:52) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:01:52) last pick:  130.8850 99.2150
+\i (00:01:52) trapsize 1826
+\t (00:01:52) Pick point (130.8850 99.2150) changed to origin (0.0000, 0.0000)
+\i (00:01:52) generaledit 
+\i (00:01:56) zoom out 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 7.9608 -2.0510
+\i (00:01:56) trapsize 3652
+\i (00:01:57) zoom out 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 7.9608 -2.0510
+\i (00:01:57) trapsize 7303
+\i (00:01:57) zoom out 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 7.9608 -2.0510
+\i (00:01:57) trapsize 14607
+\i (00:01:58) zoom out 
+\i (00:01:58) setwindow pcb
+\i (00:01:58) zoom out 41.4758 1.5722
+\i (00:01:58) trapsize 29214
+\i (00:01:59) pick grid 245.9716 50.3591
+\t (00:01:59) last pick:  245.7450 50.1650
+\i (00:02:06) done 
+\i (00:02:06) place manual 
+\i (00:02:06) FORM plc_manual placement_list 
+\i (00:02:06) FORM plc_manual categories Components by refdes 
+\i (00:02:06) trapsize 29214
+\i (00:02:09) setwindow form.plc_manual
+\i (00:02:09) FORM plc_manual advanced_settings  
+\i (00:02:10) FORM plc_manual library YES 
+\i (00:02:11) FORM plc_manual placement_list  
+\i (00:02:13) FORM plc_manual categories Format symbols 
+\i (00:02:14) FORM plc_manual tree 'MULTISEL YES' ASIZEH 'Format symbols' 
+\i (00:02:14) FORM plc_manual tree  ASIZEH 'Format symbols' 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) pick grid -17.5359 -61.2372
+\t (00:02:21) last pick:  -18.0000 -61.0000
+\i (00:02:24) setwindow form.plc_manual
+\i (00:02:24) FORM plc_manual done  
+\i (00:02:24) setwindow pcb
+\i (00:02:24) generaledit 
+\i (00:02:26) zoom fit 
+\i (00:02:26) trapsize 4262
+\i (00:02:28) zoom out 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom out 49.9574 24.9574
+\i (00:02:28) trapsize 8525
+\i (00:02:29) zoom out 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out 49.9574 24.9575
+\i (00:02:29) trapsize 17050
+\i (00:02:32) pick grid 205.3316 -13.2335
+\t (00:02:32) last pick:  205.0000 -13.0000
+\i (00:02:32) prepopup 205.3316 -13.2335
+\i (00:02:35) pop dyn_option_select '@:@Text edit' 
+\i (00:02:35) text edit 
+\i (00:02:42) setwindow form.textedit
+\i (00:02:42) FORM textedit str 'EMA DESIGN AUTOMATION' 
+\i (00:02:42) FORM textedit done  
+\i (00:02:42) setwindow pcb
+\i (00:02:42) pick 0.0000 0.0000
+\t (00:02:42) Pick text to edit.
+\i (00:02:42) setwindow pcb
+\i (00:02:42) generaledit 
+\i (00:02:45) pick grid 195.1019 -73.9298
+\t (00:02:45) last pick:  195.0000 -74.0000
+\i (00:02:49) zoom fit 
+\i (00:02:49) trapsize 4262
+\i (00:02:51) pick grid 18.5010 -3.0890
+\t (00:02:51) last pick:  19.0000 -3.0000
+\i (00:02:52) prepopup 18.5010 -3.0890
+\i (00:02:54) pop dyn_option_select @:@Delete 
+\i (00:02:54) delete 
+\i (00:02:54) generaledit 
+\i (00:02:57) zoom out 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out 49.9574 24.9574
+\i (00:02:57) trapsize 8525
+\i (00:02:59) pick grid -4.4306 29.0494
+\t (00:02:59) last pick:  -4.0000 29.0000
+\i (00:02:59) prepopup -4.6011 29.0494
+\i (00:03:01) pop dyn_option_select @:@Delete 
+\i (00:03:01) delete 
+\i (00:03:01) generaledit 
+\i (00:03:02) zoom fit 
+\i (00:03:02) trapsize 4262
+\i (00:03:05) drag_start grid 18.2453 7.3112
+\i (00:03:05) move 
+\t (00:03:05) last pick:  18.9250 4.9975
+\t (00:03:05) Pick new location for the element(s).
+\i (00:03:07) drag_stop grid 21.0584 5.3505
+\i (00:03:07) generaledit 
+\i (00:03:11) change 
+\i (00:03:14) setwindow form.mini
+\i (00:03:14) FORM mini apply_width NO 
+\i (00:03:14) FORM mini apply_size YES 
+\i (00:03:16) FORM mini text_block 2 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) pick grid 20.8027 2.9635
+\t (00:03:18) last pick:  21.0000 3.0000
+\t (00:03:18) No DRC errors detected.
+\t (00:03:18) Changed 1 items out of 1 items found.
+\i (00:03:19) pick grid 12.3632 14.4720
+\t (00:03:19) last pick:  12.0000 14.0000
+\t (00:03:19) No DRC errors detected.
+\t (00:03:19) Changed 1 items out of 1 items found.
+\i (00:03:22) pick grid 34.9538 36.1249
+\t (00:03:22) last pick:  35.0000 36.0000
+\t (00:03:22) No DRC errors detected.
+\t (00:03:22) Changed 1 items out of 1 items found.
+\i (00:03:25) pick grid 20.4617 39.7052
+\t (00:03:25) last pick:  20.0000 40.0000
+\t (00:03:25) No DRC errors detected.
+\t (00:03:25) Changed 1 items out of 1 items found.
+\i (00:03:27) pick grid 28.8160 21.6328
+\t (00:03:27) last pick:  29.0000 22.0000
+\t (00:03:27) No DRC errors detected.
+\t (00:03:27) Changed 1 items out of 1 items found.
+\i (00:03:29) pick grid 29.0717 23.0820
+\t (00:03:29) last pick:  29.0000 23.0000
+\t (00:03:29) No DRC errors detected.
+\t (00:03:29) Changed 1 items out of 1 items found.
+\i (00:03:31) pick grid 28.0487 17.7966
+\t (00:03:31) last pick:  28.0000 18.0000
+\t (00:03:31) No DRC errors detected.
+\t (00:03:31) Changed 1 items out of 1 items found.
+\i (00:03:33) pick grid 14.8354 23.9344
+\t (00:03:33) last pick:  15.0000 24.0000
+\t (00:03:33) No DRC errors detected.
+\t (00:03:33) Changed 1 items out of 1 items found.
+\i (00:03:34) pick grid 14.3239 33.2264
+\t (00:03:34) last pick:  14.0000 33.0000
+\t (00:03:34) No DRC errors detected.
+\t (00:03:34) Changed 1 items out of 1 items found.
+\i (00:03:36) pick grid 3.5827 35.2724
+\t (00:03:36) last pick:  4.0000 35.0000
+\t (00:03:36) No DRC errors detected.
+\t (00:03:36) Changed 1 items out of 1 items found.
+\i (00:03:37) pick grid 0.5990 35.3576
+\t (00:03:37) last pick:  1.0000 35.0000
+\w (00:03:37) WARNING(SPMHGE-537): Shape already matches option panel settings.
+\i (00:03:39) pick grid 5.1171 22.9967
+\t (00:03:39) last pick:  5.0000 23.0000
+\t (00:03:39) No DRC errors detected.
+\t (00:03:39) Changed 1 items out of 1 items found.
+\i (00:03:40) pick grid 7.9303 24.5312
+\t (00:03:40) last pick:  8.0000 25.0000
+\t (00:03:40) No DRC errors detected.
+\t (00:03:40) Changed 1 items out of 1 items found.
+\i (00:03:41) pick grid 2.7302 21.7180
+\t (00:03:41) last pick:  3.0000 22.0000
+\t (00:03:41) No DRC errors detected.
+\t (00:03:41) Changed 1 items out of 1 items found.
+\i (00:03:42) pick grid 2.6450 19.0753
+\t (00:03:42) last pick:  3.0000 19.0000
+\t (00:03:42) No DRC errors detected.
+\t (00:03:42) Changed 1 items out of 1 items found.
+\i (00:03:43) pick grid 3.2417 12.8523
+\t (00:03:43) last pick:  3.0000 13.0000
+\t (00:03:43) No DRC errors detected.
+\t (00:03:43) Changed 1 items out of 1 items found.
+\i (00:03:47) prepopup 5.0319 34.1642
+\i (00:03:48) done 
+\i (00:03:48) generaledit 
+\i (00:03:49) pick grid 3.8384 28.9641
+\t (00:03:49) last pick:  4.0000 29.0000
+\e (00:03:49) Command not found: Del
+\i (00:03:50) prepopup 3.8384 28.9641
+\i (00:03:51) pop dyn_option_select @:@Delete 
+\i (00:03:51) delete 
+\i (00:03:51) generaledit 
+\i (00:03:52) pick grid 3.4122 28.7936
+\t (00:03:52) last pick:  3.0000 29.0000
+\i (00:03:53) prepopup 3.4122 28.7936
+\i (00:03:54) pop dyn_option_select @:@Delete 
+\i (00:03:54) delete 
+\i (00:03:54) generaledit 
+\i (00:03:55) pick grid 3.8384 28.8788
+\t (00:03:55) last pick:  4.0000 29.0000
+\i (00:03:55) prepopup 3.8384 28.8788
+\i (00:03:56) pop dyn_option_select @:@Delete 
+\i (00:03:56) delete 
+\i (00:03:56) generaledit 
+\i (00:03:57) pick grid 3.8384 28.5378
+\t (00:03:57) last pick:  4.0000 29.0000
+\i (00:03:58) drag_start grid 3.8384 28.5378
+\i (00:03:58) move 
+\t (00:03:58) last pick:  4.2098 28.3650
+\t (00:03:58) Pick new location for the element(s).
+\i (00:04:00) drag_stop grid 4.9467 31.6067
+\i (00:04:00) generaledit 
+\i (00:04:01) pick grid 4.8614 29.3903
+\t (00:04:01) last pick:  5.0000 29.0000
+\e (00:04:03) Command not found: Del
+\i (00:04:03) prepopup 4.7762 29.3903
+\i (00:04:05) pop dyn_option_select @:@Delete 
+\i (00:04:05) delete 
+\i (00:04:05) generaledit 
+\i (00:04:06) drag_start grid 5.0319 32.6297
+\i (00:04:06) move 
+\t (00:04:06) last pick:  5.0000 32.0000
+\t (00:04:06) Pick new location for the element(s).
+\i (00:04:08) drag_stop grid 4.1794 28.7083
+\i (00:04:08) generaledit 
+\i (00:04:09) pick grid 8.3566 32.6297
+\t (00:04:09) last pick:  8.0000 33.0000
+\i (00:04:15) add text 
+\t (00:04:15) Pick text location.
+\i (00:04:20) setwindow form.mini
+\i (00:04:20) FORM mini class REF DES 
+\i (00:04:23) FORM mini text_block 2 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) pick grid 36.7440 21.5475
+\t (00:04:24) last pick:  37.0000 22.0000
+\t (00:04:24) Pick text location.
+\i (00:04:25) pick grid 50.6394 26.4066
+\t (00:04:25) last pick:  51.0000 26.0000
+\t (00:04:25) Enter text string.
+\i (00:04:27) setwindow pcb
+\i (00:04:27) pick 51.0000 26.0000
+\t (00:04:27) Pick an element to attach the text to.
+\i (00:04:30) prepopup 52.4296 10.1243
+\i (00:04:31) done 
+\i (00:04:31) generaledit 
+\i (00:04:32) pick grid 52.4296 26.1509
+\t (00:04:32) last pick:  52.0000 26.0000
+\i (00:04:32) prepopup 52.4296 26.1509
+\i (00:04:33) pop dyn_option_select @:@Mirror 
+\i (00:04:33) mirror 
+\i (00:04:33) generaledit 
+\i (00:04:34) undo 
+\i (00:04:35) trapsize 4262
+\i (00:04:35) generaledit 
+\i (00:04:36) pick grid 51.7476 26.2361
+\t (00:04:36) last pick:  52.0000 26.0000
+\i (00:04:36) prepopup 51.7476 26.3214
+\i (00:04:37) pop dyn_option_select @:@Delete 
+\i (00:04:37) delete 
+\i (00:04:37) generaledit 
+\i (00:04:46) enved 
+\i (00:04:47) generaledit 
+\i (00:04:50) setwindow form.prfedit
+\i (00:04:50) FORM prfedit treelist  Output_dir File_management 
+\i (00:04:55) FORM prfedit done  
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom in 
+\i (00:04:58) setwindow pcb
+\i (00:04:58) zoom in 49.9574 24.9574
+\i (00:04:58) trapsize 2131
+\i (00:04:59) zoom out 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 49.9574 24.9574
+\i (00:04:59) trapsize 4262
+\i (00:05:00) zoom out 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out 49.9575 24.9574
+\i (00:05:00) trapsize 8525
+\i (00:05:00) zoom out 
+\i (00:05:00) setwindow pcb
+\i (00:05:00) zoom out 49.9575 24.9575
+\i (00:05:00) trapsize 17050
+\i (00:05:02) pick grid 72.3453 105.0902
+\t (00:05:02) last pick:  72.0000 105.0000
+\i (00:05:03) roam start
+\i (00:05:03) roam x 48
+\i (00:05:03) roam y -16
+\i (00:05:04) roam x 48
+\i (00:05:04) roam y -16
+\i (00:05:05) roam end
+\i (00:05:19) ncdrill customization 
+\i (00:05:19) generaledit 
+\i (00:05:21) setwindow form.nc_drillcustomization
+\i (00:05:21) FORM nc_drillcustomization validate  
+\i (00:05:28) FORM nc_drillcustomization auto_symbols  
+\i (00:05:30) fillin yes 
+\i (00:05:35) FORM nc_drillcustomization done  
+\i (00:05:41) fillin yes 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) ncdrill legend 
+   (00:05:46) Loading mfg.cxt 
+\i (00:05:51) setwindow form.nc_drilllegend
+\i (00:05:51) FORM nc_drilllegend done  
+\i (00:05:54) setwindow pcb
+\i (00:05:54) pick grid 119.7430 47.4109
+\t (00:05:54) last pick:  120.0000 47.0000
+\t (00:05:54) NC Drill Legend generation successful
+\i (00:05:54) generaledit 
+\i (00:06:02) xsection_chart 
+\i (00:06:09) setwindow form.xsectionChart
+\i (00:06:09) FORM xsectionChart text_block 3 
+\i (00:06:09) FORM xsectionChart xsectionchart_ok  
+\i (00:06:13) setwindow pcb
+\i (00:06:13) pick grid 154.5241 52.1848
+\t (00:06:13) last pick:  155.0000 52.0000
+\i (00:06:13) generaledit 
+\i (00:06:17) zoom points 
+\t (00:06:17) Pick 1st corner of the new window.
+\i (00:06:18) drag_start 134.4056 114.9270
+\i (00:06:19) drag_stop 207.3776 48.7749
+\i (00:06:19) trapsize 4787
+\i (00:06:27) zoom out 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 190.8886 81.8031
+\i (00:06:27) trapsize 9573
+\i (00:06:28) zoom out 
+\i (00:06:28) setwindow pcb
+\i (00:06:28) zoom out 190.8886 81.8031
+\i (00:06:28) trapsize 19147
+\i (00:06:31) roam start
+\i (00:06:31) roam y -48
+\i (00:06:31) roam y -16
+\i (00:06:31) roam y 16
+\i (00:06:31) roam y 32
+\i (00:06:31) roam y 48
+\i (00:06:31) roam y 32
+\i (00:06:31) roam y 32
+\i (00:06:32) roam y 16
+\i (00:06:32) roam end
+\i (00:06:33) roam start
+\i (00:06:34) roam x -16
+\i (00:06:34) roam x -32
+\i (00:06:34) roam x -16
+\i (00:06:34) roam x -16
+\i (00:06:34) roam x -32
+\i (00:06:34) roam x -16
+\i (00:06:34) roam end
+\i (00:06:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (00:06:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (00:06:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:06:45) QtSignal Documentation "Drill Chart"
+\i (00:06:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:06:45) QtSignal Documentation "Drill Chart"
+\i (00:06:45) ncdrill legend 
+\i (00:06:50) setwindow form.nc_drilllegend
+\i (00:06:50) FORM nc_drilllegend cancel  
+\i (00:06:50) setwindow pcb
+\i (00:06:50) generaledit 
+\i (00:06:51) drag_start grid 112.2790 115.2288
+\i (00:06:53) drag_stop 247.8381 -5.0129
+\i (00:06:55) prepopup 229.4572 9.9216
+\i (00:06:56) pop dyn_option_select @:@Delete 
+\i (00:06:56) delete 
+\i (00:06:56) generaledit 
+\i (00:06:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:06:58) QtSignal Documentation "Drill Chart"
+\i (00:06:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:06:58) QtSignal Documentation "Drill Chart"
+\i (00:06:58) ncdrill legend 
+\i (00:07:00) setwindow form.nc_drilllegend
+\i (00:07:00) FORM nc_drilllegend done  
+\i (00:07:03) setwindow pcb
+\i (00:07:03) pick grid 119.1718 48.9810
+\t (00:07:03) last pick:  119.0000 49.0000
+\t (00:07:03) NC Drill Legend generation successful
+\i (00:07:03) generaledit 
+\i (00:07:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:07:04) QtSignal Documentation "Cross Section Detail"
+\i (00:07:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:07:04) QtSignal Documentation "Cross Section Detail"
+\i (00:07:04) xsection_chart 
+\i (00:07:09) setwindow form.xsectionChart
+\i (00:07:09) FORM xsectionChart xsectionchart_ok  
+\i (00:07:11) setwindow pcb
+\i (00:07:11) pick grid 155.1678 53.1933
+\t (00:07:11) last pick:  155.0000 53.0000
+\i (00:07:11) generaledit 
+\i (00:07:16) zoom in 1 
+\i (00:07:16) setwindow pcb
+\i (00:07:16) zoom in 183.1220 90.3380
+\i (00:07:16) trapsize 9573
+\i (00:07:16) zoom in 1 
+\i (00:07:16) setwindow pcb
+\i (00:07:16) zoom in 182.7391 89.5721
+\i (00:07:16) trapsize 4787
+\i (00:07:17) zoom out 1 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) zoom out 182.7391 89.5721
+\i (00:07:17) trapsize 9573
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 182.5476 89.7636
+\i (00:07:20) trapsize 19147
+\i (00:07:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:07:23) QtSignal "Artwork (Film Records) Setup"
+\i (00:07:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:07:23) QtSignal "Artwork (Film Records) Setup"
+\i (00:07:23) artwork 
+\i (00:07:30) setwindow form.film_control
+\i (00:07:30) FORM film_control cancel  
+\i (00:07:30) setwindow pcb
+\i (00:07:30) generaledit 
+\i (00:07:38) color192 
+\i (00:07:38) generaledit 
+\i (00:07:40) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:07:44) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:07:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:07:52) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:07:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:08:11) dimension edit 
+\i (00:08:30) prepopup 44.3079 74.8291
+\i (00:08:33) pop dyn_option_select '@:@Linear dimension' 
+\t (00:08:33) Pick an element or point to dimension ...
+\i (00:08:39) zoom in 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom in 127.4049 39.2161
+\i (00:08:39) trapsize 9573
+\i (00:08:41) roam start
+\i (00:08:41) roam x -16
+\i (00:08:41) roam x -32
+\i (00:08:42) roam x -32
+\i (00:08:42) roam x -16
+\i (00:08:42) roam x -32
+\i (00:08:42) roam x -32
+\i (00:08:42) roam end
+\i (00:08:45) pick grid -0.3040 50.1298
+\t (00:08:45) last pick:  0.0000 50.0000
+\t (00:08:45) First point found ... pick the second point.
+\i (00:08:48) pick grid 99.6421 50.1298
+\t (00:08:48) last pick:  100.0000 50.0000
+\t (00:08:48) Pick location for the dimension value.
+\i (00:08:50) pick grid 45.6482 62.0008
+\t (00:08:50) last pick:  46.0000 62.0000
+\t (00:08:50) Pick an element or point to dimension ...
+\i (00:08:53) pick grid 99.4507 50.1298
+\t (00:08:53) last pick:  99.0000 50.0000
+\t (00:08:53) Pick an element or point to dimension ...
+\t (00:08:53) First point found ... pick the second point.
+\i (00:08:55) pick grid 99.6421 -0.0347
+\t (00:08:55) last pick:  100.0000 0.0000
+\t (00:08:55) Pick location for the dimension value.
+\i (00:08:58) pick grid 109.9814 24.6646
+\t (00:08:58) last pick:  110.0000 25.0000
+\t (00:08:58) Pick an element or point to dimension ...
+\i (00:08:59) prepopup 113.2364 71.3828
+\i (00:08:59) done 
+\i (00:09:00) generaledit 
+\i (00:09:02) zoom out 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 96.5787 39.2162
+\i (00:09:02) trapsize 19147
+\i (00:09:06) color192 
+\i (00:09:06) generaledit 
+\i (00:09:08) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:09:10) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:09:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:09:18) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:09:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:09:19) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
+\i (00:09:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:09:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:09:25) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:09:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:29) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:09:33) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:09:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:09:33) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:35) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:09:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:09:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 14 0
+\i (00:09:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:09:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:37) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 14 0
+\i (00:09:37) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:09:37) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:38) QtSignal CVDColorTable CVDColorButton3:24 clicked
+\i (00:09:39) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 14 0
+\i (00:09:39) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:09:39) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 14 0
+\i (00:09:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:09:40) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:40) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 13 0
+\i (00:09:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:09:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:09:43) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777249 67108864 false 1
+\i (00:09:43) QtSignal CVDTabs CVDLayerContainer keyPressEvent 90 67108864 false 1 
+\i (00:09:47) QtSignal ColorVisibilityDialog CVDCancelButton clicked
+\i (00:09:51) color192 
+\i (00:09:51) generaledit 
+\i (00:09:53) QtSignal ColorVisibilityDialog CVDTabs currentChanged Layers
+\i (00:09:54) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:09:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:09:57) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:09:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:09:58) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
+\i (00:09:58) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:10:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:10:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:10:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:10:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:10:02) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:10:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:10:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:10:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:10:09) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:10:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:10:10) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:10:11) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:10:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:10:15) QtSignal "Artwork (Film Records) Setup"
+\i (00:10:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:10:15) QtSignal "Artwork (Film Records) Setup"
+\i (00:10:15) artwork 
+\i (00:10:19) setwindow form.film_control
+\i (00:10:19) FORM film_control load  
+\i (00:10:21) fillin "menu_cancel"
+\i (00:10:23) FORM film_control filmtree  POWER_PLANE 
+\i (00:10:24) FORM film_control filmtree popup Add POWER_PLANE 
+\i (00:10:33) fillin "FAB DRAWING"
+\e (00:10:33) Illegal char(s) in film name.
+\i (00:10:48) FORM film_control create  
+\w (00:10:48) No film records selected.
+\i (00:10:55) FORM film_control filmtree popup Add TOP 
+\i (00:11:00) fillin "FAB DRAWING"
+\e (00:11:00) Illegal char(s) in film name.
+\i (00:11:04) FORM film_control domain_setting  
+\i (00:11:06) setwindow form.film_domain
+\i (00:11:06) FORM film_domain cancel  
+\i (00:11:20) setwindow form.film_control
+\i (00:11:20) FORM film_control filmtree  BOTTOM 
+\i (00:11:26) FORM film_control cancel  
+\i (00:11:26) setwindow pcb
+\i (00:11:26) generaledit 
+\i (00:11:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:11:31) QtSignal "Artwork (Film Records) Setup"
+\i (00:11:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:11:31) QtSignal "Artwork (Film Records) Setup"
+\i (00:11:31) artwork 
+\i (00:11:35) setwindow form.film_control
+\i (00:11:35) FORM film_control filmtree popup Add TOP 
+\i (00:11:38) fillin "FAB"
+\i (00:11:47) FORM film_control ok  
+\i (00:11:47) setwindow pcb
+\i (00:11:47) generaledit 
+\i (00:11:52) color192 
+\i (00:11:52) generaledit 
+\i (00:12:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:12:01) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:12:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:12:01) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:02) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 14 0
+\i (00:12:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 14 0
+\i (00:12:02) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:12:09) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
+\i (00:12:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:12:10) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:12:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:12:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:12:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 2
+\i (00:12:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 2
+\i (00:12:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:12:28) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 0 0
+\i (00:12:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:12:28) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:12:33) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:12:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:12:38) QtSignal "Artwork (Film Records) Setup"
+\i (00:12:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:12:38) QtSignal "Artwork (Film Records) Setup"
+\i (00:12:38) artwork 
+\i (00:12:41) setwindow form.film_control
+\i (00:12:41) FORM film_control filmtree popup Add TOP 
+\i (00:12:48) fillin "ASSEMBLY"
+\i (00:12:50) FORM film_control ok  
+\i (00:12:50) setwindow pcb
+\i (00:12:50) generaledit 
+\i (00:12:58) color192 
+\i (00:12:58) generaledit 
+\i (00:12:59) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:13:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:13:13) QtSignal CVDLayerTable VertHeader clickedCheckBox 30
+\i (00:13:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
+\i (00:13:18) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:13:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:13:22) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:13:25) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 5 2
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 2
+\i (00:13:25) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:13:29) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:13:33) QtSignal "Artwork (Film Records) Setup"
+\i (00:13:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:13:33) QtSignal "Artwork (Film Records) Setup"
+\i (00:13:33) artwork 
+\i (00:13:37) setwindow form.film_control
+\i (00:13:37) FORM film_control filmtree popup Add TOP 
+\i (00:13:45) fillin "SILKSCREEN TOP"
+\e (00:13:45) Illegal char(s) in film name.
+\i (00:13:49) FORM film_control filmtree popup Add TOP 
+\i (00:13:54) fillin "SILKSCREENTOP"
+\i (00:14:06) FORM film_control undefined_line_width .127 
+\i (00:14:06) FORM film_control ok  
+\i (00:14:07) setwindow pcb
+\i (00:14:07) generaledit 
+\i (00:14:11) color192 
+\i (00:14:11) generaledit 
+\i (00:14:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:14:31) QtSignal CVDLayerTable VertHeader clickedCheckBox 30
+\i (00:14:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 30 0
+\i (00:14:32) QtSignal CVDLayerTable VertHeader clickedCheckBox 32
+\i (00:14:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 32 0
+\i (00:14:55) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:14:56) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:14:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:14:58) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:15:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:15:01) QtSignal "Artwork (Film Records) Setup"
+\i (00:15:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:15:01) QtSignal "Artwork (Film Records) Setup"
+\i (00:15:01) artwork 
+\i (00:15:07) setwindow form.film_control
+\i (00:15:07) FORM film_control filmtree popup Add TOP 
+\i (00:15:12) fillin "SOLDERMASKTOP"
+\i (00:15:16) FORM film_control undefined_line_width .127 
+\i (00:15:18) FORM film_control ok  
+\i (00:15:18) setwindow pcb
+\i (00:15:18) generaledit 
+\i (00:15:25) color192 
+\i (00:15:25) generaledit 
+\i (00:15:27) QtSignal CVDLayerTable VertHeader clickedCheckBox 3
+\i (00:15:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 3 0
+\i (00:15:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:15:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:15:29) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:15:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 22
+\i (00:15:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 22 0
+\i (00:15:36) QtSignal CVDLayerTable VertHeader clickedCheckBox 32
+\i (00:15:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 32 0
+\i (00:15:39) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:15:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:15:43) QtSignal "Artwork (Film Records) Setup"
+\i (00:15:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:15:43) QtSignal "Artwork (Film Records) Setup"
+\i (00:15:43) artwork 
+\i (00:15:46) setwindow form.film_control
+\i (00:15:46) FORM film_control filmtree popup Add TOP 
+\i (00:15:49) fillin "PASTEMASKTOP"
+\i (00:15:53) FORM film_control undefined_line_width .127 
+\i (00:15:53) FORM film_control ok  
+\i (00:15:53) setwindow pcb
+\i (00:15:53) generaledit 
+\i (00:15:58) color192 
+\i (00:15:59) generaledit 
+\i (00:16:01) QtSignal CVDLayerTable VertHeader clickedCheckBox 5
+\i (00:16:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 5 0
+\i (00:16:01) QtSignal CVDLayerTable VertHeader clickedCheckBox 4
+\i (00:16:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:16:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:16:11) QtSignal CVDLayerTable VertHeader clickedCheckBox 22
+\i (00:16:11) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 22 0
+\i (00:16:13) QtSignal CVDLayerTable VertHeader clickedCheckBox 31
+\i (00:16:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 31 0
+\i (00:16:18) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:16:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:16:21) QtSignal "Artwork (Film Records) Setup"
+\i (00:16:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:16:21) QtSignal "Artwork (Film Records) Setup"
+\i (00:16:21) artwork 
+\i (00:16:25) setwindow form.film_control
+\i (00:16:25) FORM film_control filmtree popup Add TOP 
+\i (00:16:29) fillin "SOLDERMASKBOTTOM"
+\i (00:16:34) FORM film_control undefined_line_width 0.127 
+\i (00:16:36) FORM film_control filmtree  FAB 
+\i (00:16:43) FORM film_control undefined_line_width 0.127 
+\i (00:16:43) FORM film_control filmtree  PASTEMASKTOP 
+\i (00:16:46) FORM film_control filmtree  SILKSCREENTOP 
+\i (00:16:47) FORM film_control filmtree  SOLDERMASKTOP 
+\i (00:16:49) FORM film_control filmtree  ASSEMBLY 
+\i (00:17:11) FORM film_control undefined_line_width 0.127 
+\i (00:17:13) FORM film_control filmtree popup 'Display for Visibility' ASSEMBLY 
+\i (00:17:16) FORM film_control filmtree  FAB 
+\i (00:17:18) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:17:23) FORM film_control filmtree  TOP 
+\i (00:17:26) FORM film_control filmtree  ASSEMBLY 
+\i (00:17:29) FORM film_control ok  
+\i (00:17:29) setwindow pcb
+\i (00:17:29) generaledit 
+\i (00:17:34) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:17:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSEMBLY"
+\i (00:17:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREENTOP"
+\i (00:17:52) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (08:09:34) save_as 
+\i (08:09:46) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video11_Manufacturing Export\PCB EDITOR TUTORIAL.brd"
+\i (08:09:46) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video11_Manufacturing Export"
+\i (08:09:46) generaledit 
+\i (08:10:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (08:10:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (08:10:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (08:10:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (08:10:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:10:05) QtSignal "Artwork (Gerber)"
+\i (08:10:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:10:05) QtSignal "Artwork (Gerber)"
+\i (08:10:05) artwork 
+\i (08:10:15) setwindow form.film_control
+\i (08:10:15) FORM film_control cancel  
+\i (08:10:15) setwindow pcb
+\i (08:10:15) generaledit 
+\i (08:10:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:10:57) QtSignal IPC-2581
+\i (08:10:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:10:57) QtSignal IPC-2581
+\i (08:10:57) ipc2581 out 
+\i (08:11:02) setwindow form.ipc2581_out
+\i (08:11:02) FORM ipc2581_out ipc2581_mapping  
+\i (08:11:27) setwindow form.ipc2581map
+\i (08:11:27) FORM ipc2581map ipc2581_mapping cell 1,4 
+\i (08:11:27) FORM ipc2581map ipc2581_mapping change 1,4 yes 
+\i (08:11:28) FORM ipc2581map ipc2581_mapping cell 3,4 
+\i (08:11:28) FORM ipc2581map ipc2581_mapping change 3,4 yes 
+\i (08:11:30) FORM ipc2581map ipc2581_mapping cell 6,4 
+\i (08:11:30) FORM ipc2581map ipc2581_mapping change 6,4 yes 
+\i (08:11:36) FORM ipc2581map cancel  
+\i (08:11:37) setwindow pcb
+\i (08:11:37) generaledit 
+\i (08:11:39) setwindow form.ipc2581_out
+\i (08:11:39) FORM ipc2581_out cancel  
+\i (08:11:39) setwindow pcb
+\i (08:11:39) generaledit 
+\i (08:13:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:13:17) QtSignal NCDrill
+\i (08:13:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:13:17) QtSignal NCDrill
+\i (08:13:17) nctape_full 
+\w (08:13:18) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (08:13:39) setwindow form.nc_drill
+\i (08:13:39) FORM nc_drill parameters  
+\i (08:14:47) setwindow form.nc_parameters
+\i (08:14:47) FORM nc_parameters cancel  
+\i (08:14:49) setwindow form.nc_drill
+\i (08:14:49) FORM nc_drill cancel  
+\i (08:14:49) setwindow pcb
+\i (08:14:49) generaledit 
+\i (08:15:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (08:15:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (08:15:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (08:15:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (08:15:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:15:50) QtSignal IPC-2581
+\i (08:15:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:15:50) QtSignal IPC-2581
+\i (08:15:50) ipc2581 out 
+\i (08:15:53) setwindow form.ipc2581_out
+\i (08:15:53) FORM ipc2581_out ipc2581_mapping  
+\i (08:15:56) setwindow form.ipc2581map
+\i (08:15:56) FORM ipc2581map ipc2581_mapping cell 1,4 
+\i (08:15:56) FORM ipc2581map ipc2581_mapping change 1,4 yes 
+\i (08:15:57) FORM ipc2581map ipc2581_mapping cell 3,4 
+\i (08:15:57) FORM ipc2581map ipc2581_mapping change 3,4 yes 
+\i (08:15:58) FORM ipc2581map ipc2581_mapping cell 6,4 
+\i (08:15:58) FORM ipc2581map ipc2581_mapping change 6,4 yes 
+\i (08:16:03) FORM ipc2581map close  
+\i (08:16:03) setwindow pcb
+\i (08:16:03) generaledit 
+\i (08:16:05) setwindow form.ipc2581_out
+\i (08:16:05) FORM ipc2581_out zip_file YES 
+\i (08:16:07) FORM ipc2581_out export  
+\t (08:16:07) Starting Exporting IPC2581 File...
+\t (08:16:09) IPC2581 output completed.
+\i (08:16:15) setwindow pcb
+\i (08:16:15) setwindow text
+\i (08:16:15) close
+\i (08:16:17) setwindow form.ipc2581_out
+\i (08:16:17) FORM ipc2581_out cancel  
+\i (08:16:17) setwindow pcb
+\i (08:16:17) generaledit 
+\i (08:16:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:16:20) QtSignal "Artwork (Gerber)"
+\i (08:16:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:16:20) QtSignal "Artwork (Gerber)"
+\i (08:16:20) artwork 
+\i (08:16:23) setwindow form.film_control
+\i (08:16:23) FORM film_control general_parameters  
+\i (08:16:28) FORM film_control film_control  
+\i (08:16:31) FORM film_control select_all  
+\i (08:16:32) FORM film_control create  
+\t (08:16:32) Checking db records
+\t (08:16:32)     checking for orphans...
+\t (08:16:32)     Checked 100 percent
+\w (08:16:33) Run batch DRC to correctly regenerate DRC errs.
+
+\t (08:16:33) Done dbdoctor.
+\t (08:16:33) Starting Create artwork films...
+\w (08:16:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (08:16:34) Artwork generated with warnings.
+\i (08:16:47) setwindow pcb
+\i (08:16:47) setwindow text
+\i (08:16:47) close
+\i (08:16:49) setwindow form.film_control
+\i (08:16:49) FORM film_control ok  
+\i (08:16:49) setwindow pcb
+\i (08:16:49) generaledit 
+\i (08:16:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables" +
+\i (08:16:52) QtSignal NCDrill
+\i (08:16:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables" +
+\i (08:16:52) QtSignal NCDrill
+\i (08:16:52) nctape_full 
+\w (08:16:52) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (08:16:56) setwindow form.nc_drill
+\i (08:16:56) FORM nc_drill parameters  
+\i (08:17:00) setwindow form.nc_parameters
+\i (08:17:00) FORM nc_parameters done  
+\i (08:17:02) setwindow form.nc_drill
+\i (08:17:02) FORM nc_drill execute  
+\t (08:17:02) Starting Generating NC Drill...
+\i (08:17:05) FORM nc_drill cancel  
+\i (08:17:05) setwindow pcb
+\i (08:17:05) generaledit 
+\i (08:27:26) save_as 
+\i (08:27:35) fillin "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video12_3D Modeling\PCB EDITOR TUTORIAL.brd"
+\i (08:27:35) cd "C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Video12_3D Modeling"
+   (08:27:35) Loading signal.cxt 
+\i (08:27:35) generaledit 
+\i (08:27:45) color192 
+\i (08:27:45) generaledit 
+\i (08:46:17) exit 
+\t (08:46:17)     Journal end - Thu Apr 12 20:51:03 2018
