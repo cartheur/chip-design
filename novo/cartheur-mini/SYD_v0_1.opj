@@ -1,12 +1,16 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[12/03/15]")
+  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[04/27/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\allegro\chip_1_0_fp.xml"
+        (Type "Schematic Library")
+        (DisplayName ".\allegro\chip_1_0_fp.xml")))
     ("Allegro Netlist Directory" "allegro")
-    (File ".\chip_v1_0.dsn"
-      (Type "Schematic Design"))
+    (File ".\syd_v0_1.DSN"
+      (Type "Schematic Design")
+      (DisplayName ".\syd_v0_1.DSN"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
@@ -19,7 +23,10 @@
       (OutputBoard ".\allegro\chip_v1_0_20220330.brd")
       (NetListPath ".\allegro")
       (ActiveBoard "0")))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\01 revision history-placements.csv"
+      (Type "Report")
+      (DisplayName ".\01 revision history-placements.csv")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -35,10 +42,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\chip_v1_0.dsn")
-      (Path "Design Resources" ".\chip_v1_0.dsn" "C.H.I.P._v1_0")
-      (Select "Design Resources" ".\chip_v1_0.dsn" "C.H.I.P._v1_0"
-         "01 REVISION HISTORY"))
+      (Path "Design Resources" ".\syd_v0_1.DSN")
+      (Path "Design Resources" ".\syd_v0_1.DSN" "C.H.I.P._v1_0")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Path "Outputs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -49,10 +58,10 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783")
-        (Scroll "6 0")
+        (Scroll "0 432")
         (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\AME\AIVENTURE\AIVENTURE-CHIP\CADENCE-WORKING\CARTHEUR-MINI\CHIP_V1_0.DSN")
+         "C:\AME\AIVENTURE\AIVENTURE-CHIP\CADENCE-WORKING\CARTHEUR-MINI\SYD_V0_1.DSN")
       (Schematic "C.H.I.P._v1_0")
-      (Page "06 SDIO WIFI&BT"))))
+      (Page "01 REVISION HISTORY"))))
