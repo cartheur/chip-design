@@ -1,0 +1,67 @@
+\t (00:00:04) allegro 17.2 S037 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sun Apr 15 19:45:58 2018
+\t (00:00:04)         Host=SHANNON-W10LT User=shannonh Pid=15888 CPUs=8
+\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\shannonh\Desktop\Assignments\PCB_Capture Tutorials\PCB Tutorial\Completed PCB Editor Design\PCB EDITOR TUTORIAL_COMPLETE.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCB EDITOR TUTORIAL_COMPLETE"
+\d (00:00:06) Design opened: C:/Users/shannonh/Desktop/Assignments/PCB_Capture Tutorials/PCB Tutorial/Completed PCB Editor Design/PCB EDITOR TUTORIAL_COMPLETE.brd
+\i (00:00:06) trapsize 4411
+\i (00:00:06) trapsize 4543
+\i (00:00:06) trapsize 4411
+\i (00:00:06) trapsize 4411
+\i (00:00:06) trapsize 4497
+\i (00:00:07) generaledit 
+\i (00:00:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Deliverables"
+\i (00:00:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Deliverables"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation"
+\i (00:00:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Manufacturing Preparation" +
+\i (00:00:13) QtSignal "Artwork (Film Records) Setup"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Manufacturing Preparation" +
+\i (00:00:13) QtSignal "Artwork (Film Records) Setup"
+\i (00:00:13) artwork 
+\i (00:00:19) setwindow form.film_control
+\i (00:00:19) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' PASTEMASKTOP 
+\i (00:00:22) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_TOP' PASTEMASKTOP 
+\i (00:00:24) FORM film_control filmtree  PASTEMASKTOP 
+\i (00:00:29) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SOLDERMASKBOTTOM 
+\i (00:00:31) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_TOP' SOLDERMASKBOTTOM 
+\i (00:00:32) FORM film_control filmtree  SOLDERMASKBOTTOM 
+\i (00:00:34) FORM film_control filmtree  PIN/SOLDERMASK_TOP SOLDERMASKTOP 
+\i (00:00:34) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' SOLDERMASKTOP 
+\i (00:00:36) FORM film_control filmtree popup Cut 'REF DES/SILKSCREEN_TOP' SOLDERMASKTOP 
+\i (00:00:37) FORM film_control filmtree  SOLDERMASKTOP 
+\i (00:00:39) FORM film_control ok  
+\i (00:00:39) setwindow pcb
+\i (00:00:39) generaledit 
+\i (00:00:40) save 
+\i (00:00:42) fillin yes 
+\i (00:00:42) generaledit 
+\i (00:00:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: PASTEMASKTOP"
+\i (00:00:49) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SILKSCREENTOP"
+\i (00:00:56) change 
+\i (00:01:00) pick grid 14.2525 3.8753
+\t (00:01:00) last pick:  13.9700 3.8100
+\t (00:01:00) No DRC errors detected.
+\t (00:01:00) Changed 1 items out of 1 items found.
+\i (00:01:02) pick grid 1.6622 35.5309
+\t (00:01:02) last pick:  1.9050 35.5600
+\t (00:01:02) No DRC errors detected.
+\t (00:01:02) Changed 1 items out of 1 items found.
+\i (00:01:04) prepopup 35.2064 30.5847
+\i (00:01:05) done 
+\i (00:01:05) generaledit 
+\i (00:01:08) save 
+\i (00:01:09) fillin yes 
+\i (00:01:09) generaledit 
+\i (00:01:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDERMASKBOTTOM"
+\i (00:01:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SOLDERMASKTOP"
+\i (00:01:21) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: ASSEMBLY"
+\i (00:01:25) zoom out 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 49.9550 25.5486
+\i (00:01:25) trapsize 8993
+\i (00:01:28) exit 
+\t (00:01:29)     Journal end - Sun Apr 15 19:47:23 2018

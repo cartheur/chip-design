@@ -1,6 +1,5 @@
 (ExpressProject "Capture Tutorial"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[04/06/18]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -65,13 +64,28 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
-    (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
-  (Folder "Layout")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\CAPTURE TUTORIAL\VIDEO10\CAPTURE TUTORIAL.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Vendor}\t{Manufacturer}\t{Manufacturer Part Number}")
+    (BOM_Header
+       "Item\tQuantity\tReference\tPart\tVendor\tManufacturer\tManufacturer Part Number")
+    (BOM_Include_File
+       "C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\CAPTURE TUTORIAL\VIDEO10\CAPTURE TUTORIAL.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
   (Folder "Outputs"
     (File ".\capture tutorial.drc"
       (Type "Report")
-      (DisplayName ".\capture tutorial.drc")))
+      (DisplayName ".\capture tutorial.drc"))
+    (File ".\capture tutorial.bom"
+      (Type "Report")
+      (DisplayName ".\capture tutorial.bom")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (VCC
@@ -129,35 +143,23 @@
       (Path "Design Resources" ".\capture tutorial.dsn")
       (Path "Design Resources" ".\capture tutorial.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Path "PSpice Resources")
-      (Select "Design Resources" ".\capture tutorial.dsn" "SCHEMATIC1" "PAGE1"))
-    (HierarchyView
-      (Path "SCHEMATIC1"))
+      (Path "Outputs"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 0 0 0 200 0 355"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 355"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1674 24 783")
-        (Scroll "0 714")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399")
+        (Scroll "-282 0")
+        (Zoom "74")
         (Occurrence "/"))
       (Path
-         "C:\AME\AIVENTURE\AIVENTURE-CHIP\FILES\CHIP-DESIGN\CHIP-DESIGN\NOVO\TUTORIALS\CAPTURE\10 - PERFORM SCHEMATIC DRC\CAPTURE TUTORIAL.DSN")
+         "C:\USERS\SHANNONH\DESKTOP\ASSIGNMENTS\PCB_CAPTURE TUTORIALS\CAPTURE TUTORIAL\COMPLETED CAPTURE TUTORIAL\CAPTURE TUTORIAL.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "Jonathan")
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
-  (Folder "PSpice Resources"
-    (Folder "Simulation Profiles")
-    (Folder "Model Libraries"
-      (Sort User))
-    (Folder "Stimulus Files"
-      (Sort User))
-    (Folder "Include Files"
-      (Sort User)))
-  (Folder "Logs"))
+  (MPSSessionName "shannonh")
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
