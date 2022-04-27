@@ -18,7 +18,7 @@ The first thing to do is load the capture and pcb symbol libraries that came wit
 
 * Copy the existing Cadence libraries: File|Open|Library
 
-1. Figure out why a simple part footprint, like a C0201 is _not_ part of the basic library that comes with the software?
+1. Figure out why a simple part footprint, like a C0201 -- the package for the common SMA capacitor/resistor -- is _not_ part of the basic library that comes with the software?
 
 ### Deeper tutorials
 
