@@ -1,4 +1,4 @@
-## OLinuXino - Single-Board Linux Computer
+## A Single-Board Linux Computer
 
 ### THE PROJECT
 
@@ -24,7 +24,7 @@ People keep comparing OLinuXino with Raspberry Pi and BeagleBone project, so we 
 * OLINUXINO has 100Mbit Ethernet port, but there are many low cost $10 WIFI USB modules with Linux drivers like RTL8192 which allow OLINUXINO to connect to internet wireless and to may control relays and sensors without need for LAN wiring.
 * Having small linux module with GPIOs would be handy even to embed it in other products. BeagleBone do not allow the board to be used in commercial projects, there are no restrictions with OLINUXINO
 
-## THE DEVELOPMENT PATH
+### THE DEVELOPMENT PATH
 
 Step 1:
 OLinuXino project started with iMX233 from Freescale for several reasons: this is ARM9 processor running at 454Mhz with enough power to run linux and still in handsolder friendly TQFP package, which allow hobby DIY approach. iMX233-OLinuXino-MICRO is even on 2 layer PCB and running at full speed. The maximum memory of 64MB though limited the applications with it, so we were looking around for something more powerful when A13 from Allwinner came along.
