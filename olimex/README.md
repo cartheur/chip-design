@@ -1,40 +1,30 @@
-OLinuXino - Single-Board Linux Computer, Copyright (C) 2012-2019, OLIMEX Ltd
+## OLinuXino - Single-Board Linux Computer
 
-THE PROJECT:
+### THE PROJECT
 
-OLinuXino is an Open Source Software and Open Source Hardware project, aiming to produce low cost (starting from EUR 24)
-Linux and Android Single Board Computers (SBC) in both commercial and industrial temperature range. Board variants with extra flash memory
-are also available.
+OLinuXino is an Open Source Software and Open Source Hardware project, aiming to produce low cost (starting from EUR 24) Linux and Android Single Board Computers (SBC) in both commercial and industrial temperature range. Board variants with extra flash memory are also available.
 
-People keep comparing OLinuXino with Raspberry Pi and BeagleBone project, so we would like to state some of the differences here:
+People keep comparing OLinuXino with Raspberry Pi and BeagleBone project, so we would like to state some of the differences here. Although the projects are similar there are different goals and implementations:
 
-Although the projects are similar there are different goals and implementations:
+* OLINUXINO is completely open source - including hardware and software, this means you have access to all CAD files and sources and you can reuse them for your own personal or commercial project. There are NO restrictions to manufacture and sell these board for your own use or resale, just keep credits that your board is based on OLinuXino design and make sure to change the silkscreen to not confuse people that you are selling original OLinuXino.
 
-OLINUXINO is completely open source - including hardware and software, this means you have access to all CAD files and sources and you
-can reuse them for your own personal or commercial project. There are NO restrictions to manufacture and sell these board for your own 
-use or resale, just keep credits that your board is based on OLinuXino design and make sure to change the silkscreen to not confuse people that you are selling original OLinuXino.
+* iMX233-OLINUXINO use widely available microcontroller iMX233 which cost USD 5.50 in 100 pcs quantity, this means that people can spin off their own boards and manufacture them cheap as the processor is in TQFP easy to assembly by hobbyist package.
 
-iMX233-OLINUXINO use widely available microcontroller iMX233 which cost USD 5.50 in 100 pcs quantity, this means that people can spin 
-off their own boards and manufacture them cheap as the processor is in TQFP easy to assembly by hobbyist package.
+* RASPBERRY PI have not released CAD files nor complete schematics, RPi uses processor from Broadcom which is not available for sale in small quantity, it uses BGA package which require expensive setup to assembly. RPi is designed to be home gadget, OLINUXINO variants can work in industrial environment -25+85C and are designed to be low cost but NOISE immune.
 
-RASPBERRY PI have not released CAD files nor complete schematics, RPi uses processor from Broadcom which is not available for sale in 
-small quantity, it uses BGA package which require expensive setup to assembly. RPi is designed to be home gadget, OLINUXINO viarnatns
-can work in industrial environment -25+85C and are designed to be low cost but NOISE immune.
+* BeagleBone have open source CAD hardware files but uses BGA processor and BB board is very complex and hard to manufacture in small quantities.
 
-BeagleBone have open source CAD hardware files but uses BGA processor and BB board is very complex and hard to manufacture in small 
-quantities.
+* iMX233-OLINUXINO uses processor on 454Mhz and have less memory and will not allow fancy graphics, but this is not our intention.
 
-iMX233-OLINUXINO uses processor on 454Mhz and have less memory and will not allow fancy graphics, but this is not our intention.
+### Potential applications for OLINUXINO
 
-To name few potential applications for OLINUXINO:
+* 3D rep-rap printer controller including G-code interpreter - now all 3D printers use PC/Laptop connected to Arduino stepper driver, this board will handle both without problem
+* Low cost PLC running open source PLC porgramming languages
+* Home Automation - connecting GSM module or Zigbee sensors would be easy with the existing UEXT connector
+* OLINUXINO has 100Mbit Ethernet port, but there are many low cost $10 WIFI USB modules with Linux drivers like RTL8192 which allow OLINUXINO to connect to internet wireless and to may control relays and sensors without need for LAN wiring.
+* Having small linux module with GPIOs would be handy even to embed it in other products. BeagleBone do not allow the board to be used in commercial projects, there are no restrictions with OLINUXINO
 
-- 3D rep-rap printer controller including G-code interpreter - now all 3D printers use PC/Laptop connected to Arduino stepper driver, this board will handle both without problem
-- Low cost PLC running open source PLC porgramming languages
-- Home Automation - connecting GSM module or Zigbee sensors would be easy with the existing UEXT connector
-- OLINUXINO has 100Mbit Ethernet port, but there are many low cost $10 WIFI USB modules with Linux drivers like RTL8192 which allow OLINUXINO to connect to internet wireless and to may control relays and sensors without need for LAN wiring.
-- Having small linux module with GPIOs would be handy even to embed it in other products. BeagleBone do not allow the board to be used in commercial projects, there are no restrictions with OLINUXINO
-
-THE DEVELOPMENT PATH:
+## THE DEVELOPMENT PATH
 
 Step 1:
 OLinuXino project started with iMX233 from Freescale for several reasons: this is ARM9 processor running at 454Mhz with enough power to run linux and still in handsolder friendly TQFP package, which allow hobby DIY approach. iMX233-OLinuXino-MICRO is even on 2 layer PCB and running at full speed. The maximum memory of 64MB though limited the applications with it, so we were looking around for something more powerful when A13 from Allwinner came along.
@@ -72,25 +62,19 @@ Step 10:
 ... we don't know yet, there are lot of candidates, but we start to become a little picky. To start the development of new OSHW OLinuXino board we will look at least the SOC to have proper Linux Support as we are really overwhelmed of the tons of new SOCs released with just Android and binary blobs.
 Rockchip is doing very good job recently releasing mainline Linux support for their devices.
 
-WEB RESOURCES:
+### RESOURCES
 
 http://www.olimex.com - OLIMEX Ltd web site where the OLinuXino board info is hosted
-
 https://github.com/OLIMEX/OLINUXINO - GitHub web site hosting the Hardware and Software sources
-
 https://www.olimex.com/forum/index.php - Olimex forum for OLinuXino project discussions
 
 OLinuXino IRC channel: join #olimex on irc.freenode.net , alternatively use http://webchat.freenode.net/?channels=olimex for web IRC chat
 
-LICENSEE:
+### LICENSE
 
 HARDWARE
 The Hardware project is released under the Creative Commons Attribution-Share Alike 3.0 United States License.
-You may reproduce it for both your own personal use, and for commercial use. 
-You will have to provide a link to the original creator of the project http://www.olimex.com on any documentation or website.
-You may also modify the files, but you must then release them as well under the same terms.
-Credit can be attributed through a link to the creator website: http://www.olimex.com
-You should alter the silkscreen to not confuse people who buy your product that they buy original OLinuXino made by Olimex.
+You may reproduce it for both your own personal use, and for commercial use. You will have to provide a link to the original creator of the project http://www.olimex.com on any documentation or website. You may also modify the files, but you must then release them as well under the same terms. Credit can be attributed through a link to the creator website: http://www.olimex.com. You should alter the silkscreen to not confuse people who buy your product that they buy original OLinuXino made by Olimex.
 
 SOFTWARE
 The software is released under GPL3.
